@@ -1,7 +1,7 @@
 <channels>
 <channel>
 <name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO [/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/B-LS-COL-FCFN-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/B-LS-COL-SPTR-ALL</externallink>
 <thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>		
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
@@ -20,28 +20,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Alien (6 Filmes)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/B1-COL-Alien-ALL</externallink>
-<thumbnail>https://i.ibb.co/9T4Z7NT/ALIEN-COL.png</thumbnail>
-<fanart>https://i.ibb.co/SJpBGNY/ALIEN-FAN.png</fanart>
-<info>Assista aqui os filmes da coleção Alien 
-[COLOR orange][B]FICÇÃO E FANTASIA[/B][/COLOR]
-[COLOR orange][B]6 FILMES[/B][/COLOR]
-[COLOR orange][B]ANOS - (1979 a 2017)[/B][/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]Alien vs. Predador (2 Filmes)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/B2-COL-Alien.X.Predador-ALL</externallink>
-<thumbnail>https://i.ibb.co/jbjN1yt/ALIENXPRED-COL.png</thumbnail>
-<fanart>https://i.ibb.co/BLvS9Tk/ALIENXPRED-FAN.png</fanart>
-<info>Assista aqui os filmes da coleção Alien vs. Predador 
-[COLOR orange][B]FICÇÃO E FANTASIA[/B][/COLOR]
-[COLOR orange][B]2 FILMES[/B][/COLOR]
-[COLOR orange][B]ANOS - (2004 e 2007)[/B][/COLOR]</info>
+<name>[COLOR white][B]A Orfa (02 Filmes)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/B11-COL-A.Orfa-ALL</externallink>
+<thumbnail>https://i.ibb.co/4NmcqpB/A-ORFA-ICON-COL.png</thumbnail>
+<fanart>https://i.ibb.co/4JW1FcP/A-ORFA-FAN-COL.png</fanart>
+<info>Assista a coleção A Orfa. 
+[COLOR orange][B]SUSPENSE E TERROR[/B][/COLOR]
+[COLOR orange][B]02 FILMES[/B][/COLOR]
+[COLOR orange][B]ANOS - 2009 a 2022[/B][/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -57,6 +43,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "D"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+<channels>
+<channel>
+<name>[COLOR white][B]Dracula (08 Filmes)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/B10-COL-Dracula-ALL</externallink>
+<thumbnail>https://i.ibb.co/TR1hPPQ/DRACULA-ICON.png</thumbnail>
+<fanart>https://i.ibb.co/CW6XmNw/DRACULA-FAN.png</fanart>
+<info>Assista a coleção Dracula. 
+[COLOR orange][B]SUSPENSE E TERROR[/B][/COLOR]
+[COLOR orange][B]08 FILMES[/B][/COLOR]
+[COLOR orange][B]ANOS - 1979 a 2015[/B][/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "E"				
@@ -78,6 +78,34 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "I"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
+<channels>
+<channel>
+<name>[COLOR white][B]Invasão Zumbi (2 Filmes)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/B9-COL-Invasao.Zumbi-ALL</externallink>
+<thumbnail>https://i.ibb.co/6BDfJms/INV-ZUMBI-COL.png</thumbnail>
+<fanart>https://i.ibb.co/vB23zz1/INV-ZUMBI-FAN.png</fanart>
+<info>Assista aqui os filmes da coleção Invasão Zumbi 
+[COLOR orange][B]SUSPENSE E TERROR[/B][/COLOR]
+[COLOR orange][B]2 FILMES[/B][/COLOR]
+[COLOR orange][B]ANOS - (2016 a 2020)[/B][/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Invocação do Mal (3 Filmes)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/B7-COL-Invocasao.do.Mal-ALL</externallink>
+<thumbnail>https://i.ibb.co/T0bpMXm/INV-MAL-COL.png</thumbnail>
+<fanart>https://i.ibb.co/6Jp4YcW/INV-MAL-FAN.png</fanart>
+<info>Assista aqui os filmes da coleção Invocação do Mal 
+[COLOR orange][B]SUSPENSE E TERROR[/B][/COLOR]
+[COLOR orange][B]3 FILMES[/B][/COLOR]
+[COLOR orange][B]ANOS - (2013 a 2021)[/B][/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "J"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
@@ -94,20 +122,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "M"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
-<channels>
-<channel>
-<name>[COLOR white][B]Malévola (2 Filmes)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/B3-COL-Malevola-ALL</externallink>
-<thumbnail>https://i.ibb.co/1TrRgmX/MALEVOLA-COL.png</thumbnail>
-<fanart>https://i.ibb.co/dWSVht6/MALEVOLA-FAN.png</fanart>
-<info>Assista aqui os filmes da coleção Malévola
-[COLOR orange][B]FICÇÃO E FANTASIA[/B][/COLOR]
-[COLOR orange][B]2 FILMES[/B][/COLOR]
-[COLOR orange][B]ANOS - (2014 e 2019)[/B][/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "N"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
@@ -118,14 +132,42 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]O Vingador do Futuro (02 Filmes)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/B5-COL-Total.Recall-ALL</externallink>
-<thumbnail>https://i.ibb.co/gD72WYv/TOTAL-RECALL-ICON.png</thumbnail>
-<fanart>https://i.ibb.co/6YBVy1t/TOTAL-RECALL-FAN.png</fanart>
-<info>Assista a coleção O Vingador do Futuro. 
-[COLOR orange][B]FICÇÃO E FANTASIA[/B][/COLOR]
-[COLOR orange][B]02 FILMES[/B][/COLOR]
-[COLOR orange][B]ANOS - 1990 e 2012[/B][/COLOR]</info>
+<name>[COLOR white][B]O Albergue (3 Filmes)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/B4-COL-O.Albergue-ALL</externallink>
+<thumbnail>https://i.ibb.co/JmCpdff/ALBERGUE-COL.png</thumbnail>
+<fanart>https://i.ibb.co/tJrbZnB/ALBERGUE-FAN.png</fanart>
+<info>Assista aqui os filmes da coleção O Albergue 
+[COLOR orange][B]SUSPENSE E TERROR[/B][/COLOR]
+[COLOR orange][B]3 FILMES[/B][/COLOR]
+[COLOR orange][B]ANOS - (2006 a 2011)[/B][/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]O Homem nas Trevas (2 Filmes)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/B3-COL-O.Homem.nas.Trevas-ALL</externallink>
+<thumbnail>https://i.ibb.co/ZLRhBhL/HOM-TREVAS-COL.png</thumbnail>
+<fanart>https://i.ibb.co/zGM9cWq/HOM-TREVAS-FAN.png</fanart>
+<info>Assista aqui os filmes da coleção O Homem nas Trevas 
+[COLOR orange][B]SUSPENSE E TERROR[/B][/COLOR]
+[COLOR orange][B]2 FILMES[/B][/COLOR]
+[COLOR orange][B]ANOS - (2016 e 2021)[/B][/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]O Homem Sem Sombra (3 Filmes)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/B2-COL-O.Homem.Sem.Sombra-ALL</externallink>
+<thumbnail>https://i.ibb.co/0nLKLBy/INVIB-MAN-ICON.png</thumbnail>
+<fanart>https://i.ibb.co/mcNr7jq/INVIB-MAN-FAN.png</fanart>
+<info>Assista aqui os filmes da coleção O Homem Sem Sombra. 
+[COLOR orange][B]SUSPENSE E TERROR[/B][/COLOR]
+[COLOR orange][B]3 FILMES[/B][/COLOR]
+[COLOR orange][B]ANOS - (2000 a 2020)[/B][/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -136,14 +178,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Predador (05 Filmes)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/B4-COL-Predador-ALL</externallink>
-<thumbnail>https://i.ibb.co/LP690m5/PREDADOR-COL.png</thumbnail>
-<fanart>https://i.ibb.co/5nyN2mQ/PREDADOR-FAN.png</fanart>
-<info>Assista a coleção Predador. 
-[COLOR orange][B]FICÇÃO E FANTASIA[/B][/COLOR]
-[COLOR orange][B]05 FILMES[/B][/COLOR]
-[COLOR orange][B]ANOS - 1987 a 2022[/B][/COLOR]</info>
+<name>[COLOR white][B]Psicose (5 Filmes)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/B1-COL-Psicose-ALL</externallink>
+<thumbnail>https://i.ibb.co/yfF42RD/PSICOSE-ICON.png</thumbnail>
+<fanart>https://i.ibb.co/gwhmtgS/PSICOSE-FAN.png</fanart>
+<info>Assista aqui os filmes da coleção Psicose 
+[COLOR orange][B]SUSPENSE E TERROR[/B][/COLOR]
+[COLOR orange][B]5 FILMES[/B][/COLOR]
+[COLOR orange][B]ANOS - (1960 a 1990)[/B][/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -160,13 +202,55 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "S"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
+<channels>
+<channel>
+<name>[COLOR white][B]Sherlock Holmes (2 Filmes)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/B5-COL-Sherlock.Holmes-ALL</externallink>
+<thumbnail>https://i.ibb.co/cCx3x5F/SHERLOK-HOLMES-COL.png</thumbnail>
+<fanart>https://i.ibb.co/1ffnb4X/SHERLOK-HOLMES-FAN.png</fanart>
+<info>Assista aqui os filmes da coleção Sherlock Holmes 
+[COLOR orange][B]SUSPENSE E TERROR[/B][/COLOR]
+[COLOR orange][B]2 FILMES[/B][/COLOR]
+[COLOR orange][B]ANOS - (2009 e 2011)[/B][/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "T"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
+<channels>
+<channel>
+<name>[COLOR white][B]The Thing (2 Filmes)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/B8-COL-The.Thing-ALL</externallink>
+<thumbnail>https://i.ibb.co/bbP3VGM/T-THING-COL.png</thumbnail>
+<fanart>https://i.ibb.co/sQzyk07/T-THING-FAN.png</fanart>
+<info>Assista aqui os filmes da coleção The Thing 
+[COLOR orange][B]SUSPENSE E TERROR[/B][/COLOR]
+[COLOR orange][B]2 FILMES[/B][/COLOR]
+[COLOR orange][B]ANOS - (1982 e 2011)[/B][/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "U"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+<channels>
+<channel>
+<name>[COLOR white][B]Um Lugar Silencioso (2 Filmes)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/B6-COL-Um.Lugar.Silencioso-ALL</externallink>
+<thumbnail>https://i.ibb.co/QHZc2vK/SILENT-PLACE-COL.png</thumbnail>
+<fanart>https://i.ibb.co/mF5QSWt/SILENT-PLACE-FAN.png</fanart>
+<info>Assista aqui os filmes da coleção Nomedacoleção 
+[COLOR orange][B]SUSPENSE E TERROR[/B][/COLOR]
+[COLOR orange][B]2 FILMES[/B][/COLOR]
+[COLOR orange][B]ANOS - (2018 e 2021)[/B][/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "V"				
@@ -193,7 +277,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR black].[/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/B-LS-COL-FCFN-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/1-CATEGORIAS-ALL</externallink>
 <thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
 </channel>
@@ -202,8 +286,19 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]VOLTAR AO MENU DO GÊNERO FICÇÃO E FANTASIA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/1-LS-SEL-FCFN-ALL</externallink>
+<name>[COLOR orange][B]MENU DE RETORNO[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/1-CATEGORIAS-ALL</externallink>
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]VOLTAR AO MENU DO GÊNERO SUSPENSE E TERROR[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/main/1-LS-SEL-SPTR-ALL</externallink>
 <thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
@@ -214,7 +309,51 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]VOLTAR AO MENU DE GÊNEROS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-FLMS-ALL/main/2-SEL-GEN-FLM-LS-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/2A-SEL-GEN-FLM-LS-ALL</externallink>
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]VOLTAR AO MENU DE NOVIDADES DA SEMANA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/7-SEL-NEWS-ALL</externallink>
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]VOLTAR AO MENU DE NOSTALGIA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/5-SEL-NSTLG-ALL</externallink>
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]VOLTAR AO MENU DE ESPECIAIS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/4-SEL-ESPC-ALL</externallink>
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]VOLTAR AO MENU DE SÉRIES[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/3-SEL-SRS-ALL</externallink>
 <thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
@@ -225,7 +364,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]VOLTAR AO MENU DE FILMES[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-FLMS-ALL/main/1-SEL-FLMS-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/2-SEL-FLMS-ALL</externallink>
 <thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
@@ -236,7 +375,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]VOLTAR AO MENU GERAL[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/B1-MENU-LS-CAT-MTX/main/A-CATEGORIAS-MTX</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/1-CATEGORIAS-ALL</externallink>
 <thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
