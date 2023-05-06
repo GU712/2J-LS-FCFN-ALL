@@ -1,16 +1,16 @@
-<item>		
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>		
-<link>NOLINK</link>		
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>		
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>		
-<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>		
-</item>		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+<item>				
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>				
+<link>NOLINK</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>				
+<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>				
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 		
 <item>		
 <title>[COLOR white][B]O Predador (1987)[/B][/COLOR]</title>		
-<link>plugin://plugin.video.youtube/play/?video_id=gLdZsiISCVY$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Predador[/B][/COLOR]</link>		
+<link>plugin://plugin.video.tubemusic/?video_id=gLdZsiISCVY$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Predador[/B][/COLOR]</link>		
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aa0ab57f46e82f70e926c666633aa6cf73748ab1$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Predador - HD DUB[/B][/COLOR]</link>		
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8DBF2F66AF7F27E60B2D69EC98DEF1A1C7EF35E1$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Predador - FHD DUAL[/B][/COLOR]</link>		
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FA0A304B70C8B7FFBACFD68F9FAAF4EBD60EA3A8$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Predador - UFHD 4K DUAL[/B][/COLOR]</link>		
@@ -24,7 +24,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 		
 <item>		
 <title>[COLOR white][B]O Predador 2: A Caçada Continua (1990)[/B][/COLOR]</title>		
-<link>plugin://plugin.video.youtube/play/?video_id=V5914DExriw$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Predador 2 - A Cazada Continua[/B][/COLOR]</link>		
+<link>plugin://plugin.video.tubemusic/?video_id=V5914DExriw$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Predador 2 - A Cazada Continua[/B][/COLOR]</link>		
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D12461933392716BCE074E49E5732933099CDC30$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Predador 2 - A Cazada Continua - HD DUAL[/B][/COLOR]</link>		
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A094F34E2C2F6BCED9A85F1D06719BD2A862370C$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Predador 2 - A Cazada Continua - FHD DUAL[/B][/COLOR]</link>		
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:99C9F31F5BAD88EBA35ADF3CBCAAC6A8818F4E3C$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Predador 2 - A Cazada Continua - UFHD 4K DUAL[/B][/COLOR]</link>		
@@ -38,7 +38,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 		
 <item>		
 <title>[COLOR white][B]Predadores (2010)[/B][/COLOR]</title>		
-<link>plugin://plugin.video.youtube/play/?video_id=1HCjTUyUjMI$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Predadores[/B][/COLOR]</link>		
+<link>plugin://plugin.video.tubemusic/?video_id=1HCjTUyUjMI$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Predadores[/B][/COLOR]</link>		
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2E872E003D7CBAD72777DE602B958E8DD7560EC1$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Predadores - HD DUAL[/B][/COLOR]</link>		
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5F17890EB2E15A5860BCFEBB6EEB58D79346136F$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Predadores - FHD DUAL[/B][/COLOR]</link>		
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9EEC990032DB044CD46813E2D23509C82C460199$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Predadores - UFHD 4K DUAL[/B][/COLOR]</link>		
@@ -53,7 +53,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>		
 <title>[COLOR white][B]O Predador (2018)[/B][/COLOR]</title>		
 		
-<link>plugin://plugin.video.youtube/play/?video_id=WaG1KZqrLvM$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Predador[/B][/COLOR]</link>		
+<link>plugin://plugin.video.tubemusic/?video_id=WaG1KZqrLvM$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Predador[/B][/COLOR]</link>		
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4DA7CC3A95534C1144DE927D3D0125D6F3B99A4D$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Predador - HD DUAL[/B][/COLOR]</link>		
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0BBBCD9233BF25EDB242929079290BF9A496750A$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Predador - FHD DUAL[/B][/COLOR]</link>		
 		
@@ -69,7 +69,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 		
 <item>		
 <title>[COLOR white][B]O Predador: A Caçada (2022)[/B][/COLOR]</title>		
-<link>plugin://plugin.video.youtube/play/?video_id=CHFr3FCJN6c$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Predador - A Cazada[/B][/COLOR]</link>		
+<link>plugin://plugin.video.tubemusic/?video_id=CHFr3FCJN6c$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Predador - A Cazada[/B][/COLOR]</link>		
 		
 link>plugin://plugin.video.elementum/play?uri=<LINKMAGANETPARAOFILME>$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Predador - A Cazada - HD DUAL[/B][/COLOR]</link>		
 		
@@ -83,24 +83,32 @@ link>plugin://plugin.video.elementum/play?uri=<LINKMAGANETPARAOFILME>$nome=[COLO
 </item>		
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
 		
-<item>				
+<item>
 <title>[COLOR black].[/COLOR]</title>				
 <link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
 </item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR orange][B]O VÍDEO NÃO ABRIU ?[/B][/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+</item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-<item>				
-<title>[COLOR orange][B]NÃO ENCONTROU O QUE PROCURAVA ?[/B][/COLOR]</title>				
+<item>
+<title>[COLOR orange][B]NÃO ENCONTROU O QUE QUERIA ?[/B][/COLOR]</title>				
 <link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
 </item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-<item>				
-<title>[COLOR orange][B]SOLICITE AO SUPORTE NO WHATS.[/B][/COLOR]</title>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+	
+<item>
+<title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
 <link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
-</item>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+</item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
