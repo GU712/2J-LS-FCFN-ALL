@@ -5,8 +5,8 @@
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>				
 <info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>				
 </item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 		
 <item>
 <title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Predador (1987) - FHD DUAL+LEG[/B][/COLOR]</title>
@@ -23,67 +23,82 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 		
-<item>		
-<title>[COLOR white][B]O Predador 2: A Caçada Continua (1990)[/B][/COLOR]</title>		
-<link>plugin://plugin.video.tubemusic/?video_id=V5914DExriw$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Predador 2 - A Cazada Continua[/B][/COLOR]</link>		
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D12461933392716BCE074E49E5732933099CDC30$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Predador 2 - A Cazada Continua - HD DUAL[/B][/COLOR]</link>		
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A094F34E2C2F6BCED9A85F1D06719BD2A862370C$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Predador 2 - A Cazada Continua - FHD DUAL[/B][/COLOR]</link>		
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:99C9F31F5BAD88EBA35ADF3CBCAAC6A8818F4E3C$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Predador 2 - A Cazada Continua - UFHD 4K DUAL[/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Predador/LS-Predador.2.A.Cazada.Continua.1990.FHD.DUL+LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Predador 2 - A Cazada Continua - FHD DUAL+LEG[/B][/COLOR]</link>		
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Predador 2: A Caçada Continua (1990) - FHD DUAL+LEG[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Predador/LS-1990.Predador.2.A.Cazada.Continua.1990.FHD.DUAL+LEG.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/sTaSUR11QJZKqQQ40dGahiWQWZw.jpg</thumbnail>		
-<fanart>https://www.themoviedb.org/t/p/original/tqYAfDloa6YgZpKnVJ401Xu4ky.jpg</fanart>		
-<info>Silencioso. Invisível. Invencível. Ele está na cidade com alguns dias para matar.</info>		
-<genre>FICÇÃO E FANTASIA</genre>		
-</item>		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+<fanart>https://www.themoviedb.org/t/p/original/tqYAfDloa6YgZpKnVJ401Xu4ky.jpg</fanart>	
+<info>[COLOR white]Assista aqui o filme: 
+[B]O Predador 2: A Caçada Continua
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1990
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Um alienígena predador, invisível e equipado com armas poderosas, desembarca em Los Angeles, devastada pelo conflito de gangues de traficantes rivais, para iniciar seu festival de matança, deixando um rastro de corpos mutilados em seu caminho.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 		
-<item>		
-<title>[COLOR white][B]Predadores (2010)[/B][/COLOR]</title>		
-<link>plugin://plugin.video.tubemusic/?video_id=1HCjTUyUjMI$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Predadores[/B][/COLOR]</link>		
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2E872E003D7CBAD72777DE602B958E8DD7560EC1$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Predadores - HD DUAL[/B][/COLOR]</link>		
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5F17890EB2E15A5860BCFEBB6EEB58D79346136F$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Predadores - FHD DUAL[/B][/COLOR]</link>		
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9EEC990032DB044CD46813E2D23509C82C460199$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Predadores - UFHD 4K DUAL[/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Predador/LS-Predadores.2010.FHD.DUAL+LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Predadores - FHD DUAL+LEG[/B][/COLOR]</link>		
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Predadores (2010) - FHD DUAL+LEG[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Predador/LS-2010.Predadores.FHD.DUAL+LEG.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/46pJsCB2y8pfmKTNRplcBX03Fqx.jpg</thumbnail>		
-<fanart>https://www.themoviedb.org/t/p/original/zWhEhVvswpKolTp1rmUdK30mMov.jpg</fanart>		
-<info>A temporada de caça está aberta. Agora em território inimigo.</info>		
-<genre>FICÇÃO E FANTASIA</genre>		
-</item>		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+<fanart>https://www.themoviedb.org/t/p/original/zWhEhVvswpKolTp1rmUdK30mMov.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Predadores
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD HD SD DUB DUAL+LEG FIX
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2010
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Em um planeta misterioso, um mercenário e um grupo de assassinos a sangue a frio agora são presas. Uma nova raça de alienígenas persegue os humanos pela floresta densa e o grupo precisa se unir se não quiser virar troféu dos caçadores intergalácticos.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Predador: Dark Ages (2015) - FHD DUB[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Predador/LS-2015.Predador.Dark.Ages.FHD.DUB.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uiFRqnPrP1nCpVBWzTAnYeoWTKF.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7id1RMplhzSMpQPfIbsh8fSW18F.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Predador: Dark Ages 
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUB
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2015
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Um grupo de cavaleiros Templários devastados pela guerra que são postos à prova contra uma fera estranha que persegue as terras da Inglaterra. É desta batalha que são feitos Mitos e Lendas.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 		
-<item>		
-<title>[COLOR white][B]O Predador (2018)[/B][/COLOR]</title>		
-		
-<link>plugin://plugin.video.tubemusic/?video_id=WaG1KZqrLvM$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Predador[/B][/COLOR]</link>		
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4DA7CC3A95534C1144DE927D3D0125D6F3B99A4D$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Predador - HD DUAL[/B][/COLOR]</link>		
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0BBBCD9233BF25EDB242929079290BF9A496750A$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Predador - FHD DUAL[/B][/COLOR]</link>		
-		
-link>plugin://plugin.video.elementum/play?uri=<LINKMAGANETPARAOFILME>$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Predador - HD DUAL[/B][/COLOR]</link>		
-		
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Predador/LS-O.Predador.2018.FHD.DUAL.+LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Predador - FHD DUAL+LEG[/B][/COLOR]</link>		
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Predador (2018) - FHD DUB[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/2:/FLMS/10FCFN-CL/Predador/LS-2018.O.Predador.FHD.DUB.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/ueV3nwRirpfKbclCThgaZUcVAbo.jpg</thumbnail>		
-<fanart>https://www.themoviedb.org/t/p/original/cCz1uWakOmxhIcoyX3U6Afyl5Ju.jpg</fanart>		
-<info>A caçada evoluiu.</info>		
-<genre>FICÇÃO E FANTASIA</genre>		
-</item>		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+<fanart>https://www.themoviedb.org/t/p/original/cCz1uWakOmxhIcoyX3U6Afyl5Ju.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]O Predador
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUB
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2018
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Uma perseguição entre naves alienígenas traz à Terra um novo predador, que acaba sendo capturado por humanos. Antes disso, ele tem seu capacete e bracelete roubados por Quinn McKenna, um atirador de elite que estava em missão no local onde a nave caiu. 
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 		
-<item>		
-<title>[COLOR white][B]O Predador: A Caçada (2022)[/B][/COLOR]</title>		
-<link>plugin://plugin.video.tubemusic/?video_id=CHFr3FCJN6c$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Predador - A Cazada[/B][/COLOR]</link>		
-		
-link>plugin://plugin.video.elementum/play?uri=<LINKMAGANETPARAOFILME>$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Predador - A Cazada - HD DUAL[/B][/COLOR]</link>		
-		
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VUEKOYKBUPRNPEDKV4JRTGEISZLE27VY$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Predador - A Cazada - FHD DUAL[/B][/COLOR]</link>		
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9e64e03d4f71b6d149240abc8e3d3c74a08d9041$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Predador - A Cazada - UFHD 4K DUAL[/B][/COLOR]</link>		
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Predador/LS-O.Predador.A.Cazada.2022.FHD.DUAL+LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Predador - A Cazada - FHD DUAL+LEG[/B][/COLOR]</link>		
+<item>
+<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Predador: A Caçada (2022) - FHD DUAL+LEG[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Predador/LS-2022.O.Predador.A.Cazada.FHD.DUAL+LEG.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/g7Ii9sYAFG96W7cvMQ4zXq39RJ5.jpg</thumbnail>		
-<fanart>https://www.themoviedb.org/t/p/original/sNhzcUw5cg4JwICjnHZ5XhTKNrU.jpg</fanart>		
-<info>Eles caçam para viver. Ele vive para caçar.</info>		
-<genre>FICÇÃO E FANTASIA</genre>		
-</item>		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+<fanart>https://www.themoviedb.org/t/p/original/sNhzcUw5cg4JwICjnHZ5XhTKNrU.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]O Predador: A Caçada
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD HD SD DUB DUAL+LEG FIX
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2022
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Uma jovem guerreira altamente qualificada, desesperada para proteger seu povo do perigo iminente. Ela persegue e finalmente confronta sua presa, que acaba sendo um predador alienígena altamente evoluído com um arsenal tecnologicamente avançado, resultando em um confronto brutal e aterrorizante entre os adversários.
+[/COLOR]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[COLOR black].[/COLOR]</title>				
 <link>ignoreme</link>				
@@ -105,7 +120,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-	
 <item>
 <title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
 <link>ignoreme</link>				
