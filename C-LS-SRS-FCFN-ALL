@@ -104,7 +104,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]As Crônicas de Sarah Connor (2008) - COMPLETA[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]As Crônicas de Sarah Connor (2008) - COMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/C4-SRS-O.Ext.do.Futuro.Cron.Sarah.Connor-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/6qRyKBpsR7ORvLak9ZGkSF7Da5y.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/4mHJ4WX8Egx3MAss1CTKOKxTrgH.jpg</fanart>
@@ -112,7 +112,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [B]As Crônicas de Sarah Connor
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2008
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO E FANTASIA
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPs - 31 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Cansada de fugir de assassinos do futuro e policiais do presente, Sarah Connor decide se preparar para lutar contra as máquina do futuro que tentam sumariamente eliminá-la assim como a proteger seu filho John, predestinado a salvar a raça humana.
 [/COLOR]</info>
@@ -178,6 +178,24 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange][B]FICÇÃO E FANTASIA[/B][/COLOR]
 [COLOR orange][B]07 TEMPS - 156 EPs[/B][/COLOR]
 [COLOR orange][B]ANOS - 2011 a 2017[/B][/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Espaço: 1999 (1975–1977) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/C32-SRS-Espaso.1999-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/4xq1CJUoyyhV6RGjAKGuPN9oXvz.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6EXLiTlqxtdB2EVclMcTr4QG1g.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Espaço: 1999
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1975 a 1977
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPs - 48 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A tripulação do Moonbase Alpha deve lutar para sobreviver quando uma enorme explosão lança a Lua da órbita para o espaço profundo.
+[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
