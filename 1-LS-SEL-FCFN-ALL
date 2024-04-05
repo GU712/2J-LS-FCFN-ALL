@@ -30,6 +30,23 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
+<name>[COLOR white][B]SÉRIES DE FICÇÃO E FANTASIA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/C-LS-SRS-FCFN-ALL</externallink>
+<thumbnail>https://i.ibb.co/RBsMR2b/FIC-FAN-SRS-ALL.png</thumbnail>
+<info>[COLOR white]Conheça a seção: 
+[B]SÉRIES DE FICÇÃO E FANTASIA
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Uma seção que envolve dois gêneros com histórias de cunho fantástico com situações fictícias em mundos estranhos ou épocas passadas e futuras onde a realidade é distorcida e reinventada.
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema. 
+Não encontrou o que queria ? 
+Peça ao SUPORTE AO USUÁRIO
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
 <name>[COLOR white][B]COLEÇÕES DE FILMES DE FICÇÃO E FANTASIA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/B-LS-COL-FCFN-ALL</externallink>
 <thumbnail>https://i.ibb.co/C8Rk9Rb/FIC-FAN-COL-ALL.png</thumbnail>
@@ -48,11 +65,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]SÉRIES DE FICÇÃO E FANTASIA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/C-LS-SRS-FCFN-ALL</externallink>
-<thumbnail>https://i.ibb.co/RBsMR2b/FIC-FAN-SRS-ALL.png</thumbnail>
+<name>[COLOR white][B]COLEÇÕES ESPECIAIS DE FICÇÃO E FANTASIA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/D-COL-ESP-FCFN-ALL</externallink>
+<thumbnail>https://i.ibb.co/C8Rk9Rb/FIC-FAN-COL-ALL.png</thumbnail>
+<fanart>https://i.ibb.co/mBMvjrB/FIC-FAN-FAN-ALL.png</fanart>
 <info>[COLOR white]Conheça a seção: 
-[B]SÉRIES DE FICÇÃO E FANTASIA
+[B]COLEÇÕES DE FILMES DE FICÇÃO E FANTASIA
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Uma seção que envolve dois gêneros com histórias de cunho fantástico com situações fictícias em mundos estranhos ou épocas passadas e futuras onde a realidade é distorcida e reinventada.
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema. 
