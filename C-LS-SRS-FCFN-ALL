@@ -62,20 +62,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]A Mulher Biônica (1976-1977) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/C9-SRS-A.Mulher.Bionica-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/3F7UqtBXwNhOw6oUuK90xQs53R8.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/ii38ZGkxKJUuRMUlsrYYVwx5SDg.jpg</fanart>
-<info>Assista a série A Mulher Biônica. 
-[COLOR orange][B]FICÇÃO E FANTASIA[/B][/COLOR]
-[COLOR orange][B]03 TEMPS - 58  EPs[/B][/COLOR]
-[COLOR orange][B]ANOS - 1976 a 1977[/B][/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
 <name>[COLOR white][B]Ark II (1976) - COMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/C11-SRS-Ark.II-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/o3RC6RPrbyalYbawK2Z9i8TKsEd.jpg</thumbnail>
@@ -210,7 +196,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Fallout (2024) - COMPLETA[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Fallout (2024) - COMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/C36-SRS-Fallout.2024-ALL</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/AnsSKR9LuK0T9bAOcPVA3PUvyWj.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/fcz8CMhJbQfHmUgkVHPeYboeqy8.jpg</fanart>
@@ -378,20 +364,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]O Homem de Seis Milhões de Dólares (1973-1978)- ATUALIZANDO [/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/C8-SRS-Steve.Austin-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/2ibfj81IVomgRXh4Lo1UuOBhe9n.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/iJjKtF8cemXaBqGStQrC0YbAkFY.jpg</fanart>
-<info>Assista a série O Homem de Seis Milhões de Dólares. 
-[COLOR orange][B]FICÇÃO E FANTASIA[/B][/COLOR]
-[COLOR orange][B]05 TEMPS - 99  EPs[/B][/COLOR]
-[COLOR orange][B]ANOS - 1973 a 1978[/B][/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
 <name>[COLOR white][B]O Homem do Fundo do Mar (1977) - COMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/C3-SRS-Man.of.Atlantis-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/f5WOAtEMUdQMVQJKVfMge6GBaBQ.jpg</thumbnail>
@@ -481,6 +453,24 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO E FANTASIA
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 30 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Dois cientistas de um projeto do governo norte-americano que produz uma máquina do tempo, se perdem no tempo e são monitorados por uma equipe que permanece no laboratório e os acompanham em seus deslocamentos
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Os Biônicos (Séries)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/D01B-SRS-Os.Bionicos-ALL</externallink>
+<thumbnail>https://i.ibb.co/hKvf4yt/COL-BIONIC-SRS-ALL.png</thumbnail>
+<fanart>https://i.ibb.co/2Fdwqxy/COL-BIONIC-FAN-ALL.png</fanart>
+<info>[COLOR white]Conheça a seção de séries: 
+[B]Os Biônicos
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+Não encontrou o que queria ? 
+Peça ao SUPORTE AO USUÁRIO
 [/COLOR]</info>
 </channel>
 </channels>
