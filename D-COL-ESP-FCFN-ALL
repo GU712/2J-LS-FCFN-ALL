@@ -1,7 +1,7 @@
 <channels>
 <channel>
 <name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/1-LS-SEL-FCFN-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/D-COL-ESP-FCFN-ALL</externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
@@ -120,8 +120,26 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Star Wars (Filmes - Séries - Desenhos)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/D04-COL-Star.Wars-ALL</externallink>
+<thumbnail>https://i.ibb.co/j5pY0CN/ESP-STARWARS-ICON-ALL-ALL.png</thumbnail>
+<fanart>https://i.ibb.co/NjnDp5V/ESP-STARWRS-FAN-ALL.png</fanart>
+<info>[COLOR white]Conheça o especial: 
+[B]Star Wars
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+Não encontrou o que queria ? 
+Peça ao SUPORTE AO USUÁRIO
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
 <name>[COLOR black].[/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/1-LS-SEL-FCFN-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/D-COL-ESP-FCFN-ALL</externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
 </channel>
@@ -131,7 +149,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR orange][B]MENU DE RETORNO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/1-LS-SEL-FCFN-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/D-COL-ESP-FCFN-ALL</externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
