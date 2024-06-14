@@ -8,7 +8,7 @@
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 
 <item>	
-<title>[COLOR orange][B]O FILME[/B][/COLOR]</title>	
+<title>[COLOR orange][B]EPISÓDIO ESPECIAL - FHD DUAL[/B][/COLOR]</title>	
 <link>NOLINK</link>	
 <thumbnail>https://image.tmdb.org/t/p/original/daPvFW6nr8JYq2sa5SIELVRh5Mm.jpg</thumbnail>				
 <fanart>https://image.tmdb.org/t/p/original/l9d0lXGJTPVl3d180UEFo1aDThL.jpg</fanart>		
@@ -16,7 +16,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>	
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 	
-<item><title>[COLOR orange][B]LS-T02E01[COLOR yellow] -> [COLOR white]O Grande Heep[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]FILME[COLOR yellow] -> [COLOR white]O Grande Heep[/B][/COLOR]</title>
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Wars/DSH/Droids.1985/T00/LS-T00E00.mkv</link>
 <thumbnail>https://image.tmdb.org/t/p/original/daPvFW6nr8JYq2sa5SIELVRh5Mm.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/l9d0lXGJTPVl3d180UEFo1aDThL.jpg</fanart></item>
 </item>
@@ -31,6 +31,15 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>	
 </item>	
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>
+<title>[COLOR orange][B]TEMP 01 (1985) 13 EPs - FHD DUAL[/B][/COLOR]</title>
+<link>NOLINK</link>	
+<thumbnail>https://image.tmdb.org/t/p/original/AuGZbGeOQt30zsoTUSPlS8kMe1v.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/l9d0lXGJTPVl3d180UEFo1aDThL.jpg</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item><title>[COLOR orange][B]LS-T01E01[COLOR yellow] -> [COLOR white]A Bruxa Branca[/B][/COLOR]</title>
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Wars/DSH/Droids.1985/T01/LS-T01E01.mkv</link>
@@ -83,6 +92,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item><title>[COLOR orange][B]LS-T01E13[COLOR yellow] -> [COLOR white]A Cidadela Congelada[/B][/COLOR]</title>
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Wars/DSH/Droids.1985/T01/LS-T01E13.mkv</link>
 <thumbnail>https://image.tmdb.org/t/p/original/AuGZbGeOQt30zsoTUSPlS8kMe1v.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/l9d0lXGJTPVl3d180UEFo1aDThL.jpg</fanart></item>
+
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[COLOR black].[/COLOR]</title>				
