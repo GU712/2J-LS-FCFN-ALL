@@ -48,6 +48,24 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Star Wars: Guerras Clônicas (2003-2005) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/D04C8-DSH-Guerras.Clonicas.2003-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/2lsuke69bRdyB1sxtKmavtwkc35.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/xc8D9EYEuUu88eRcmLM5TZBZTvx.jpg</fanart>
+<info>[COLOR white]Assista aqui o desenho: 
+[B]Star Wars: Guerras Clônicas
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2003 a 2005
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]03 TEMPs - 25 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A série narra a batalha de Muunilist, onde Obi-Wan Kenobi e Anakin Skywalker lutaram para derrubar o Clã Intergalático de Bancos, enquanto o Conde Dookan contratava Asajj Ventress para assassinar Anakin.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
 <name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Guerra dos Clones (2008-2020) - COMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/D04C2-DSH-The.Clone.Wars.2008-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/opDY35ukPWTGFIxq17BBHJs49LD.jpg</thumbnail>
@@ -275,5 +293,4 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 
