@@ -1,11 +1,12 @@
-<item>
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>				
-<link>NOLINK</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>				
-<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>	
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
+<link>NOLINK</link>	
+<thumbnail>https://i.ibb.co/0ZMvRFx/SEL-ITEM-FLM-ICON.png</thumbnail>				
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>		
+<info>FAÇA SUA ESCOLHA 
+E DIVIRTA-SE </info>	
+</item>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 NUMERAL				
@@ -16,7 +17,7 @@ LETRA "A"
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
 <item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Guerra dos Mundos - O Ataque (2023) - FHD DUAL+LEG[/B][/COLOR]</title>
+<title>[COLOR white][B]A Guerra dos Mundos - O Ataque (2023) - FHD DUAL+LEG[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Guerra.dos.Mundos/FLM/LS-2022.A.Guerra.dos.Mundos.O.Ataque.FHD.DUAL+LEG-LS.mkv</link>
 <thumbnail>https://image.tmdb.org/t/p/original/pPJ5nXzh1Mr2UPRF27yj8JKAJRe.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/zxnfMi4qW0bdAtcwCogrR9dRrqd.jpg</fanart>
@@ -26,12 +27,15 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANO[COLOR yellow] -> [COLOR white]2023
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Três jovens astrônomos lutam para sobreviver a uma invasão marciana mortal.
-[/COLOR]</info>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Avatar (2009) - FHD DUAL+LEG[/B][/COLOR]</title>
+<title>[COLOR white][B]Avatar (2009) - FHD DUAL+LEG[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-FM/LS-Avatar.2009.FHD.DUAL.LFX.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/agvNkndPlHZgpl21t3ZY7RkZxIt.jpg</thumbnail>				
 <fanart>https://www.themoviedb.org/t/p/original/1I6aiIYhfCufLaoAw1Qr9bMFj15.jpg</fanart>
@@ -40,8 +44,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
 [COLOR orange]ANO[COLOR yellow] -> [COLOR white]2009
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO E FANTASIA
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Planeta Pandora. Habitado por grandes seres azuis, os Na´vi, o local tem uma atmosfera fatal para qualquer terrestre. Por isso, oficiais criaram o programa Avatar, em que um corpo biológico, híbrido de humano e Na´vi, pode ser comandado a distância.
-[/COLOR]</info>
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Planeta Pandora. Habitado por grandes seres azuis, os Na´vi, o local tem uma atmosfera
+ fatal para qualquer terrestre. Por isso, oficiais criaram o programa Avatar.
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
@@ -70,7 +78,7 @@ LETRA "G"
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
 <item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Guerra dos Mundos (1953) - HD DUAL+LEG[/B][/COLOR]</title>
+<title>[COLOR white][B]Guerra dos Mundos (1953) - HD DUAL+LEG[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Guerra.dos.Mundos/FLM/LS-1953.Guerra.dos,Mundos.HD.DUAL+LEG-LS.mkv</link>
 <thumbnail>https://image.tmdb.org/t/p/original/3WbV9FrscqOCo7eKkUFReD8e7HV.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/1Uu4HKIc1pqMJxfU9u62KcKULLD.jpg</fanart>
@@ -79,13 +87,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]HD DUAL+LEG
 [COLOR orange]ANO[COLOR yellow] -> [COLOR white]1953
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Uma máquina alienígena aparece e começa uma matança aleatória. Fuzileiros navais são enviados para o local, porém as forças de ataque deles não está a altura da força de ataque dos alienígenas.
-[/COLOR]</info>
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Uma máquina alienígena aparece e começa uma matança aleatória. Fuzileiros navais 
+são enviados para o local, porém as forças de ataque deles não está a altura da força de ataque dos alienígenas.
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
 <item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Guerra dos Mundos (2005) - FHD DUAL+LEG[/B][/COLOR]</title>
+<title>[COLOR white][B]Guerra dos Mundos (2005) - FHD DUAL+LEG[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Guerra.dos.Mundos/FLM/LS-2005.Guerra.dos.Mundos.FHD.DUAL+LEG.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uQeGcReMaNf3XhELojGUknVzyQu.jpg</thumbnail>				
 <fanart>https://www.themoviedb.org/t/p/original/vUOXexpO4oYhB6Z7SYZfQifCKo0.jpg</fanart>	
@@ -94,8 +106,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
 [COLOR orange]ANO[COLOR yellow] -> [COLOR white]2005
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Ray Ferrier é um estivador divorciado, afastado de seus filhos, que vivem com a mãe. Quando sua ex-esposa deixa as crianças para ele cuidar durante alguns dias, o planeta é atacado por alienígenas que surgem do chão conduzindo tripods e destruindo tudo que encontram pelo caminho.
-[/COLOR]</info>
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Quando sua ex-esposa deixa as crianças para ele cuidar durante alguns dias, o planeta 
+é atacado por alienígenas que surgem do chão conduzindo tripods e destruindo tudo que encontram pelo caminho.
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
@@ -108,7 +124,7 @@ LETRA "I"
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 				
 <item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Infinito (2021) - FHD DUAL+LEG[/B][/COLOR]</title>
+<title>[COLOR white][B]Infinito (2021) - FHD DUAL+LEG[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-FM/LS-Infinito.2021.HD.DUAL.LFX.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/mLvjQ0IIdzZfQzQXULI7sIVxd8V.jpg</thumbnail>				
 <fanart>https://www.themoviedb.org/t/p/original/wjQXZTlFM3PVEUmKf1sUajjygqT.jpg</fanart>
@@ -117,8 +133,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
 [COLOR orange]ANO[COLOR yellow] -> [COLOR white]2021
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO E FANTASIA
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Um jovem perturbado, assombrado por lembranças de duas vidas passadas, depara-se com uma antiga sociedade secreta de indivíduos semelhantes e ousa juntar-se a eles.
-[/COLOR]</info>
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Um jovem perturbado, assombrado por lembranças de duas vidas passadas, depara-se com 
+uma antiga sociedade secreta de indivíduos semelhantes e ousa juntar-se a eles.
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
@@ -127,7 +147,7 @@ LETRA "J"
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 				
 <item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]John Carter: Entre Dois Mundos (2012) - HD DUB+LEG[/B][/COLOR]</title>
+<title>[COLOR white][B]John Carter: Entre Dois Mundos (2012) - HD DUB+LEG[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-FM/LS-John.Carter.Entre.Dois.Mundos.2012.dub.LF.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/jseasEaaWH3Dos7ph0NzpDj0INV.jpg</thumbnail>				
 <fanart>https://www.themoviedb.org/t/p/original/lfJAocue2hikhDgSi71RvqRPwm8.jpg</fanart>
@@ -136,8 +156,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]HD DUB+LEG
 [COLOR orange]ANO[COLOR yellow] -> [COLOR white]2012
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO E FANTASIA
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O soldado americano John Carter, para a tristeza de seus parentes, faleceu no planeta Terra. Contudo, para a alegria de outros, ressuscitou em Marte. Agora, em meio a uma guerra civil no planeta vermelho, habitado por seres de cor verde e criaturas gigantescas, ele é visto como a única esperança de ajudar a princesa Deja Thoris, a salvar o seu mundo,
-[/COLOR]</info>
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O soldado americano John Carter, para a tristeza de seus parentes, faleceu no planeta 
+Terra. Contudo, para a alegria de outros, ressuscitou em Marte. 
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -154,7 +178,7 @@ LETRA "M"
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 				
 <item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Matrix Resurrections (2021) - FHD DUAL[/B][/COLOR]</title>
+<title>[COLOR white][B]Matrix Resurrections (2021) - FHD DUAL[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-FM/LS-Matrix.Resurrections.2021.FHD.DUAL.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/9DT4WVqZqBEI9Kub18gZ3m1D89m.jpg</thumbnail>				
 <fanart>https://www.themoviedb.org/t/p/original/hv7o3VgfsairBoQFAawgaQ4cR1m.jpg</fanart>
@@ -164,12 +188,15 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANO[COLOR yellow] -> [COLOR white]2021
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO E FANTASIA
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Em um mundo de duas realidades — a vida cotidiana e o que está por trás dela.
-[/COLOR]</info>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Missão Alien (1988) - HD DUAL[/B][/COLOR]</title>
+<title>[COLOR white][B]Missão Alien (1988) - HD DUAL[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-FM/LS-Missao.Alien.1988.HD.DUAL.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/2wEyQkFXX6ReyW44YQa1kLQYkCg.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/lALrLB3m1vmTkAyoxUOtSaIPYyH.jpg</fanart>
@@ -178,13 +205,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]HD DUAL
 [COLOR orange]ANO[COLOR yellow] -> [COLOR white]1988
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO E FANTASIA
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]No deserto de Mojave, Califórnia, uma pane na nave espacial obriga 300 mil humanóides a conviver com os humanos.
-[/COLOR]</info>
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]No deserto de Mojave, Califórnia, uma pane na nave espacial obriga 300 mil humanóides 
+a conviver com os humanos.
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Moonfall - Ameaça Lunar (2022) - FHD DUAL+LEG[/B][/COLOR]</title>
+<title>[COLOR white][B]Moonfall - Ameaça Lunar (2022) - FHD DUAL+LEG[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-FM/LS-Moonfall.Ameasa.Lunar.2022.FHD.DUAL+LEGFIX.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/ACl5NQBHeEvypdVlaaE868bwFs.jpg</thumbnail>				
 <fanart>https://www.themoviedb.org/t/p/original/x747ZvF0CcYYTTpPRCoUrxA2cYy.jpg</fanart>
@@ -193,13 +224,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
 [COLOR orange]ANO[COLOR yellow] -> [COLOR white]2022
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO E FANTASIA
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Poucas semanas antes do impacto e com a humanidade à beira da aniquilação, a ex-astronauta da NASA Jo Fowler está convencida de que tem a resposta para salvar o planeta.
-[/COLOR]</info>
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Poucas semanas antes do impacto e com a humanidade à beira da aniquilação, a ex-astronauta
+ da NASA Jo Fowler está convencida de que tem a resposta para salvar o planeta.
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
 <item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Monster Hunter (2020) - HD DUAL[/B][/COLOR]</title>
+<title>[COLOR white][B]Monster Hunter (2020) - HD DUAL[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-FM/LS-Monster.Hunter.2020.HD.DUAL.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/Am1ipOQiOMrH55tCCT2ObNiF1rW.jpg</thumbnail>				
 <fanart>https://www.themoviedb.org/t/p/original/io3vlWxeXewzGyoKjDqBUj5XGpS.jpg</fanart>
@@ -208,8 +243,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]HD DUAL
 [COLOR orange]ANO[COLOR yellow] -> [COLOR white]2020
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO E FANTASIA
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A tenente Artemis e seus soldados são transportados para um novo mundo. Lá, eles se envolvem em batalhas imponentes, buscando desesperadamente a sobrevivência contra bestas gigantes portadoras de habilidades surreais.
-[/COLOR]</info>
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A tenente Artemis e seus soldados são transportados para um novo mundo. Lá, eles se 
+envolvem em batalhas imponentes, buscando desesperadamente a sobrevivência contra bestas gigantes portadoras de habilidades surreais.
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
@@ -218,7 +257,7 @@ LETRA "N"
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
 <item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]No Mundo de 2020 (1973) - HD DUAL+LEG[/B][/COLOR]</title>
+<title>[COLOR white][B]No Mundo de 2020 (1973) - HD DUAL+LEG[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-FM/LS-No.Mundo.de.2020.1973.HD.DUAL+LEG.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/1AH9Sxg5RXWXn3jf81ngHuq2jzz.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/zj3EHWUJ1LdpbqGJqIMA6pQVlHO.jpg</fanart>
@@ -227,8 +266,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]HD DUAL+LEG
 [COLOR orange]ANO[COLOR yellow] -> [COLOR white]1973
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO E FANTASIA
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Em uma Terra futurista superpopulosa, um detetive da polícia de Nova York se vê marcado por assassinatos.
-[/COLOR]</info>
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Em uma Terra futurista superpopulosa, um detetive da polícia de Nova York se vê marcado 
+por assassinatos.
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
@@ -237,7 +280,7 @@ LETRA "O"
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
 <item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Demolidor (1993) - FHD DUAL[/B][/COLOR]</title>
+<title>[COLOR white][B]O Demolidor (1993) - FHD DUAL[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/2:/FLMS/10FCFN-FM/LS-O.Demolidor.1993.FHD.DUAL.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/2BjAYQNwmdIZF6XQQ2rLOrios1Q.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/4pl165EUdvveHCr4J4YcHVA1MnD.jpg</fanart>
@@ -246,13 +289,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL
 [COLOR orange]ANO[COLOR yellow] -> [COLOR white]1993
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO E FANTASIA
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O policial John Spartan e o violento bandido Simon Phoenix são condenados a um encarceramento criogênico conhecido como CryoPrison. Quando Spartan é finalmente descongelado 36 anos depois, já é 2032.
-[/COLOR]</info>
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O policial John Spartan e o violento bandido Simon Phoenix são condenados a um 
+encarceramento criogênico conhecido como CryoPrison. Quando Spartan é finalmente descongelado 36 anos depois, já é 2032.
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Labirinto do Fauno (2006) - HD DUB[/B][/COLOR]</title>
+<title>[COLOR white][B]O Labirinto do Fauno (2006) - HD DUB[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/1:/FLMS/10FCFN-FM/LS-O.Labirinto.do.Fauno.2006.HD.DUB.mp4</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/53ZMT8Y18gwLpInzRLMEebAZxew.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/ieyu09k9y8zUrzoSPt4VMn0Y38.jpg</fanart>
@@ -261,13 +308,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]HD DUB
 [COLOR orange]ANO[COLOR yellow] -> [COLOR white]2006
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FANTASIA
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Em 1944, na Espanha, a jovem Ofélia e sua mãe doente chegam ao posto do novo marido de sua mãe, um sádico oficial do exército que está tentando reprimir uma guerrilheira.  
-[/COLOR]</info>
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Em 1944, na Espanha, a jovem Ofélia e sua mãe doente chegam ao posto do novo marido 
+de sua mãe, um sádico oficial do exército que está tentando reprimir uma guerrilheira.  
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Mundo Depois de Nós (2023) - FHD DUAL+LEG[/B][/COLOR]</title>
+<title>[COLOR white][B]O Mundo Depois de Nós (2023) - FHD DUAL+LEG[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/1:/FLMS/10FCFN-FM/LS-O.Mundo.Depois.de.Nos 2023.FHD.DUAL+LEG.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/qwHZInQ0MBa1DxHV66ExCCUzBf5.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/tLsc8SCFO0rMVgVyNm9XtfnyX84.jpg</fanart>
@@ -276,8 +327,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
 [COLOR orange]ANO[COLOR yellow] -> [COLOR white]2023
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]As férias de uma família numa casa luxuosa sofrem uma reviravolta quando um ciberataque afeta todos os dispositivos e duas pessoas estranhas batem à porta.
-[/COLOR]</info>
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]As férias de uma família numa casa luxuosa sofrem uma reviravolta quando um ciberataque 
+afeta todos os dispositivos e duas pessoas estranhas batem à porta.
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
@@ -286,7 +341,7 @@ LETRA "P"
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 				
 <item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Pinóquio (2021) - FHD DUAL[/B][/COLOR]</title>
+<title>[COLOR white][B]Pinóquio (2021) - FHD DUAL[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-FM/LS-Pinoquio.2021.FHD.DUAL.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9EuGKjsYegO58RaMYWGvnurHo7u.jpg</thumbnail>				
 <fanart>https://www.themoviedb.org/t/p/original/vaF9tGUsmK9GttgO6WqkX4BoGfX.jpg</fanart>	
@@ -295,8 +350,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL
 [COLOR orange]ANO[COLOR yellow] -> [COLOR white]2021
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO E FANTASIA
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Quando o marceneiro Geppetto vê uma estrela cadente, ele deseja que o boneco que acabou de terminar, Pinóquio , possa se tornar um garoto de verdade. À noite, a Fada Azul concede o desejo de Geppetto e pede ao Grilo Falante que sirva como a consciência do garoto de madeira.
-[/COLOR]</info>
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Quando o marceneiro Geppetto vê uma estrela cadente, ele deseja que o boneco que acabou 
+de terminar, Pinóquio , possa se tornar um garoto de verdade. 
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
@@ -309,7 +368,7 @@ LETRA "R"
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 				
 <item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Reino de Fogo (2002) - FHD DUAL[/B][/COLOR]</title>
+<title>[COLOR white][B]Reino de Fogo (2002) - FHD DUAL[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-FM/LS-Reino.de.Fogo.2002.FHD.DUAL.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/4XiWjJv1A5wV0REkJzcnalZIFgx.jpg</thumbnail>				
 <fanart>https://www.themoviedb.org/t/p/original/oBnLeIBwGafw3H8bDxVfYQ9hXEt.jpg</fanart>
@@ -318,8 +377,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL
 [COLOR orange]ANO[COLOR yellow] -> [COLOR white]2002
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO E FANTASIA
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Acidentalmente uma engenheira desperta um perigoso dragão, que estava adormecido há séculos.
-[/COLOR]</info>
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Acidentalmente uma engenheira desperta um perigoso dragão, que estava adormecido 
+há séculos.
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
@@ -328,7 +391,7 @@ LETRA "S"
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 	
 <item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Spectral (2016) - FHD DUAL[/B][/COLOR]</title>
+<title>[COLOR white][B]Spectral (2016) - FHD DUAL[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/1:/FLMS/10FCFN-FM/LS-Spectral.2016.FHD.DUAL.mkv</link>
 <thumbnail>https://image.tmdb.org/t/p/original/fYtIWhTDgPTcutD24f53Dcc7BAE.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/anIAcwt61r1HLfiQnSeAv1mbfVH.jpg</fanart>
@@ -337,13 +400,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL
 [COLOR orange]ANO[COLOR yellow] -> [COLOR white]2016
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Quando uma força sobrenatural causa estragos numa cidade europeia devastada pela guerra, um engenheiro se une a uma equipe de elite para detê-la.
-[/COLOR]</info>
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Quando uma força sobrenatural causa estragos numa cidade europeia devastada pela guerra, 
+um engenheiro se une a uma equipe de elite para detê-la.
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 	
 <item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Starman: O Homem das Estrelas (1984) - FHD DUAL+LEG[/B][/COLOR]</title>
+<title>[COLOR white][B]Starman: O Homem das Estrelas (1984) - FHD DUAL+LEG[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/1:/FLMS/10FCFN-CL/Starman/LS-Starman.O.Homem.das Estrelas.1984.FHD.mkv</link>
 <thumbnail>https://image.tmdb.org/t/p/original/fiLxhWsRsDTUdorvsZFmuyC8aKv.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/a34NyULWqPXALmAF6rE3kne9ZfX.jpg</fanart>
@@ -352,8 +419,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
 [COLOR orange]ANO[COLOR yellow] -> [COLOR white]1984
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A nave de um ser espacial cai na Terra e, para não ser preso pela autoridades, ele assume a forma de um homem recém-falecido. Após o choque inicial, a viúva se afeiçoa ao "homem das estrelas" e o ajuda a tentar retornar ao seu planeta.
-[/COLOR]</info>
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A nave de um ser espacial cai na Terra e, para não ser preso pela autoridades, ele 
+assume a forma de um homem recém-falecido. Após o choque inicial, a viúva se afeiçoa ao "homem das estrelas" e o ajuda.
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 	
@@ -366,7 +437,7 @@ LETRA "U"
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
 <item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Uma Aventura na Arábia (1979) - FHD DUAL+LEG[/B][/COLOR]</title>
+<title>[COLOR white][B]Uma Aventura na Arábia (1979) - FHD DUAL+LEG[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-FM/LS-Uma.Aventura.na.Arabia.1979.FHD.DUAL+LEG.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/9dH9JDUQUygOSqCizzI1R10bnpj.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/8CGS8PWFW50zt8mWKxan99gQs41.jpg</fanart>
@@ -375,8 +446,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
 [COLOR orange]ANO[COLOR yellow] -> [COLOR white]1979
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO E FANTASIA
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Um califa malvado oferece a mão de sua filha em casamento a um príncipe se ele puder completar uma busca perigosa por uma rosa mágica.
-[/COLOR]</info>
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Um califa malvado oferece a mão de sua filha em casamento a um príncipe se ele 
+puder completar uma busca perigosa por uma rosa mágica.
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
@@ -385,7 +460,7 @@ LETRA "V"
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
 <item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Viagem Fantástica (1966) - HD DUB[/B][/COLOR]</title>
+<title>[COLOR white][B]Viagem Fantástica (1966) - HD DUB[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-FM/LS-Viagem.Fantastica.1966.HD.DUB.mp4</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/72PZgOOB5YBo02aclMyYlJr1fbs.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/lK2L7IhvPAooQt21x0JtA4phqET.jpg</fanart>
@@ -395,7 +470,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANO[COLOR yellow] -> [COLOR white]1966
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO E FANTASIA
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A viagem mais fantástica das telas.
-[/COLOR]</info>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 			
@@ -422,30 +500,13 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <title>[COLOR black].[/COLOR]</title>				
 <link>ignoreme</link>				
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+<fanart>https://i.ibb.aco/6N5djff/FAN-2.png</fanart>			
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
-<title>[COLOR orange][B]O VÍDEO NÃO ABRIU ?[/B][/COLOR]</title>
+<title>[COLOR orange][B]ERROS ? CHAME O SUPORTE[/B][/COLOR]</title>	
 <link>ignoreme</link>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+<thumbnail>https://i.ibb.co/BnzRHfz/ERROS-SUPORTE.png</thumbnail>				
+<fanart>https://i.ibb.aco/6N5djff/FAN-2.png</fanart>
 </item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-<item>
-<title>[COLOR orange][B]NÃO ENCONTROU O QUE QUERIA ?[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
-</item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<item>
-<title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
-				
-				
-				
