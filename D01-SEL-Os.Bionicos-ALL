@@ -49,25 +49,6 @@ Avise o SUPORTE AO USUÁRIO.
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR white][B]Os Biônicos (Desenhos)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink><LINKRAWPAGEDSH></externallink>
-<thumbnail><CAPADACOLDSH></thumbnail>
-<fanart>https://i.ibb.co/dB79HG5/ESP-BIONIC-FAN.png</fanart>
-<info>[COLOR white]Conheça a seção de desenhos: 
-[B]Os Biônicos
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA ATUALIZANDO
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-[/B][COLOR black].[/COLOR]
-Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
