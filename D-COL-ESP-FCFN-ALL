@@ -81,16 +81,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Ghostbusters (Filmes - Desenhos)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/D03-COL-Ghostbusters-ALL</externallink>
-<thumbnail>https://i.ibb.co/QYmmN30/COL-GHOSTBUSTER-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/71GvFBT/COL-GHOSTBUSTER-FAN-ALL.png</fanart>
+<name>[COLOR white][B]Ghostbusters (Filmes - Desenhos)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/D03-SEL-Ghostbusters-ALL</externallink>
+<thumbnail>https://i.ibb.co/6t60Fgf/ESP-GHOSTBUSTER-ICO.png</thumbnail>
+<fanart>https://i.ibb.co/SK2mggj/ESP-GHOSTBUSTER-FAN.png</fanart>
 <info>[COLOR white]Conheça o especial: 
 [B]Ghostbusters
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FANTASIA
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
