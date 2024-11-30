@@ -141,16 +141,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Monstro do Pantano (Filmes - Série - Desenho)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/D02-COL-Monstro.do.Pantano-ALL</externallink>
-<thumbnail>https://i.ibb.co/wKLRgyT/COL-S-THING-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/bgtzMkn/COL-S-THING-FAN-ALL.png</fanart>
+<name>[COLOR white][B]Monstro do Pantano (Filmes - Série - Desenho)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/D02-SEL-Monstro.do.Pantano-ALL</externallink>
+<thumbnail>https://i.ibb.co/rySJ2Lm/ESP-S-THING-ICO.png</thumbnail>
+<fanart>https://i.ibb.co/Kmqb59Y/ESP-S-THING-FAN.png</fanart>
 <info>[COLOR white]Conheça o especial: 
 [B]Monstro do Pantano
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
