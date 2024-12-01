@@ -1,92 +1,16 @@
-<channels>
-<channel>
-<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/D04B-SRS-Star.Wars-ALL</externallink>
+<item>	
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
+<link>NOLINK</link>	
 <thumbnail>https://i.ibb.co/NWfgpVX/SEL-ITEM-SRS-ICON.png</thumbnail>				
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>		
 <info>FAÇA SUA ESCOLHA 
-E DIVIRTA-SE </info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+E DIVIRTA-SE </info>	
+</item>	
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Ahsoka (2023) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/D04B1-SRS-Ahsoka.2023-ALL</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/8r4o3iyU79G2apOYYwvQdoPVWtv.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/31GIcUUcdQPRkVtmdqgQWJMhXj1.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Ahsoka
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2023
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 08 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Situada após a queda do Império, a série segue a ex-cavaleira Jedi Ahsoka Tano enquanto ela investiga uma ameaça emergente a uma galáxia vulnerável.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Andor (2022) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/D04B2-SRS-Andor.2022-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/59SVNwLfoMnZPPB6ukW6dlPxAdI.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/q8qNN1voEOYzxWhBezHZG9soWWW.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Andor
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2022
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 12 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]As aventuras do espião rebelde Cassian Andor durante os anos de formação da Rebelião antes dos eventos de Rogue One.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Obi-Wan Kenobi (2022) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/D04B4-SRS-Obi.Wan.Kenobi.2022-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/jJJtMA4mugAtG3ATlpSnrr40YGC.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/7huDoLPgTumapij4WJQUvNwXEJh.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Obi-Wan Kenobi
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2022
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 06 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Obi-Wan Kenobi embarca em uma missão crucial. Kenobi deve confrontar aliados que se tornaram inimigos e enfrentar a fúria do Império.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Livro de Boba Fett (2021) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/D04B3-SRS-Boba.Fett.2021-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/6xBU6uZ1gkzdmvrmq1CXbgazpEX.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/dffcRAPDi198VbtRczKafZ6UzAV.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]O Livro de Boba Fett
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2021
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 07 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O lendário caçador de recompensas Boba Fett e o mercenário Fennec Shand explorando o submundo da Galáxia quando retornam às areias de Tatooine para reivindicar o território antes governado por Jabba
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Mandaloriano (2019 e 2021) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/D04B5-SRS-O.Mandaloriano.2019-ALL</externallink>
+<item>	
+<title>[COLOR orange][B]O Mandaloriano[/B][/COLOR]</title>	
+<link>NOLINK</link>	
 <thumbnail>https://www.themoviedb.org/t/p/original/y7mzyS2p4OeKZzXnDFxQZrgQW7x.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/nxmwt241VTml0NXqI1NVY0060kQ.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
@@ -95,172 +19,276 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2019 a 2021
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 24 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Um guerreiro solitário, mercenário e pistoleiro, viajando pelos territórios esquecidos e marginais do espaço, logo após a queda do Império e antes da criação da temida Primeira Ordem.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]The Acolyte (2024) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/D04B5-SRS-The.Acolyte.2024-ALL</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/xeeF1KWSz8EEUl8RBz64qRnxm7V.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/rESl7LDH1ug94KMVW2jtbM3I7SZ.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]The Acolyte
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2024
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 08 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Uma investigação sobre uma terrível onda de crimes coloca uma Mestra Jedi contra uma 
-perigosa guerreira de seu passado.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Um guerreiro solitário, mercenário e pistoleiro, viajando pelos territórios 
+esquecidos e marginais do espaço, logo após a queda do Império e antes da criação da temida Primeira Ordem.
 [/B][COLOR black].[/COLOR]
 Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
+[/COLOR]</info>	
+</item>	
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<channels>
-<channel>
-<name>[COLOR black].[/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/D04B-SRS-Star.Wars-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR orange][B]MENU DE RETORNO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/D04B-SRS-Star.Wars-ALL</externallink>
-<thumbnail>https://i.ibb.co/nbZ50B0/SEL-ITEM.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
-</channel>
-</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>
+<title>[COLOR orange][B]TEMP 01 (2019) 08 EPs - FHD DUAL[/B][/COLOR]</title>
+<link>NOLINK</link>	
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/01.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nxmwt241VTml0NXqI1NVY0060kQ.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
+</item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR white][B]NOVIDADES DA SEMANA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/7-SEL-NEWS-ALL</externallink>
-<thumbnail>https://i.ibb.co/0c3Bj32/RET-MENU-NEWS.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
-<info>[COLOR white]Atalho para a seção de:  
-[B]NOVIDADES DA SEMANA
+<item><title>[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]O Mandaloriano[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Wars/SRS/Mandaloriano.2019/T01/LS-T01E01.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/nxmwt241VTml0NXqI1NVY0060kQ.jpg</fanart>
 [COLOR black].[/COLOR]
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalhos provisórios aos conteúdos novos que foram adicionados no SERVER LS durante a semana, é dividida em dois setores FILMES e SÉRIES. 
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]A Criança[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Wars/SRS/Mandaloriano.2019/T01/LS-T01E02.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/nxmwt241VTml0NXqI1NVY0060kQ.jpg</fanart>
 [COLOR black].[/COLOR]
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
-[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]O Pecado[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Wars/SRS/Mandaloriano.2019/T01/LS-T01E03.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/nxmwt241VTml0NXqI1NVY0060kQ.jpg</fanart>
 [COLOR black].[/COLOR]
- AGILIZE SUA NAVEGAÇÃO
-USE ESSE LINK DE ATALHO[/COLOR]</info>
-</channel>
-</channels>
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Santuário[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Wars/SRS/Mandaloriano.2019/T01/LS-T01E04.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/nxmwt241VTml0NXqI1NVY0060kQ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]O Pistoleiro[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Wars/SRS/Mandaloriano.2019/T01/LS-T01E05.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/nxmwt241VTml0NXqI1NVY0060kQ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]O Prisioneiro[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Wars/SRS/Mandaloriano.2019/T01/LS-T01E06.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/nxmwt241VTml0NXqI1NVY0060kQ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]O Acerto de Contas[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Wars/SRS/Mandaloriano.2019/T01/LS-T01E07.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/nxmwt241VTml0NXqI1NVY0060kQ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Redenção[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Wars/SRS/Mandaloriano.2019/T01/LS-T01E08.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/nxmwt241VTml0NXqI1NVY0060kQ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>
+<title>[COLOR orange][B]TEMP 02 (2020) 08 EPs - FHD DUAL[/B][/COLOR]</title>
+<link>NOLINK</link>	
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/02.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nxmwt241VTml0NXqI1NVY0060kQ.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
+</item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR white][B]NOSTALGIA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/5-SEL-NSTLG-ALL</externallink>
-<thumbnail>https://i.ibb.co/vD7SyB5/RET-MENU-NSTLG.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
-<info>[COLOR white]Atalho para a seção de:  
-[B]NOSTALGIA
+<item><title>[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]O Marechal[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Wars/SRS/Mandaloriano.2019/T02/LS-T02E01.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/nxmwt241VTml0NXqI1NVY0060kQ.jpg</fanart>
 [COLOR black].[/COLOR]
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalho para o conteúdo raro e antigo, lançados até ano 2000 , organizado por décadas, material comprado de colecionadores com as CONTRIBUIÇÕES recebidas.
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]O Passageiro[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Wars/SRS/Mandaloriano.2019/T02/LS-T02E02.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/nxmwt241VTml0NXqI1NVY0060kQ.jpg</fanart>
 [COLOR black].[/COLOR]
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
-[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]A Herdeira[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Wars/SRS/Mandaloriano.2019/T02/LS-T02E03.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/nxmwt241VTml0NXqI1NVY0060kQ.jpg</fanart>
 [COLOR black].[/COLOR]
- AGILIZE SUA NAVEGAÇÃO
-USE ESSE LINK DE ATALHO[/COLOR]</info>
-</channel>
-</channels>
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]O Cerco[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Wars/SRS/Mandaloriano.2019/T02/LS-T02E04.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/nxmwt241VTml0NXqI1NVY0060kQ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]A Jedi[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Wars/SRS/Mandaloriano.2019/T02/LS-T02E05.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/nxmwt241VTml0NXqI1NVY0060kQ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]A Tragédia[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Wars/SRS/Mandaloriano.2019/T02/LS-T02E06.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/nxmwt241VTml0NXqI1NVY0060kQ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white]O Que Acredita[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Wars/SRS/Mandaloriano.2019/T02/LS-T02E07.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/nxmwt241VTml0NXqI1NVY0060kQ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white]O Resgate[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Wars/SRS/Mandaloriano.2019/T02/LS-T02E08.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/nxmwt241VTml0NXqI1NVY0060kQ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>
+<title>[COLOR orange][B]TEMP 03 (2023) 08 EPs - FHD DUAL[/B][/COLOR]</title>
+<link>NOLINK</link>	
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/03.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nxmwt241VTml0NXqI1NVY0060kQ.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
+</item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR white][B]ESPECIAIS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/4-SEL-ESPC-ALL</externallink>
-<thumbnail>https://i.ibb.co/1Qz2bpD/RET-MENU-SPCS.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
-<info>[COLOR white]Atalho para a seção de:  
-[B]ESPECIAIS
+<item><title>[COLOR orange][B]T03E01[COLOR yellow] -> [COLOR white]O Apóstata[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Wars/SRS/Mandaloriano.2019/T03/LS-T03E01.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/nxmwt241VTml0NXqI1NVY0060kQ.jpg</fanart>
 [COLOR black].[/COLOR]
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalho para a seção com as Franquias Especiais , Cine Gospel e Doramas ...Um espaço para o conteúdo extraordinário e não convencional. 
-[COLOR black].[/COLOR]
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
-[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
-[COLOR black].[/COLOR]
- AGILIZE SUA NAVEGAÇÃO
-USE ESSE LINK DE ATALHO[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR white][B]SÉRIES[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/3-SEL-SRS-ALL</externallink>
-<thumbnail>https://i.ibb.co/bB5Gx7T/RET-MENU-SRS.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
-<info>[COLOR white]Atalho para a seção de:  
-[B]SÉRIES
+<item><title>[COLOR orange][B]T03E02[COLOR yellow] -> [COLOR white]As Minas de Mandalore[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Wars/SRS/Mandaloriano.2019/T03/LS-T03E02.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/nxmwt241VTml0NXqI1NVY0060kQ.jpg</fanart>
 [COLOR black].[/COLOR]
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalho para conteúdos em Séries, Novelas, Desenhos e Animes que são apresentados em diversos episódios de curta duração, no decorrer de diversas temporadas.
-[COLOR black].[/COLOR]
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
-[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
-[COLOR black].[/COLOR]
- AGILIZE SUA NAVEGAÇÃO
-USE ESSE LINK DE ATALHO[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR white][B]FILMES[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/2-SEL-FLMS-ALL</externallink>
-<thumbnail>https://i.ibb.co/3yFZ2mG/RET-MENU-FLM.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
-<info>[COLOR white]Atalho para a seção de:  
-[B]FILMES
+<item><title>[COLOR orange][B]T03E03[COLOR yellow] -> [COLOR white]O Convertido[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Wars/SRS/Mandaloriano.2019/T03/LS-T03E03.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/nxmwt241VTml0NXqI1NVY0060kQ.jpg</fanart>
 [COLOR black].[/COLOR]
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalho para conteúdos em formato para ser exibido no cinema, televisão ou outro veículo, sendo curtos ou longos. Utiliza diversos servidores.
-[COLOR black].[/COLOR]
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
-[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
-[COLOR black].[/COLOR]
- AGILIZE SUA NAVEGAÇÃO
-USE ESSE LINK DE ATALHO[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR white][B]MENU GERAL[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/1-CATEGORIAS-ALL</externallink>
-<thumbnail>https://i.ibb.co/xqRhHbc/RET-MENU-GRL.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
-<info>[COLOR white]Atalho para a seção de:  
-[B]MENU GERAL
+<item><title>[COLOR orange][B]T03E04[COLOR yellow] -> [COLOR white]O Enjeitado[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Wars/SRS/Mandaloriano.2019/T03/LS-T03E04.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/nxmwt241VTml0NXqI1NVY0060kQ.jpg</fanart>
 [COLOR black].[/COLOR]
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalho para o menu principal retorne e realize uma nova escolha entre as seções do Add on.
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T03E05[COLOR yellow] -> [COLOR white]O Pirata[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Wars/SRS/Mandaloriano.2019/T03/LS-T03E05.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/nxmwt241VTml0NXqI1NVY0060kQ.jpg</fanart>
 [COLOR black].[/COLOR]
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
-[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T03E06[COLOR yellow] -> [COLOR white]Armas de Aluguel[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Wars/SRS/Mandaloriano.2019/T03/LS-T03E06.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/nxmwt241VTml0NXqI1NVY0060kQ.jpg</fanart>
 [COLOR black].[/COLOR]
- AGILIZE SUA NAVEGAÇÃO
-USE ESSE LINK DE ATALHO[/COLOR]</info>
-</channel>
-</channels>
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T03E07[COLOR yellow] -> [COLOR white]Os Espiões[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Wars/SRS/Mandaloriano.2019/T03/LS-T03E07.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/nxmwt241VTml0NXqI1NVY0060kQ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T03E08[COLOR yellow] -> [COLOR white]O Retorno[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Wars/SRS/Mandaloriano.2019/T03/LS-T03E08.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/nxmwt241VTml0NXqI1NVY0060kQ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR black].[/COLOR]</title>				
+<link>ignoreme</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.aco/6N5djff/FAN-2.png</fanart>			
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR orange][B]ERROS ? CHAME O SUPORTE[/B][/COLOR]</title>	
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/BnzRHfz/ERROS-SUPORTE.png</thumbnail>				
+<fanart>https://i.ibb.aco/6N5djff/FAN-2.png</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
