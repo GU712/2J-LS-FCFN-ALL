@@ -100,16 +100,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Guerra dos Mundos (Filmes - Série)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/D05-COL-Guerra.dos.Mundos-ALL</externallink>
-<thumbnail>https://i.ibb.co/qDrxFWR/COL-WARWORD-ICON-ALL-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/ys44d6Q/COL-WARWORD-FAN-ALL.png</fanart>
+<name>[COLOR white][B]Guerra dos Mundos (Filmes - Série)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/D05-SEL-Guerra.dos.Mundos-ALL</externallink>
+<thumbnail>https://i.ibb.co/5MLdb0M/ESP-WARWORD-ICO.png</thumbnail>
+<fanart>https://i.ibb.co/QdXRq4Y/ESP-WARWORD-FAN.png</fanart>
 <info>[COLOR white]Conheça o especial: 
 [B]Guerra dos Mundos
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
