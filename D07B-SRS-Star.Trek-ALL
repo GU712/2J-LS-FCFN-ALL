@@ -67,7 +67,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Star Trek : Voyager (1995-2000) - COMPLETA[/B][/COLOR]</name>
+<name>[COLOR white][B]Star Trek : Voyager (1995-2000) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/D07B4-SRS-Voyager.1995-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/5iROn4oot6R0kkpWD6oJdHB15ZU.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/bXiY5C2LkAO6om6bjV4Pkg0VZTW.jpg</fanart>
@@ -77,7 +77,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1995 a 2000
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]07 TEMPs - 172 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A USS Voyager está perseguindo uma nave Maquis quando ambas são puxadas para dentro de um vortex, que os envia para o Quadrante Delta a 75.000 anos luz do espaço da Federação.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]A USS Voyager está perseguindo uma nave Maquis quando ambas são puxadas para dentro 
+de um vortex, que os envia para o Quadrante Delta a 75.000 anos luz do espaço da Federação.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
