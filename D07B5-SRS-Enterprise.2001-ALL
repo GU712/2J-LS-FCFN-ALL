@@ -1,18 +1,30 @@
 <item>	
 <title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
 <link>NOLINK</link>	
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>		
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>	
+<thumbnail>https://i.ibb.co/NWfgpVX/SEL-ITEM-SRS-ICON.png</thumbnail>				
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>		
+<info>FAÇA SUA ESCOLHA 
+E DIVIRTA-SE </info>	
 </item>	
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-	
+
 <item>	
 <title>[COLOR orange][B]Star Trek: Enterprise[/B][/COLOR]</title>	
 <link>NOLINK</link>	
 <thumbnail>https://www.themoviedb.org/t/p/original/8mtKZlNVg1VEGn7uRcfSrg6HI09.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>	
+<info>[COLOR white]Assista aqui a série: 
+[B]Star Trek: Enterprise
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2001 a 2004
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPs - 97 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]As viagens da primeira nave estelar Enterprise e os primeiros passos da humanidade 
+na fronteira final.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
 </item>	
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -20,452 +32,931 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[COLOR orange][B]TEMP 01 (2001) 26 EPs - HD DUB[/B][/COLOR]</title>
 <link>NOLINK</link>	
-<thumbnail>https://www.themoviedb.org/t/p/original/8a7dDjv4mDanIKdBsS97knZ0Jna.jpg</thumbnail>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/01.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E01[COLOR yellow] -> [COLOR white]Broken Bow[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Broken Bow[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T01/LS-T01E01.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/8a7dDjv4mDanIKdBsS97knZ0Jna.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E02[COLOR yellow] -> [COLOR white]Luta Ou Fuga[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Luta Ou Fuga[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T01/LS-T01E02.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/8a7dDjv4mDanIKdBsS97knZ0Jna.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E03[COLOR yellow] -> [COLOR white]Explorar Novos Mundos[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Explorar Novos Mundos[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T01/LS-T01E03.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/8a7dDjv4mDanIKdBsS97knZ0Jna.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E04[COLOR yellow] -> [COLOR white]Inesperado[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Inesperado[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T01/LS-T01E04.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/8a7dDjv4mDanIKdBsS97knZ0Jna.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E05[COLOR yellow] -> [COLOR white]Terra Nova[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Terra Nova[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T01/LS-T01E05.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/8a7dDjv4mDanIKdBsS97knZ0Jna.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E06[COLOR yellow] -> [COLOR white]O Incidente Andoriano[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]O Incidente Andoriano[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T01/LS-T01E06.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/8a7dDjv4mDanIKdBsS97knZ0Jna.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E07[COLOR yellow] -> [COLOR white]Quebrando O Gelo[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Quebrando O Gelo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T01/LS-T01E07.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/8a7dDjv4mDanIKdBsS97knZ0Jna.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E08[COLOR yellow] -> [COLOR white]Civilização[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Civilização[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T01/LS-T01E08.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/8a7dDjv4mDanIKdBsS97knZ0Jna.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E09[COLOR yellow] -> [COLOR white]Mercadores Do Espaço[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Mercadores Do Espaço[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T01/LS-T01E09.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/8a7dDjv4mDanIKdBsS97knZ0Jna.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E10[COLOR yellow] -> [COLOR white]Frente Fria[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Frente Fria[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T01/LS-T01E10.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/8a7dDjv4mDanIKdBsS97knZ0Jna.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/10.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E11[COLOR yellow] -> [COLOR white]Inimigo Silencioso[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white]Inimigo Silencioso[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T01/LS-T01E11.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/8a7dDjv4mDanIKdBsS97knZ0Jna.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/11.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E12[COLOR yellow] -> [COLOR white]Caro Doutor[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white]Caro Doutor[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T01/LS-T01E12.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/8a7dDjv4mDanIKdBsS97knZ0Jna.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/12.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E13[COLOR yellow] -> [COLOR white]Cães Adormecidos[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white]Cães Adormecidos[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T01/LS-T01E13.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/8a7dDjv4mDanIKdBsS97knZ0Jna.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/13.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E14[COLOR yellow] -> [COLOR white]Sombras De P'Jem[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E14[COLOR yellow] -> [COLOR white]Sombras De P'Jem[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T01/LS-T01E14.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/8a7dDjv4mDanIKdBsS97knZ0Jna.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/14.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E15[COLOR yellow] -> [COLOR white]Cápsula Auxiliar I[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E15[COLOR yellow] -> [COLOR white]Cápsula Auxiliar I[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T01/LS-T01E15.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/8a7dDjv4mDanIKdBsS97knZ0Jna.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/15.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E16[COLOR yellow] -> [COLOR white]Fusão[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E16[COLOR yellow] -> [COLOR white]Fusão[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T01/LS-T01E16.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/8a7dDjv4mDanIKdBsS97knZ0Jna.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/16.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E17[COLOR yellow] -> [COLOR white]Planeta Errante[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E17[COLOR yellow] -> [COLOR white]Planeta Errante[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T01/LS-T01E17.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/8a7dDjv4mDanIKdBsS97knZ0Jna.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/17.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E18[COLOR yellow] -> [COLOR white]Aquisição[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E18[COLOR yellow] -> [COLOR white]Aquisição[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T01/LS-T01E18.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/8a7dDjv4mDanIKdBsS97knZ0Jna.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/18.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E19[COLOR yellow] -> [COLOR white]Oásis[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E19[COLOR yellow] -> [COLOR white]Oásis[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T01/LS-T01E19.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/8a7dDjv4mDanIKdBsS97knZ0Jna.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/19.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E20[COLOR yellow] -> [COLOR white]Detidos[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E20[COLOR yellow] -> [COLOR white]Detidos[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T01/LS-T01E20.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/8a7dDjv4mDanIKdBsS97knZ0Jna.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/20.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E21[COLOR yellow] -> [COLOR white]Vox Sola[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E21[COLOR yellow] -> [COLOR white]Vox Sola[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T01/LS-T01E21.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/8a7dDjv4mDanIKdBsS97knZ0Jna.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/21.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E22[COLOR yellow] -> [COLOR white]Herói Em Decadência[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E22[COLOR yellow] -> [COLOR white]Herói Em Decadência[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T01/LS-T01E22.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/8a7dDjv4mDanIKdBsS97knZ0Jna.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/22.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E23[COLOR yellow] -> [COLOR white]Travessia No Deserto[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E23[COLOR yellow] -> [COLOR white]Travessia No Deserto[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T01/LS-T01E23.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/8a7dDjv4mDanIKdBsS97knZ0Jna.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/23.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E24[COLOR yellow] -> [COLOR white]Dois Dias E Duas Noites[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E24[COLOR yellow] -> [COLOR white]Dois Dias E Duas Noites[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T01/LS-T01E24.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/8a7dDjv4mDanIKdBsS97knZ0Jna.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/24.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E25[COLOR yellow] -> [COLOR white]Onda De Choque (Parte 1)[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E25[COLOR yellow] -> [COLOR white]Onda De Choque (Parte 1)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T01/LS-T01E25.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/8a7dDjv4mDanIKdBsS97knZ0Jna.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/25.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E26[COLOR yellow] -> [COLOR white]Onda De Choque (Parte 2)[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E26[COLOR yellow] -> [COLOR white]Onda De Choque (Parte 2)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T02/LS-T02E01.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/8a7dDjv4mDanIKdBsS97knZ0Jna.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/26.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
 <title>[COLOR orange][B]TEMP 02 (2002) 25 EPs - HD DUB[/B][/COLOR]</title>
 <link>NOLINK</link>	
-<thumbnail>https://www.themoviedb.org/t/p/original/4ZVib0wikk9nM5mWWzSgdjXDYmN.jpg</thumbnail>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/02.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E01[COLOR yellow] -> [COLOR white]Carbon Creek[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]Carbon Creek[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T02/LS-T02E02.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/4ZVib0wikk9nM5mWWzSgdjXDYmN.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E02[COLOR yellow] -> [COLOR white]Campo Minado[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]Campo Minado[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T02/LS-T02E03.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/4ZVib0wikk9nM5mWWzSgdjXDYmN.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E03[COLOR yellow] -> [COLOR white]Ponto Morto[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]Ponto Morto[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T02/LS-T02E04.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/4ZVib0wikk9nM5mWWzSgdjXDYmN.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E04[COLOR yellow] -> [COLOR white]Uma Noite Na Enfermaria[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]Uma Noite Na Enfermaria[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T02/LS-T02E05.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/4ZVib0wikk9nM5mWWzSgdjXDYmN.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E05[COLOR yellow] -> [COLOR white]Saqueadores[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]Saqueadores[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T02/LS-T02E06.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/4ZVib0wikk9nM5mWWzSgdjXDYmN.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E06[COLOR yellow] -> [COLOR white]O Sétimo[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]O Sétimo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T02/LS-T02E07.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/4ZVib0wikk9nM5mWWzSgdjXDYmN.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E07[COLOR yellow] -> [COLOR white]O Comunicador[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white]O Comunicador[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T02/LS-T02E08.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/4ZVib0wikk9nM5mWWzSgdjXDYmN.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E08[COLOR yellow] -> [COLOR white]Singularidade[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white]Singularidade[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T02/LS-T02E09.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/4ZVib0wikk9nM5mWWzSgdjXDYmN.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E09[COLOR yellow] -> [COLOR white]Ponto De Fuga[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E09[COLOR yellow] -> [COLOR white]Ponto De Fuga[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T02/LS-T02E10.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/4ZVib0wikk9nM5mWWzSgdjXDYmN.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E10[COLOR yellow] -> [COLOR white]Carga Preciosa[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E10[COLOR yellow] -> [COLOR white]Carga Preciosa[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T02/LS-T02E11.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/4ZVib0wikk9nM5mWWzSgdjXDYmN.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/10.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E11[COLOR yellow] -> [COLOR white]A Passarela[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E11[COLOR yellow] -> [COLOR white]A Passarela[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T02/LS-T02E12.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/4ZVib0wikk9nM5mWWzSgdjXDYmN.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/11.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E12[COLOR yellow] -> [COLOR white]Amanhecer[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E12[COLOR yellow] -> [COLOR white]Amanhecer[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T02/LS-T02E13.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/4ZVib0wikk9nM5mWWzSgdjXDYmN.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/12.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E13[COLOR yellow] -> [COLOR white]Estigma[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E13[COLOR yellow] -> [COLOR white]Estigma[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T02/LS-T02E14.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/4ZVib0wikk9nM5mWWzSgdjXDYmN.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/13.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E14[COLOR yellow] -> [COLOR white]Cessar-fogo[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E14[COLOR yellow] -> [COLOR white]Cessar-fogo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T02/LS-T02E15.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/4ZVib0wikk9nM5mWWzSgdjXDYmN.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/14.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E15[COLOR yellow] -> [COLOR white]Futuro Do Presente[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E15[COLOR yellow] -> [COLOR white]Futuro Do Presente[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T02/LS-T02E16.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/4ZVib0wikk9nM5mWWzSgdjXDYmN.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/15.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E16[COLOR yellow] -> [COLOR white]Canamar[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E16[COLOR yellow] -> [COLOR white]Canamar[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T02/LS-T02E17.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/4ZVib0wikk9nM5mWWzSgdjXDYmN.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/16.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E17[COLOR yellow] -> [COLOR white]A Travessia[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E17[COLOR yellow] -> [COLOR white]A Travessia[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T02/LS-T02E18.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/4ZVib0wikk9nM5mWWzSgdjXDYmN.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/17.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E18[COLOR yellow] -> [COLOR white]Julgamento[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E18[COLOR yellow] -> [COLOR white]Julgamento[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T02/LS-T02E19.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/4ZVib0wikk9nM5mWWzSgdjXDYmN.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/18.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E19[COLOR yellow] -> [COLOR white]Horizon[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E19[COLOR yellow] -> [COLOR white]Horizon[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T02/LS-T02E20.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/4ZVib0wikk9nM5mWWzSgdjXDYmN.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/19.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E20[COLOR yellow] -> [COLOR white]A Ruptura[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E20[COLOR yellow] -> [COLOR white]A Ruptura[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T02/LS-T02E21.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/4ZVib0wikk9nM5mWWzSgdjXDYmN.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/20.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E21[COLOR yellow] -> [COLOR white]Cogenitor[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E21[COLOR yellow] -> [COLOR white]Cogenitor[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T02/LS-T02E22.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/4ZVib0wikk9nM5mWWzSgdjXDYmN.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/21.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E22[COLOR yellow] -> [COLOR white]Regeneração[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E22[COLOR yellow] -> [COLOR white]Regeneração[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T02/LS-T02E23.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/4ZVib0wikk9nM5mWWzSgdjXDYmN.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/22.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E23[COLOR yellow] -> [COLOR white]Primeiro Voo[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E23[COLOR yellow] -> [COLOR white]Primeiro Voo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T02/LS-T02E24.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/4ZVib0wikk9nM5mWWzSgdjXDYmN.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/23.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E24[COLOR yellow] -> [COLOR white]Recompensa[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E24[COLOR yellow] -> [COLOR white]Recompensa[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T02/LS-T02E25.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/4ZVib0wikk9nM5mWWzSgdjXDYmN.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/24.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E25[COLOR yellow] -> [COLOR white]A Expansão[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E25[COLOR yellow] -> [COLOR white]A Expansão[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T02/LS-T02E26.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/4ZVib0wikk9nM5mWWzSgdjXDYmN.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/25.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
 <title>[COLOR orange][B]TEMP 03 (2003) 24 EPs - HD DUB[/B][/COLOR]</title>
 <link>NOLINK</link>	
-<thumbnail>https://www.themoviedb.org/t/p/original/ag7kPi1ifDYHk2sUZuf72rHS9J5.jpg</thumbnail>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/03.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E01[COLOR yellow] -> [COLOR white]Os Xindis[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E01[COLOR yellow] -> [COLOR white]Os Xindis[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T03/LS-T03E01.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ag7kPi1ifDYHk2sUZuf72rHS9J5.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E02[COLOR yellow] -> [COLOR white]Anomalia[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E02[COLOR yellow] -> [COLOR white]Anomalia[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T03/LS-T03E02.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ag7kPi1ifDYHk2sUZuf72rHS9J5.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E03[COLOR yellow] -> [COLOR white]Extinção[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E03[COLOR yellow] -> [COLOR white]Extinção[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T03/LS-T03E03.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ag7kPi1ifDYHk2sUZuf72rHS9J5.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E04[COLOR yellow] -> [COLOR white]Rajiin[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E04[COLOR yellow] -> [COLOR white]Rajiin[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T03/LS-T03E04.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ag7kPi1ifDYHk2sUZuf72rHS9J5.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E05[COLOR yellow] -> [COLOR white]Impulso[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E05[COLOR yellow] -> [COLOR white]Impulso[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T03/LS-T03E05.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ag7kPi1ifDYHk2sUZuf72rHS9J5.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E06[COLOR yellow] -> [COLOR white]Exílio[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E06[COLOR yellow] -> [COLOR white]Exílio[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T03/LS-T03E06.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ag7kPi1ifDYHk2sUZuf72rHS9J5.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E07[COLOR yellow] -> [COLOR white]O Carregamento[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E07[COLOR yellow] -> [COLOR white]O Carregamento[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T03/LS-T03E07.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ag7kPi1ifDYHk2sUZuf72rHS9J5.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E08[COLOR yellow] -> [COLOR white]Futuro Incerto[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E08[COLOR yellow] -> [COLOR white]Futuro Incerto[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T03/LS-T03E08.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ag7kPi1ifDYHk2sUZuf72rHS9J5.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E09[COLOR yellow] -> [COLOR white]Estrela Polar[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E09[COLOR yellow] -> [COLOR white]Estrela Polar[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T03/LS-T03E09.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ag7kPi1ifDYHk2sUZuf72rHS9J5.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E10[COLOR yellow] -> [COLOR white]Semelhança[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E10[COLOR yellow] -> [COLOR white]Semelhança[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T03/LS-T03E10.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ag7kPi1ifDYHk2sUZuf72rHS9J5.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/10.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E11[COLOR yellow] -> [COLOR white]Rua Carpenter[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E11[COLOR yellow] -> [COLOR white]Rua Carpenter[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T03/LS-T03E11.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ag7kPi1ifDYHk2sUZuf72rHS9J5.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/11.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E12[COLOR yellow] -> [COLOR white]Reino Escolhido[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E12[COLOR yellow] -> [COLOR white]Reino Escolhido[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T03/LS-T03E12.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ag7kPi1ifDYHk2sUZuf72rHS9J5.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/12.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E13[COLOR yellow] -> [COLOR white]Campo De Provas[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E13[COLOR yellow] -> [COLOR white]Campo De Provas[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T03/LS-T03E13.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ag7kPi1ifDYHk2sUZuf72rHS9J5.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/13.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E14[COLOR yellow] -> [COLOR white]Estratagema[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E14[COLOR yellow] -> [COLOR white]Estratagema[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T03/LS-T03E14.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ag7kPi1ifDYHk2sUZuf72rHS9J5.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/14.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E15[COLOR yellow] -> [COLOR white]O Precursor[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E15[COLOR yellow] -> [COLOR white]O Precursor[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T03/LS-T03E15.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ag7kPi1ifDYHk2sUZuf72rHS9J5.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/15.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E16[COLOR yellow] -> [COLOR white]Ordens Médicas[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E16[COLOR yellow] -> [COLOR white]Ordens Médicas[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T03/LS-T03E16.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ag7kPi1ifDYHk2sUZuf72rHS9J5.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/16.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E17[COLOR yellow] -> [COLOR white]Incubadora[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E17[COLOR yellow] -> [COLOR white]Incubadora[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T03/LS-T03E17.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ag7kPi1ifDYHk2sUZuf72rHS9J5.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/17.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E18[COLOR yellow] -> [COLOR white]Azati Prime[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E18[COLOR yellow] -> [COLOR white]Azati Prime[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T03/LS-T03E18.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ag7kPi1ifDYHk2sUZuf72rHS9J5.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/18.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E19[COLOR yellow] -> [COLOR white]Relatório De Danos[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E19[COLOR yellow] -> [COLOR white]Relatório De Danos[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T03/LS-T03E19.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ag7kPi1ifDYHk2sUZuf72rHS9J5.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/19.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E20[COLOR yellow] -> [COLOR white]Os Esquecidos[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E20[COLOR yellow] -> [COLOR white]Os Esquecidos[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T03/LS-T03E20.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ag7kPi1ifDYHk2sUZuf72rHS9J5.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/20.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E21[COLOR yellow] -> [COLOR white]Enterprise 2[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E21[COLOR yellow] -> [COLOR white]Enterprise 2[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T03/LS-T03E21.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ag7kPi1ifDYHk2sUZuf72rHS9J5.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/21.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E22[COLOR yellow] -> [COLOR white]O Conselho[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E22[COLOR yellow] -> [COLOR white]O Conselho[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T03/LS-T03E22.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ag7kPi1ifDYHk2sUZuf72rHS9J5.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/22.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E23[COLOR yellow] -> [COLOR white]Contagem Regressiva[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E23[COLOR yellow] -> [COLOR white]Contagem Regressiva[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T03/LS-T03E23.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ag7kPi1ifDYHk2sUZuf72rHS9J5.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/23.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E24[COLOR yellow] -> [COLOR white]Hora Zero[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E24[COLOR yellow] -> [COLOR white]Hora Zero[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T03/LS-T03E24.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ag7kPi1ifDYHk2sUZuf72rHS9J5.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/24.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
 <title>[COLOR orange][B]TEMP 04 (2004) 22 EPs - HD DUB[/B][/COLOR]</title>
 <link>NOLINK</link>	
-<thumbnail>https://www.themoviedb.org/t/p/original/tv9iG5S13fe9Re2JEvpq2WVNbL8.jpg</thumbnail>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/04.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E01[COLOR yellow] -> [COLOR white]Tempestade Temporal (Parte 1)[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E01[COLOR yellow] -> [COLOR white]Tempestade Temporal (Parte 1)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T04/LS-T04E01.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/tv9iG5S13fe9Re2JEvpq2WVNbL8.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E02[COLOR yellow] -> [COLOR white]Tempestade Temporal (Parte 2)[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E02[COLOR yellow] -> [COLOR white]Tempestade Temporal (Parte 2)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T04/LS-T04E02.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/tv9iG5S13fe9Re2JEvpq2WVNbL8.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E03[COLOR yellow] -> [COLOR white]Lar[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E03[COLOR yellow] -> [COLOR white]Lar[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T04/LS-T04E03.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/tv9iG5S13fe9Re2JEvpq2WVNbL8.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E04[COLOR yellow] -> [COLOR white]Fronteira[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E04[COLOR yellow] -> [COLOR white]Fronteira[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T04/LS-T04E04.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/tv9iG5S13fe9Re2JEvpq2WVNbL8.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E05[COLOR yellow] -> [COLOR white]Estação Polar [/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E05[COLOR yellow] -> [COLOR white]Estação Polar [COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T04/LS-T04E05.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/tv9iG5S13fe9Re2JEvpq2WVNbL8.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E06[COLOR yellow] -> [COLOR white]Os Aumentados[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E06[COLOR yellow] -> [COLOR white]Os Aumentados[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T04/LS-T04E06.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/tv9iG5S13fe9Re2JEvpq2WVNbL8.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E07[COLOR yellow] -> [COLOR white]No Deserto De Vulcano[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E07[COLOR yellow] -> [COLOR white]No Deserto De Vulcano[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T04/LS-T04E07.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/tv9iG5S13fe9Re2JEvpq2WVNbL8.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E08[COLOR yellow] -> [COLOR white]O Despertar[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E08[COLOR yellow] -> [COLOR white]O Despertar[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T04/LS-T04E08.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/tv9iG5S13fe9Re2JEvpq2WVNbL8.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E09[COLOR yellow] -> [COLOR white]Kir'Shara[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E09[COLOR yellow] -> [COLOR white]Kir'Shara[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T04/LS-T04E09.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/tv9iG5S13fe9Re2JEvpq2WVNbL8.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E10[COLOR yellow] -> [COLOR white]Daedelus[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E10[COLOR yellow] -> [COLOR white]Daedelus[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T04/LS-T04E10.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/tv9iG5S13fe9Re2JEvpq2WVNbL8.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/10.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E11[COLOR yellow] -> [COLOR white]Observador[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E11[COLOR yellow] -> [COLOR white]Observador[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T04/LS-T04E11.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/tv9iG5S13fe9Re2JEvpq2WVNbL8.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/11.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E12[COLOR yellow] -> [COLOR white]Babel [/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E12[COLOR yellow] -> [COLOR white]Babel [COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T04/LS-T04E12.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/tv9iG5S13fe9Re2JEvpq2WVNbL8.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/12.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E13[COLOR yellow] -> [COLOR white]Unidos[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E13[COLOR yellow] -> [COLOR white]Unidos[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T04/LS-T04E13.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/tv9iG5S13fe9Re2JEvpq2WVNbL8.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/13.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E14[COLOR yellow] -> [COLOR white]Os Aenars[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E14[COLOR yellow] -> [COLOR white]Os Aenars[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T04/LS-T04E14.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/tv9iG5S13fe9Re2JEvpq2WVNbL8.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/14.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E15[COLOR yellow] -> [COLOR white]Praga[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E15[COLOR yellow] -> [COLOR white]Praga[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T04/LS-T04E15.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/tv9iG5S13fe9Re2JEvpq2WVNbL8.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/15.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E16[COLOR yellow] -> [COLOR white]Divergência[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E16[COLOR yellow] -> [COLOR white]Divergência[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T04/LS-T04E16.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/tv9iG5S13fe9Re2JEvpq2WVNbL8.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/16.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E17[COLOR yellow] -> [COLOR white]Amarrados[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E17[COLOR yellow] -> [COLOR white]Amarrados[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T04/LS-T04E17.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/tv9iG5S13fe9Re2JEvpq2WVNbL8.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/17.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E18[COLOR yellow] -> [COLOR white]Reflexo Sombrio (Parte 1)[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E18[COLOR yellow] -> [COLOR white]Reflexo Sombrio (Parte 1)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T04/LS-T04E18.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/tv9iG5S13fe9Re2JEvpq2WVNbL8.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/18.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E19[COLOR yellow] -> [COLOR white]Reflexo Sombrio (Parte 2)[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E19[COLOR yellow] -> [COLOR white]Reflexo Sombrio (Parte 2)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T04/LS-T04E19.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/tv9iG5S13fe9Re2JEvpq2WVNbL8.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/19.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E20[COLOR yellow] -> [COLOR white]Demônios[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E20[COLOR yellow] -> [COLOR white]Demônios[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T04/LS-T04E20.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/tv9iG5S13fe9Re2JEvpq2WVNbL8.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/20.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E21[COLOR yellow] -> [COLOR white]Terra Prime[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E21[COLOR yellow] -> [COLOR white]Terra Prime[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T04/LS-T04E21.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/tv9iG5S13fe9Re2JEvpq2WVNbL8.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/21.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E22[COLOR yellow] -> [COLOR white]Estas São As Viagens...[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E22[COLOR yellow] -> [COLOR white]Estas São As Viagens...[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2001.Enterprise/T04/LS-T04E22.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/tv9iG5S13fe9Re2JEvpq2WVNbL8.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/22.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/5afme5dXe3ki39bOz4rmTao0Hl6.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[COLOR black].[/COLOR]</title>				
 <link>ignoreme</link>				
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+<fanart>https://i.ibb.aco/6N5djff/FAN-2.png</fanart>			
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
-<title>[COLOR orange][B]O VÍDEO NÃO ABRIU ?[/B][/COLOR]</title>
+<title>[COLOR orange][B]ERROS ? CHAME O SUPORTE[/B][/COLOR]</title>	
 <link>ignoreme</link>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-<item>
-<title>[COLOR orange][B]NÃO ENCONTROU O QUE QUERIA ?[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-<item>
-<title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+<thumbnail>https://i.ibb.co/BnzRHfz/ERROS-SUPORTE.png</thumbnail>				
+<fanart>https://i.ibb.aco/6N5djff/FAN-2.png</fanart>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
