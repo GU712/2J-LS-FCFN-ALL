@@ -1,18 +1,29 @@
 <item>	
 <title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
 <link>NOLINK</link>	
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>		
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>	
+<thumbnail>https://i.ibb.co/NWfgpVX/SEL-ITEM-SRS-ICON.png</thumbnail>				
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>		
+<info>FAÇA SUA ESCOLHA 
+E DIVIRTA-SE </info>	
 </item>	
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-	
+
 <item>	
 <title>[COLOR orange][B]Star Trek: A Nova Missão[/B][/COLOR]</title>	
 <link>NOLINK</link>	
 <thumbnail>https://www.themoviedb.org/t/p/original/37gPCTyiQOLa9vJeKrpX4HqRq6P.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>	
+<info>[COLOR white]Assista aqui a série: 
+[B]Star Trek: A Nova Missão
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1993 a 1998
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]07 TEMPs - 175 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]À beira da Fronteira Final, o maior mistério do Universo está prestes a se desenrolar.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>	
 </item>	
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -20,783 +31,1152 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[COLOR orange][B]TEMP 01 (1993) 19 EPs - SD DUAL+LEG[/B][/COLOR]</title>
 <link>NOLINK</link>	
-<thumbnail>https://www.themoviedb.org/t/p/original/ubJSW2VQ5dzWC7lduFG0Ee3kALq.jpg</thumbnail>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/01.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E01[COLOR yellow] -> [COLOR white]O Emissário[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]O Emissário[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T01/LS-T01E01.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ubJSW2VQ5dzWC7lduFG0Ee3kALq.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E02[COLOR yellow] -> [COLOR white]Prólogo do Passado[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Prólogo do Passado[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T01/LS-T01E02.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ubJSW2VQ5dzWC7lduFG0Ee3kALq.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E03[COLOR yellow] -> [COLOR white]O Homem Só[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]O Homem Só[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T01/LS-T01E03.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ubJSW2VQ5dzWC7lduFG0Ee3kALq.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E04[COLOR yellow] -> [COLOR white]Babel[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Babel[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T01/LS-T01E04.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ubJSW2VQ5dzWC7lduFG0Ee3kALq.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E05[COLOR yellow] -> [COLOR white]Caça e Caçador[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Caça e Caçador[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T01/LS-T01E05.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ubJSW2VQ5dzWC7lduFG0Ee3kALq.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E06[COLOR yellow] -> [COLOR white]O Lance de Q[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]O Lance de Q[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T01/LS-T01E06.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ubJSW2VQ5dzWC7lduFG0Ee3kALq.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E07[COLOR yellow] -> [COLOR white]Dax[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Dax[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T01/LS-T01E07.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ubJSW2VQ5dzWC7lduFG0Ee3kALq.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E08[COLOR yellow] -> [COLOR white]O Passageiro[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]O Passageiro[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T01/LS-T01E08.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ubJSW2VQ5dzWC7lduFG0Ee3kALq.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E09[COLOR yellow] -> [COLOR white]Vá Para Casa[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Vá Para Casa[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T01/LS-T01E09.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ubJSW2VQ5dzWC7lduFG0Ee3kALq.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E10[COLOR yellow] -> [COLOR white]O Grande Nagus[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]O Grande Nagus[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T01/LS-T01E10.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ubJSW2VQ5dzWC7lduFG0Ee3kALq.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/10.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E11[COLOR yellow] -> [COLOR white]O Vórtice[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white]O Vórtice[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T01/LS-T01E11.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ubJSW2VQ5dzWC7lduFG0Ee3kALq.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/11.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E12[COLOR yellow] -> [COLOR white]Frentes de Batalha[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white]Frentes de Batalha[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T01/LS-T01E12.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ubJSW2VQ5dzWC7lduFG0Ee3kALq.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/12.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E13[COLOR yellow] -> [COLOR white]O Contador de Histórias[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white]O Contador de Histórias[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T01/LS-T01E13.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ubJSW2VQ5dzWC7lduFG0Ee3kALq.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/13.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E14[COLOR yellow] -> [COLOR white]Progresso[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E14[COLOR yellow] -> [COLOR white]Progresso[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T01/LS-T01E14.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ubJSW2VQ5dzWC7lduFG0Ee3kALq.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/14.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E15[COLOR yellow] -> [COLOR white]Nas Asas da Imaginação[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E15[COLOR yellow] -> [COLOR white]Nas Asas da Imaginação[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T01/LS-T01E15.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ubJSW2VQ5dzWC7lduFG0Ee3kALq.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/15.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E16[COLOR yellow] -> [COLOR white]Intruso de Estimação[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E16[COLOR yellow] -> [COLOR white]Intruso de Estimação[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T01/LS-T01E16.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ubJSW2VQ5dzWC7lduFG0Ee3kALq.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/16.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E17[COLOR yellow] -> [COLOR white]Luta pelo Poder[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E17[COLOR yellow] -> [COLOR white]Luta pelo Poder[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T01/LS-T01E17.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ubJSW2VQ5dzWC7lduFG0Ee3kALq.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/17.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E18[COLOR yellow] -> [COLOR white]Dueto[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E18[COLOR yellow] -> [COLOR white]Dueto[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T01/LS-T01E18.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ubJSW2VQ5dzWC7lduFG0Ee3kALq.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/18.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E19[COLOR yellow] -> [COLOR white]Nas Mãos dos Profetas[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E19[COLOR yellow] -> [COLOR white]Nas Mãos dos Profetas[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T01/LS-T01E19.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ubJSW2VQ5dzWC7lduFG0Ee3kALq.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/19.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 item>
 <title>[COLOR orange][B]TEMP 02 (1993) 25 EPs - SD DUAL+LEG[/B][/COLOR]</title>
 <link>NOLINK</link>	
-<thumbnail>https://www.themoviedb.org/t/p/original/q5Cx2AwECtgjp91VHggtlRIOFsh.jpg</thumbnail>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/02.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E01[COLOR yellow] -> [COLOR white]A Volta para Casa[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]A Volta para Casa[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T02/LS-T02E01.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/q5Cx2AwECtgjp91VHggtlRIOFsh.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E02[COLOR yellow] -> [COLOR white]O Círculo[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]O Círculo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T02/LS-T02E02.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/q5Cx2AwECtgjp91VHggtlRIOFsh.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E03[COLOR yellow] -> [COLOR white]O Cerco[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]O Cerco[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T02/LS-T02E03.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/q5Cx2AwECtgjp91VHggtlRIOFsh.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E04[COLOR yellow] -> [COLOR white]A Invasão[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]A Invasão[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T02/LS-T02E04.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/q5Cx2AwECtgjp91VHggtlRIOFsh.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E05[COLOR yellow] -> [COLOR white]Cardassianos[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]Cardassianos[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T02/LS-T02E05.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/q5Cx2AwECtgjp91VHggtlRIOFsh.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E06[COLOR yellow] -> [COLOR white]Melora[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]Melora[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T02/LS-T02E06.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/q5Cx2AwECtgjp91VHggtlRIOFsh.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E07[COLOR yellow] -> [COLOR white]Regras de Aquisição[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white]Regras de Aquisição[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T02/LS-T02E07.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/q5Cx2AwECtgjp91VHggtlRIOFsh.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E08[COLOR yellow] -> [COLOR white]Mal Necessário[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white]Mal Necessário[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T02/LS-T02E08.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/q5Cx2AwECtgjp91VHggtlRIOFsh.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E09[COLOR yellow] -> [COLOR white]Segunda Vista[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E09[COLOR yellow] -> [COLOR white]Segunda Vista[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T02/LS-T02E09.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/q5Cx2AwECtgjp91VHggtlRIOFsh.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E10[COLOR yellow] -> [COLOR white]Santuário[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E10[COLOR yellow] -> [COLOR white]Santuário[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T02/LS-T02E10.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/q5Cx2AwECtgjp91VHggtlRIOFsh.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/10.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E11[COLOR yellow] -> [COLOR white]Rivais[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E11[COLOR yellow] -> [COLOR white]Rivais[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T02/LS-T02E11.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/q5Cx2AwECtgjp91VHggtlRIOFsh.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/11.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E12[COLOR yellow] -> [COLOR white]Volta às Origens[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E12[COLOR yellow] -> [COLOR white]Volta às Origens[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T02/LS-T02E12.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/q5Cx2AwECtgjp91VHggtlRIOFsh.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/12.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E13[COLOR yellow] -> [COLOR white]Jogo de Armagedon[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E13[COLOR yellow] -> [COLOR white]Jogo de Armagedon[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T02/LS-T02E13.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/q5Cx2AwECtgjp91VHggtlRIOFsh.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/13.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E14[COLOR yellow] -> [COLOR white]Sussurros[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E14[COLOR yellow] -> [COLOR white]Sussurros[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T02/LS-T02E14.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/q5Cx2AwECtgjp91VHggtlRIOFsh.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/14.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E15[COLOR yellow] -> [COLOR white]Paraiso[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E15[COLOR yellow] -> [COLOR white]Paraiso[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T02/LS-T02E15.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/q5Cx2AwECtgjp91VHggtlRIOFsh.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/15.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E16[COLOR yellow] -> [COLOR white]Jogo de Sombras[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E16[COLOR yellow] -> [COLOR white]Jogo de Sombras[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T02/LS-T02E16.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/q5Cx2AwECtgjp91VHggtlRIOFsh.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/16.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E17[COLOR yellow] -> [COLOR white]Brincando de Deus[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E17[COLOR yellow] -> [COLOR white]Brincando de Deus[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T02/LS-T02E17.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/q5Cx2AwECtgjp91VHggtlRIOFsh.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/17.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E18[COLOR yellow] -> [COLOR white]Perdas e Ganhos[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E18[COLOR yellow] -> [COLOR white]Perdas e Ganhos[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T02/LS-T02E18.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/q5Cx2AwECtgjp91VHggtlRIOFsh.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/18.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E19[COLOR yellow] -> [COLOR white]Juramento de Sangue[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E19[COLOR yellow] -> [COLOR white]Juramento de Sangue[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T02/LS-T02E19.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/q5Cx2AwECtgjp91VHggtlRIOFsh.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/19.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E20[COLOR yellow] -> [COLOR white]Os Maquis (Parte 1)[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E20[COLOR yellow] -> [COLOR white]Os Maquis (Parte 1)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T02/LS-T02E20.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/q5Cx2AwECtgjp91VHggtlRIOFsh.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/20.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E21[COLOR yellow] -> [COLOR white]Os Maquis (Parte 2)[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E21[COLOR yellow] -> [COLOR white]Os Maquis (Parte 2)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T02/LS-T02E21.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/q5Cx2AwECtgjp91VHggtlRIOFsh.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/21.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E22[COLOR yellow] -> [COLOR white]Verdades e Mentiras[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E22[COLOR yellow] -> [COLOR white]Verdades e Mentiras[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T02/LS-T02E22.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/q5Cx2AwECtgjp91VHggtlRIOFsh.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/22.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E23[COLOR yellow] -> [COLOR white]Espelho, Espelho Meu[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E23[COLOR yellow] -> [COLOR white]Espelho, Espelho Meu[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T02/LS-T02E23.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/q5Cx2AwECtgjp91VHggtlRIOFsh.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/23.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E24[COLOR yellow] -> [COLOR white]O Colaborador[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E24[COLOR yellow] -> [COLOR white]O Colaborador[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T02/LS-T02E24.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/q5Cx2AwECtgjp91VHggtlRIOFsh.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/24.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E25[COLOR yellow] -> [COLOR white]Tribunal[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E25[COLOR yellow] -> [COLOR white]Tribunal[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T02/LS-T02E25.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/q5Cx2AwECtgjp91VHggtlRIOFsh.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/25.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E26[COLOR yellow] -> [COLOR white]Os Jem'Hadar[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E26[COLOR yellow] -> [COLOR white]Os Jem'Hadar[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T02/LS-T02E26.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/q5Cx2AwECtgjp91VHggtlRIOFsh.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/26.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
 <title>[COLOR orange][B]TEMP 03 (1994) 26 EPs EPs - SD DUAL+LEG[/B][/COLOR]</title>
 <link>NOLINK</link>	
-<thumbnail>https://www.themoviedb.org/t/p/original/fyY1D5BRzDTEBjPrhcDxE5DeHPt.jpg</thumbnail>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/03.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E01[COLOR yellow] -> [COLOR white]A Busca (Parte 1)[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E01[COLOR yellow] -> [COLOR white]A Busca (Parte 1)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T03/LS-T03E01.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/fyY1D5BRzDTEBjPrhcDxE5DeHPt.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E02[COLOR yellow] -> [COLOR white]A Busca (Parte 2)[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E02[COLOR yellow] -> [COLOR white]A Busca (Parte 2)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T03/LS-T03E02.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/fyY1D5BRzDTEBjPrhcDxE5DeHPt.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E03[COLOR yellow] -> [COLOR white]A Casa de Quark[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E03[COLOR yellow] -> [COLOR white]A Casa de Quark[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T03/LS-T03E03.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/fyY1D5BRzDTEBjPrhcDxE5DeHPt.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E04[COLOR yellow] -> [COLOR white]Equilíbrio[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E04[COLOR yellow] -> [COLOR white]Equilíbrio[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T03/LS-T03E04.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/fyY1D5BRzDTEBjPrhcDxE5DeHPt.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E05[COLOR yellow] -> [COLOR white]Segunda Pele[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E05[COLOR yellow] -> [COLOR white]Segunda Pele[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T03/LS-T03E05.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/fyY1D5BRzDTEBjPrhcDxE5DeHPt.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E06[COLOR yellow] -> [COLOR white]Abandonado[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E06[COLOR yellow] -> [COLOR white]Abandonado[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T03/LS-T03E06.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/fyY1D5BRzDTEBjPrhcDxE5DeHPt.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E07[COLOR yellow] -> [COLOR white]Defesa Civil[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E07[COLOR yellow] -> [COLOR white]Defesa Civil[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T03/LS-T03E07.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/fyY1D5BRzDTEBjPrhcDxE5DeHPt.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E08[COLOR yellow] -> [COLOR white]Meridian[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E08[COLOR yellow] -> [COLOR white]Meridian[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T03/LS-T03E08.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/fyY1D5BRzDTEBjPrhcDxE5DeHPt.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E09[COLOR yellow] -> [COLOR white]Defiant[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E09[COLOR yellow] -> [COLOR white]Defiant[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T03/LS-T03E09.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/fyY1D5BRzDTEBjPrhcDxE5DeHPt.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E10[COLOR yellow] -> [COLOR white]Fascinação[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E10[COLOR yellow] -> [COLOR white]Fascinação[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T03/LS-T03E10.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/fyY1D5BRzDTEBjPrhcDxE5DeHPt.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/10.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E11[COLOR yellow] -> [COLOR white]Passado Imperfeito (Parte 1)[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E11[COLOR yellow] -> [COLOR white]Passado Imperfeito (Parte 1)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T03/LS-T03E11.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/fyY1D5BRzDTEBjPrhcDxE5DeHPt.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/11.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E12[COLOR yellow] -> [COLOR white]Passado Imperfeito (Parte 2)[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E12[COLOR yellow] -> [COLOR white]Passado Imperfeito (Parte 2)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T03/LS-T03E12.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/fyY1D5BRzDTEBjPrhcDxE5DeHPt.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/12.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E13[COLOR yellow] -> [COLOR white]Suporte de Vida[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E13[COLOR yellow] -> [COLOR white]Suporte de Vida[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T03/LS-T03E13.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/fyY1D5BRzDTEBjPrhcDxE5DeHPt.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/13.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E14[COLOR yellow] -> [COLOR white]Coração de Pedra[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E14[COLOR yellow] -> [COLOR white]Coração de Pedra[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T03/LS-T03E14.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/fyY1D5BRzDTEBjPrhcDxE5DeHPt.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/14.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E15[COLOR yellow] -> [COLOR white]Destino[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E15[COLOR yellow] -> [COLOR white]Destino[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T03/LS-T03E15.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/fyY1D5BRzDTEBjPrhcDxE5DeHPt.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/15.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E16[COLOR yellow] -> [COLOR white]A Bênção dos Profetas[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E16[COLOR yellow] -> [COLOR white]A Bênção dos Profetas[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T03/LS-T03E16.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/fyY1D5BRzDTEBjPrhcDxE5DeHPt.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/16.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E17[COLOR yellow] -> [COLOR white]Visionário[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E17[COLOR yellow] -> [COLOR white]Visionário[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T03/LS-T03E17.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/fyY1D5BRzDTEBjPrhcDxE5DeHPt.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/17.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E18[COLOR yellow] -> [COLOR white]Vozes Distantes[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E18[COLOR yellow] -> [COLOR white]Vozes Distantes[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T03/LS-T03E18.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/fyY1D5BRzDTEBjPrhcDxE5DeHPt.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/18.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E19[COLOR yellow] -> [COLOR white]Do Outro Lado do Espelho[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E19[COLOR yellow] -> [COLOR white]Do Outro Lado do Espelho[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T03/LS-T03E19.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/fyY1D5BRzDTEBjPrhcDxE5DeHPt.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/19.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E20[COLOR yellow] -> [COLOR white]Causa Improvável[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E20[COLOR yellow] -> [COLOR white]Causa Improvável[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T03/LS-T03E20.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/fyY1D5BRzDTEBjPrhcDxE5DeHPt.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/20.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E21[COLOR yellow] -> [COLOR white]A Sorte Está Lançada[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E21[COLOR yellow] -> [COLOR white]A Sorte Está Lançada[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T03/LS-T03E21.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/fyY1D5BRzDTEBjPrhcDxE5DeHPt.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/21.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E22[COLOR yellow] -> [COLOR white]Exploradores[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E22[COLOR yellow] -> [COLOR white]Exploradores[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T03/LS-T03E22.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/fyY1D5BRzDTEBjPrhcDxE5DeHPt.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/22.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E23[COLOR yellow] -> [COLOR white]Negócios de Família[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E23[COLOR yellow] -> [COLOR white]Negócios de Família[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T03/LS-T03E23.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/fyY1D5BRzDTEBjPrhcDxE5DeHPt.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/23.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E24[COLOR yellow] -> [COLOR white]Shakaar[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E24[COLOR yellow] -> [COLOR white]Shakaar[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T03/LS-T03E24.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/fyY1D5BRzDTEBjPrhcDxE5DeHPt.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/24.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E25[COLOR yellow] -> [COLOR white]Faces[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E25[COLOR yellow] -> [COLOR white]Faces[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T03/LS-T03E25.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/fyY1D5BRzDTEBjPrhcDxE5DeHPt.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/25.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E26[COLOR yellow] -> [COLOR white]O Adversário[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E26[COLOR yellow] -> [COLOR white]O Adversário[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T03/LS-T03E26.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/fyY1D5BRzDTEBjPrhcDxE5DeHPt.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/26.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
 <title>[COLOR orange][B]TEMP 04 (1995) 25 EPs - SD DUAL+LEG[/B][/COLOR]</title>
 <link>NOLINK</link>	
-<thumbnail>https://www.themoviedb.org/t/p/original/1G1iV3xEs3zYrCUnTO4zGtzQq96.jpg</thumbnail>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/04.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
-</<item>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
+</item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E01[COLOR yellow] -> [COLOR white]O Caminho do Guerreiro[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E01[COLOR yellow] -> [COLOR white]O Caminho do Guerreiro[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T04/LS-T04E01.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/1G1iV3xEs3zYrCUnTO4zGtzQq96.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T04E02[COLOR yellow] -> [COLOR white]O Visitante[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E02[COLOR yellow] -> [COLOR white]O Visitante[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T04/LS-T04E02.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/1G1iV3xEs3zYrCUnTO4zGtzQq96.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T04E03[COLOR yellow] -> [COLOR white]Juramento de Hipócrates[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E03[COLOR yellow] -> [COLOR white]Juramento de Hipócrates[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T04/LS-T04E03.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/1G1iV3xEs3zYrCUnTO4zGtzQq96.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T04E04[COLOR yellow] -> [COLOR white]Indiscrição[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E04[COLOR yellow] -> [COLOR white]Indiscrição[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T04/LS-T04E04.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/1G1iV3xEs3zYrCUnTO4zGtzQq96.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T04E05[COLOR yellow] -> [COLOR white]Reassociação[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E05[COLOR yellow] -> [COLOR white]Reassociação[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T04/LS-T04E05.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/1G1iV3xEs3zYrCUnTO4zGtzQq96.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T04E06[COLOR yellow] -> [COLOR white]O Primeiro Comando[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E06[COLOR yellow] -> [COLOR white]O Primeiro Comando[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T04/LS-T04E06.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/1G1iV3xEs3zYrCUnTO4zGtzQq96.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T04E07[COLOR yellow] -> [COLOR white]Homenzinhos Verdes[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E07[COLOR yellow] -> [COLOR white]Homenzinhos Verdes[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T04/LS-T04E07.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/1G1iV3xEs3zYrCUnTO4zGtzQq96.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T04E08[COLOR yellow] -> [COLOR white]A Espada de Kahless[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E08[COLOR yellow] -> [COLOR white]A Espada de Kahless[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T04/LS-T04E08.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/1G1iV3xEs3zYrCUnTO4zGtzQq96.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T04E09[COLOR yellow] -> [COLOR white]Bashir, Agente Secreto[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E09[COLOR yellow] -> [COLOR white]Bashir, Agente Secreto[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T04/LS-T04E09.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/1G1iV3xEs3zYrCUnTO4zGtzQq96.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T04E10[COLOR yellow] -> [COLOR white]Paraíso Ameaçado[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E10[COLOR yellow] -> [COLOR white]Paraíso Ameaçado[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T04/LS-T04E10.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/1G1iV3xEs3zYrCUnTO4zGtzQq96.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/10.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T04E11[COLOR yellow] -> [COLOR white]Paraíso Perdido[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E11[COLOR yellow] -> [COLOR white]Paraíso Perdido[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T04/LS-T04E11.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/1G1iV3xEs3zYrCUnTO4zGtzQq96.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/11.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T04E12[COLOR yellow] -> [COLOR white]O Guarda-Costas[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E12[COLOR yellow] -> [COLOR white]O Guarda-Costas[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T04/LS-T04E12.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/1G1iV3xEs3zYrCUnTO4zGtzQq96.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/12.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T04E13[COLOR yellow] -> [COLOR white]Retorno à Gloria[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E13[COLOR yellow] -> [COLOR white]Retorno à Gloria[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T04/LS-T04E13.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/1G1iV3xEs3zYrCUnTO4zGtzQq96.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/13.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T04E14[COLOR yellow] -> [COLOR white]Os Filhos de Mogh[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E14[COLOR yellow] -> [COLOR white]Os Filhos de Mogh[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T04/LS-T04E14.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/1G1iV3xEs3zYrCUnTO4zGtzQq96.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/14.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T04E15[COLOR yellow] -> [COLOR white]Uma Greve no Quark's[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E15[COLOR yellow] -> [COLOR white]Uma Greve no Quark's[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T04/LS-T04E15.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/1G1iV3xEs3zYrCUnTO4zGtzQq96.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/15.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T04E16[COLOR yellow] -> [COLOR white]O Outro Emissário[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E16[COLOR yellow] -> [COLOR white]O Outro Emissário[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T04/LS-T04E16.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/1G1iV3xEs3zYrCUnTO4zGtzQq96.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/16.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T04E17[COLOR yellow] -> [COLOR white]Regras de Combate[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E17[COLOR yellow] -> [COLOR white]Regras de Combate[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T04/LS-T04E17.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/1G1iV3xEs3zYrCUnTO4zGtzQq96.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/17.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T04E18[COLOR yellow] -> [COLOR white]Tempos Difíceis[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E18[COLOR yellow] -> [COLOR white]Tempos Difíceis[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T04/LS-T04E18.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/1G1iV3xEs3zYrCUnTO4zGtzQq96.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/18.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T04E19[COLOR yellow] -> [COLOR white]Espelho Estilhaçado[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E19[COLOR yellow] -> [COLOR white]Espelho Estilhaçado[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T04/LS-T04E19.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/1G1iV3xEs3zYrCUnTO4zGtzQq96.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/19.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T04E20[COLOR yellow] -> [COLOR white]A Musa[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E20[COLOR yellow] -> [COLOR white]A Musa[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T04/LS-T04E20.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/1G1iV3xEs3zYrCUnTO4zGtzQq96.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/20.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T04E21[COLOR yellow] -> [COLOR white]Pela Causa[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E21[COLOR yellow] -> [COLOR white]Pela Causa[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T04/LS-T04E21.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/1G1iV3xEs3zYrCUnTO4zGtzQq96.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/21.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T04E22[COLOR yellow] -> [COLOR white]Até a Morte[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E22[COLOR yellow] -> [COLOR white]Até a Morte[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T04/LS-T04E22.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/1G1iV3xEs3zYrCUnTO4zGtzQq96.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/22.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T04E23[COLOR yellow] -> [COLOR white]A Marca da Maldade[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E23[COLOR yellow] -> [COLOR white]A Marca da Maldade[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T04/LS-T04E23.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/1G1iV3xEs3zYrCUnTO4zGtzQq96.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/23.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T04E24[COLOR yellow] -> [COLOR white]Os Valores Ferengis[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E24[COLOR yellow] -> [COLOR white]Os Valores Ferengis[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T04/LS-T04E24.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/1G1iV3xEs3zYrCUnTO4zGtzQq96.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/24.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T04E25[COLOR yellow] -> [COLOR white]Elo Rompido[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E25[COLOR yellow] -> [COLOR white]Elo Rompido[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T04/LS-T04E25.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/1G1iV3xEs3zYrCUnTO4zGtzQq96.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/25.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
 <title>[COLOR orange][B]TEMP 05 (1996) 26 EPs - SD DUAL+LEG[/B][/COLOR]</title>
 <link>NOLINK</link>	
-<thumbnail>https://www.themoviedb.org/t/p/original/zcgUGgWVOT3KaJjDTfXyAci7ZVA.jpg</thumbnail>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/05.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
-</<item>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
+</item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T05E01[COLOR yellow] -> [COLOR white]Apocalipse Crescente[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T05E01[COLOR yellow] -> [COLOR white]Apocalipse Crescente[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T05/LS-T05E01.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/zcgUGgWVOT3KaJjDTfXyAci7ZVA.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T05E02[COLOR yellow] -> [COLOR white]A Nave[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T05E02[COLOR yellow] -> [COLOR white]A Nave[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T05/LS-T05E02.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/zcgUGgWVOT3KaJjDTfXyAci7ZVA.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T05E03[COLOR yellow] -> [COLOR white]Procurando por par'Mach em todos os Lugares Errados[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T05E03[COLOR yellow] -> [COLOR white]Procurando por par'Mach em todos os Lugares Errados[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T05/LS-T05E03.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/zcgUGgWVOT3KaJjDTfXyAci7ZVA.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T05E04[COLOR yellow] -> [COLOR white]Um Retrato da Batalha[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T05E04[COLOR yellow] -> [COLOR white]Um Retrato da Batalha[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T05/LS-T05E04.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/zcgUGgWVOT3KaJjDTfXyAci7ZVA.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T05E05[COLOR yellow] -> [COLOR white]A Possessão[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T05E05[COLOR yellow] -> [COLOR white]A Possessão[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T05/LS-T05E05.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/zcgUGgWVOT3KaJjDTfXyAci7ZVA.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T05E06[COLOR yellow] -> [COLOR white]Os Pingos e suas Atribulações[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T05E06[COLOR yellow] -> [COLOR white]Os Pingos e suas Atribulações[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T05/LS-T05E06.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/zcgUGgWVOT3KaJjDTfXyAci7ZVA.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T05E07[COLOR yellow] -> [COLOR white]Que Aquele que nunca Pecou...[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T05E07[COLOR yellow] -> [COLOR white]Que Aquele que nunca Pecou...[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T05/LS-T05E07.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/zcgUGgWVOT3KaJjDTfXyAci7ZVA.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T05E08[COLOR yellow] -> [COLOR white]Coisas do Passado[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T05E08[COLOR yellow] -> [COLOR white]Coisas do Passado[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T05/LS-T05E08.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/zcgUGgWVOT3KaJjDTfXyAci7ZVA.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T05E09[COLOR yellow] -> [COLOR white]A Escalada[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T05E09[COLOR yellow] -> [COLOR white]A Escalada[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T05/LS-T05E09.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/zcgUGgWVOT3KaJjDTfXyAci7ZVA.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T05E10[COLOR yellow] -> [COLOR white]Êxtase[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T05E10[COLOR yellow] -> [COLOR white]Êxtase[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T05/LS-T05E10.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/zcgUGgWVOT3KaJjDTfXyAci7ZVA.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/10.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T05E11[COLOR yellow] -> [COLOR white]A Escuridão e a Luz[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T05E11[COLOR yellow] -> [COLOR white]A Escuridão e a Luz[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T05/LS-T05E11.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/zcgUGgWVOT3KaJjDTfXyAci7ZVA.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/11.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T05E12[COLOR yellow] -> [COLOR white]O Primogênito[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T05E12[COLOR yellow] -> [COLOR white]O Primogênito[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T05/LS-T05E12.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/zcgUGgWVOT3KaJjDTfXyAci7ZVA.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/12.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T05E13[COLOR yellow] -> [COLOR white]Pelo Uniforme[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T05E13[COLOR yellow] -> [COLOR white]Pelo Uniforme[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T05/LS-T05E13.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/zcgUGgWVOT3KaJjDTfXyAci7ZVA.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/13.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T05E14[COLOR yellow] -> [COLOR white]À Sombra do Purgatório[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T05E14[COLOR yellow] -> [COLOR white]À Sombra do Purgatório[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T05/LS-T05E14.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/zcgUGgWVOT3KaJjDTfXyAci7ZVA.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/14.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T05E15[COLOR yellow] -> [COLOR white]Pela Luz do Inferno[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T05E15[COLOR yellow] -> [COLOR white]Pela Luz do Inferno[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T05/LS-T05E15.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/zcgUGgWVOT3KaJjDTfXyAci7ZVA.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/15.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T05E16[COLOR yellow] -> [COLOR white]Doutor Bashir, Eu Presumo?[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T05E16[COLOR yellow] -> [COLOR white]Doutor Bashir, Eu Presumo?[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T05/LS-T05E16.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/zcgUGgWVOT3KaJjDTfXyAci7ZVA.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/16.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T05E17[COLOR yellow] -> [COLOR white]Uma Simples Investigação[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T05E17[COLOR yellow] -> [COLOR white]Uma Simples Investigação[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T05/LS-T05E17.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/zcgUGgWVOT3KaJjDTfXyAci7ZVA.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/17.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T05E18[COLOR yellow] -> [COLOR white]Negócios como Sempre[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T05E18[COLOR yellow] -> [COLOR white]Negócios como Sempre[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T05/LS-T05E18.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/zcgUGgWVOT3KaJjDTfXyAci7ZVA.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/18.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T05E19[COLOR yellow] -> [COLOR white]Laços de Sangue e Água[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T05E19[COLOR yellow] -> [COLOR white]Laços de Sangue e Água[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T05/LS-T05E19.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/zcgUGgWVOT3KaJjDTfXyAci7ZVA.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/19.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T05E20[COLOR yellow] -> [COLOR white]Canção de Amor Ferengi[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T05E20[COLOR yellow] -> [COLOR white]Canção de Amor Ferengi[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T05/LS-T05E20.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/zcgUGgWVOT3KaJjDTfXyAci7ZVA.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/20.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T05E21[COLOR yellow] -> [COLOR white]Soldados pelo Império[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T05E21[COLOR yellow] -> [COLOR white]Soldados pelo Império[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T05/LS-T05E21.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/zcgUGgWVOT3KaJjDTfXyAci7ZVA.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/21.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T05E22[COLOR yellow] -> [COLOR white]Filhos do Tempo[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T05E22[COLOR yellow] -> [COLOR white]Filhos do Tempo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T05/LS-T05E22.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/zcgUGgWVOT3KaJjDTfXyAci7ZVA.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/22.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T05E23[COLOR yellow] -> [COLOR white]O Brilho da Glória[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T05E23[COLOR yellow] -> [COLOR white]O Brilho da Glória[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T05/LS-T05E23.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/zcgUGgWVOT3KaJjDTfXyAci7ZVA.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/23.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T05E24[COLOR yellow] -> [COLOR white]Empok Nor[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T05E24[COLOR yellow] -> [COLOR white]Empok Nor[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T05/LS-T05E24.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/zcgUGgWVOT3KaJjDTfXyAci7ZVA.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/24.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T05E25[COLOR yellow] -> [COLOR white]Um Presente para Sisko[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T05E25[COLOR yellow] -> [COLOR white]Um Presente para Sisko[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T05/LS-T05E25.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/zcgUGgWVOT3KaJjDTfXyAci7ZVA.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/25.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T05E26[COLOR yellow] -> [COLOR white]Chamado para Batalha[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T05E26[COLOR yellow] -> [COLOR white]Chamado para Batalha[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T05/LS-T05E26.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/zcgUGgWVOT3KaJjDTfXyAci7ZVA.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/26.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
 <title>[COLOR orange][B]TEMP 06 (1997) 26 EPs - SD DUAL+LEG[/B][/COLOR]</title>
 <link>NOLINK</link>	
-<thumbnail>https://www.themoviedb.org/t/p/original/qn5S1d0seG5k9gXr9z9II8GS3GM.jpg</thumbnail>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/06.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
-</<item>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
+</item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T06E01[COLOR yellow] -> [COLOR white]Tempo De Lutar[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T06E01[COLOR yellow] -> [COLOR white]Tempo De Lutar[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T06/LS-T06E01.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/qn5S1d0seG5k9gXr9z9II8GS3GM.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T06E02[COLOR yellow] -> [COLOR white]Recifes e Dunas[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T06E02[COLOR yellow] -> [COLOR white]Recifes e Dunas[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T06/LS-T06E02.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/qn5S1d0seG5k9gXr9z9II8GS3GM.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T06E03[COLOR yellow] -> [COLOR white]Filhos e Filhas[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T06E03[COLOR yellow] -> [COLOR white]Filhos e Filhas[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T06/LS-T06E03.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/qn5S1d0seG5k9gXr9z9II8GS3GM.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T06E04[COLOR yellow] -> [COLOR white]Atrás Das Linhas[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T06E04[COLOR yellow] -> [COLOR white]Atrás Das Linhas[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T06/LS-T06E04.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/qn5S1d0seG5k9gXr9z9II8GS3GM.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T06E05[COLOR yellow] -> [COLOR white]A Sorte Dos Corajosos[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T06E05[COLOR yellow] -> [COLOR white]A Sorte Dos Corajosos[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T06/LS-T06E05.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/qn5S1d0seG5k9gXr9z9II8GS3GM.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T06E06[COLOR yellow] -> [COLOR white]O Sacrifício Dos Anjos[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T06E06[COLOR yellow] -> [COLOR white]O Sacrifício Dos Anjos[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T06/LS-T06E06.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/qn5S1d0seG5k9gXr9z9II8GS3GM.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T06E07[COLOR yellow] -> [COLOR white]Você Está Cordialmente Convidado[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T06E07[COLOR yellow] -> [COLOR white]Você Está Cordialmente Convidado[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T06/LS-T06E07.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/qn5S1d0seG5k9gXr9z9II8GS3GM.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T06E08[COLOR yellow] -> [COLOR white]Ressurreição[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T06E08[COLOR yellow] -> [COLOR white]Ressurreição[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T06/LS-T06E08.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/qn5S1d0seG5k9gXr9z9II8GS3GM.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T06E09[COLOR yellow] -> [COLOR white]Probabilidades Estatísticas[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T06E09[COLOR yellow] -> [COLOR white]Probabilidades Estatísticas[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T06/LS-T06E09.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/qn5S1d0seG5k9gXr9z9II8GS3GM.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T06E10[COLOR yellow] -> [COLOR white]Os Magníficos Ferengis[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T06E10[COLOR yellow] -> [COLOR white]Os Magníficos Ferengis[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T06/LS-T06E10.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/qn5S1d0seG5k9gXr9z9II8GS3GM.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/10.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T06E11[COLOR yellow] -> [COLOR white]A Valsa[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T06E11[COLOR yellow] -> [COLOR white]A Valsa[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T06/LS-T06E11.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/qn5S1d0seG5k9gXr9z9II8GS3GM.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/11.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T06E12[COLOR yellow] -> [COLOR white]Quem Chora Por Morn?[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T06E12[COLOR yellow] -> [COLOR white]Quem Chora Por Morn?[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T06/LS-T06E12.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/qn5S1d0seG5k9gXr9z9II8GS3GM.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/12.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T06E13[COLOR yellow] -> [COLOR white]Muito Além Das Estrelas[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T06E13[COLOR yellow] -> [COLOR white]Muito Além Das Estrelas[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T06/LS-T06E13.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/qn5S1d0seG5k9gXr9z9II8GS3GM.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/13.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T06E14[COLOR yellow] -> [COLOR white]A Incrível Nave Que Encolheu[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T06E14[COLOR yellow] -> [COLOR white]A Incrível Nave Que Encolheu[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T06/LS-T06E14.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/qn5S1d0seG5k9gXr9z9II8GS3GM.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/14.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T06E15[COLOR yellow] -> [COLOR white]Honra Entre Ladrões[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T06E15[COLOR yellow] -> [COLOR white]Honra Entre Ladrões[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T06/LS-T06E15.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/qn5S1d0seG5k9gXr9z9II8GS3GM.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/15.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T06E16[COLOR yellow] -> [COLOR white]Dois Corações[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T06E16[COLOR yellow] -> [COLOR white]Dois Corações[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T06/LS-T06E16.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/qn5S1d0seG5k9gXr9z9II8GS3GM.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/16.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T06E17[COLOR yellow] -> [COLOR white]Pecados Piores Que A Morte Ou A Noite[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T06E17[COLOR yellow] -> [COLOR white]Pecados Piores Que A Morte Ou A Noite[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T06/LS-T06E17.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/qn5S1d0seG5k9gXr9z9II8GS3GM.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/17.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T06E18[COLOR yellow] -> [COLOR white]Inquisição[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T06E18[COLOR yellow] -> [COLOR white]Inquisição[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T06/LS-T06E18.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/qn5S1d0seG5k9gXr9z9II8GS3GM.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/18.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T06E19[COLOR yellow] -> [COLOR white]A Qualquer Preço[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T06E19[COLOR yellow] -> [COLOR white]A Qualquer Preço[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T06/LS-T06E19.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/qn5S1d0seG5k9gXr9z9II8GS3GM.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/19.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T06E20[COLOR yellow] -> [COLOR white]Ele e Ela[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T06E20[COLOR yellow] -> [COLOR white]Ele e Ela[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T06/LS-T06E20.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/qn5S1d0seG5k9gXr9z9II8GS3GM.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/20.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T06E21[COLOR yellow] -> [COLOR white]O Embate[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T06E21[COLOR yellow] -> [COLOR white]O Embate[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T06/LS-T06E21.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/qn5S1d0seG5k9gXr9z9II8GS3GM.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/21.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T06E22[COLOR yellow] -> [COLOR white]Valiant[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T06E22[COLOR yellow] -> [COLOR white]Valiant[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T06/LS-T06E22.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/qn5S1d0seG5k9gXr9z9II8GS3GM.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/22.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T06E23[COLOR yellow] -> [COLOR white]Lucros e Alfazema[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T06E23[COLOR yellow] -> [COLOR white]Lucros e Alfazema[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T06/LS-T06E23.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/qn5S1d0seG5k9gXr9z9II8GS3GM.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/23.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T06E24[COLOR yellow] -> [COLOR white]Órfã Do Tempo[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T06E24[COLOR yellow] -> [COLOR white]Órfã Do Tempo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T06/LS-T06E24.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/qn5S1d0seG5k9gXr9z9II8GS3GM.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/24.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T06E25[COLOR yellow] -> [COLOR white]O Som Da Sua Voz[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T06E25[COLOR yellow] -> [COLOR white]O Som Da Sua Voz[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T06/LS-T06E25.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/qn5S1d0seG5k9gXr9z9II8GS3GM.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/25.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T06E26[COLOR yellow] -> [COLOR white]As Lágrimas Dos Profetas[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T06E26[COLOR yellow] -> [COLOR white]As Lágrimas Dos Profetas[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T06/LS-T06E26.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/qn5S1d0seG5k9gXr9z9II8GS3GM.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/26.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
 <title>[COLOR orange][B]TEMP 07 (1998) 25 EPs - SD DUAL+LEG[/B][/COLOR]</title>
 <link>NOLINK</link>	
-<thumbnail>https://www.themoviedb.org/t/p/original/5kxjiNHcFPo4MdRoivXCh1m1c1Q.jpg</thumbnail>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/07.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart>
-</<item>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
+</item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T07E01[COLOR yellow] -> [COLOR white]Imagem Na Areia[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T07E01[COLOR yellow] -> [COLOR white]Imagem Na Areia[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T07/LS-T07E01.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/5kxjiNHcFPo4MdRoivXCh1m1c1Q.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T07E02[COLOR yellow] -> [COLOR white]Sombras e Símbolos[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T07E02[COLOR yellow] -> [COLOR white]Sombras e Símbolos[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T07/LS-T07E02.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/5kxjiNHcFPo4MdRoivXCh1m1c1Q.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T07E03[COLOR yellow] -> [COLOR white]Ecos Do Passado[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T07E03[COLOR yellow] -> [COLOR white]Ecos Do Passado[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T07/LS-T07E03.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/5kxjiNHcFPo4MdRoivXCh1m1c1Q.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T07E04[COLOR yellow] -> [COLOR white]Duelo De Titãs[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T07E04[COLOR yellow] -> [COLOR white]Duelo De Titãs[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T07/LS-T07E04.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/5kxjiNHcFPo4MdRoivXCh1m1c1Q.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T07E05[COLOR yellow] -> [COLOR white]Crisálida[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T07E05[COLOR yellow] -> [COLOR white]Crisálida[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T07/LS-T07E05.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/5kxjiNHcFPo4MdRoivXCh1m1c1Q.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T07E06[COLOR yellow] -> [COLOR white]Traição, Fé E O Grande Rio[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T07E06[COLOR yellow] -> [COLOR white]Traição, Fé E O Grande Rio[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T07/LS-T07E06.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/5kxjiNHcFPo4MdRoivXCh1m1c1Q.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T07E07[COLOR yellow] -> [COLOR white]Uma Vez Mais Para A Brecha[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T07E07[COLOR yellow] -> [COLOR white]Uma Vez Mais Para A Brecha[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T07/LS-T07E07.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/5kxjiNHcFPo4MdRoivXCh1m1c1Q.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T07E08[COLOR yellow] -> [COLOR white]O Cerco De AR-[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T07E08[COLOR yellow] -> [COLOR white]O Cerco De AR-[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T07/LS-T07E08.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/5kxjiNHcFPo4MdRoivXCh1m1c1Q.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T07E09[COLOR yellow] -> [COLOR white]O Pacto[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T07E09[COLOR yellow] -> [COLOR white]O Pacto[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T07/LS-T07E09.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/5kxjiNHcFPo4MdRoivXCh1m1c1Q.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T07E10[COLOR yellow] -> [COLOR white]Todo Mundo Vai Ao Vics[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T07E10[COLOR yellow] -> [COLOR white]Todo Mundo Vai Ao Vics[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T07/LS-T07E10.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/5kxjiNHcFPo4MdRoivXCh1m1c1Q.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/10.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T07E11[COLOR yellow] -> [COLOR white]A Filha Pródiga[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T07E11[COLOR yellow] -> [COLOR white]A Filha Pródiga[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T07/LS-T07E11.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/5kxjiNHcFPo4MdRoivXCh1m1c1Q.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/11.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T07E12[COLOR yellow] -> [COLOR white]A Nova Camuflagem Do Imperador[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T07E12[COLOR yellow] -> [COLOR white]A Nova Camuflagem Do Imperador[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T07/LS-T07E12.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/5kxjiNHcFPo4MdRoivXCh1m1c1Q.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/12.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T07E13[COLOR yellow] -> [COLOR white]Zona De Tiro[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T07E13[COLOR yellow] -> [COLOR white]Zona De Tiro[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T07/LS-T07E13.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/5kxjiNHcFPo4MdRoivXCh1m1c1Q.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/13.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T07E14[COLOR yellow] -> [COLOR white]Quimera[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T07E14[COLOR yellow] -> [COLOR white]Quimera[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T07/LS-T07E14.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/5kxjiNHcFPo4MdRoivXCh1m1c1Q.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/14.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T07E15[COLOR yellow] -> [COLOR white]Onze Hologramas E Um Segredo[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T07E15[COLOR yellow] -> [COLOR white]Onze Hologramas E Um Segredo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T07/LS-T07E15.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/5kxjiNHcFPo4MdRoivXCh1m1c1Q.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/15.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T07E16[COLOR yellow] -> [COLOR white]Entre As Armas Das Leis Silenciosas[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T07E16[COLOR yellow] -> [COLOR white]Entre As Armas Das Leis Silenciosas[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T07/LS-T07E16.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/5kxjiNHcFPo4MdRoivXCh1m1c1Q.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/16.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T07E17[COLOR yellow] -> [COLOR white]Penumbra[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T07E17[COLOR yellow] -> [COLOR white]Penumbra[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T07/LS-T07E17.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/5kxjiNHcFPo4MdRoivXCh1m1c1Q.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/17.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T07E18[COLOR yellow] -> [COLOR white]Até Que A Morte Nos Separe[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T07E18[COLOR yellow] -> [COLOR white]Até Que A Morte Nos Separe[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T07/LS-T07E18.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/5kxjiNHcFPo4MdRoivXCh1m1c1Q.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/18.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T07E19[COLOR yellow] -> [COLOR white]Estranhos Companheiros[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T07E19[COLOR yellow] -> [COLOR white]Estranhos Companheiros[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T07/LS-T07E19.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/5kxjiNHcFPo4MdRoivXCh1m1c1Q.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/19.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T07E20[COLOR yellow] -> [COLOR white]A Face Do Mal[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T07E20[COLOR yellow] -> [COLOR white]A Face Do Mal[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T07/LS-T07E20.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/5kxjiNHcFPo4MdRoivXCh1m1c1Q.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/20.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T07E21[COLOR yellow] -> [COLOR white]Quanto Mais Eu Rezo...[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T07E21[COLOR yellow] -> [COLOR white]Quanto Mais Eu Rezo...[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T07/LS-T07E21.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/5kxjiNHcFPo4MdRoivXCh1m1c1Q.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/21.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T07E22[COLOR yellow] -> [COLOR white]Navegando Contra O Vento[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T07E22[COLOR yellow] -> [COLOR white]Navegando Contra O Vento[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T07/LS-T07E22.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/5kxjiNHcFPo4MdRoivXCh1m1c1Q.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/22.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T07E23[COLOR yellow] -> [COLOR white]Medidas Extremas[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T07E23[COLOR yellow] -> [COLOR white]Medidas Extremas[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T07/LS-T07E23.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/5kxjiNHcFPo4MdRoivXCh1m1c1Q.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/23.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T07E24[COLOR yellow] -> [COLOR white]Cães Da Guerra[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T07E24[COLOR yellow] -> [COLOR white]Cães Da Guerra[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T07/LS-T07E24.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/5kxjiNHcFPo4MdRoivXCh1m1c1Q.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/24.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
-<item><title>[COLOR orange][B]LS-T07E25[COLOR yellow] -> [COLOR white]O Que Deixamos Para Trás[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T07E25[COLOR yellow] -> [COLOR white]O Que Deixamos Para Trás[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/1993.A.Nova.Missao/T07/LS-T07E25.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/5kxjiNHcFPo4MdRoivXCh1m1c1Q.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/25.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/vRYP7Cdboame2zBODQITnapVZnO.jpg</fanart></<item>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <<item>
 <title>[COLOR black].[/COLOR]</title>				
 <link>ignoreme</link>				
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+<fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>			
 </<item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <<item>
-<title>[COLOR orange][B]O VÍDEO NÃO ABRIU ?[/B][/COLOR]</title>
+<title>[COLOR orange][B]O VÍDEO NÃO ABRIU ?[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>ignoreme</link>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+<fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>
 </<item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 <<item>
-<title>[COLOR orange][B]NÃO ENCONTROU O QUE QUERIA ?[/B][/COLOR]</title>				
+<title>[COLOR orange][B]NÃO ENCONTROU O QUE QUERIA ?[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>				
 <link>ignoreme</link>				
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+<fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>			
 </<item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <<item>
-<title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
+<title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>				
 <link>ignoreme</link>				
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+<fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>			
 </<item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
