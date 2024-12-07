@@ -1,303 +1,584 @@
 <item>	
 <title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
 <link>NOLINK</link>	
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>		
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>	
+<thumbnail>https://i.ibb.co/NWfgpVX/SEL-ITEM-SRS-ICON.png</thumbnail>				
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>		
+<info>FAÇA SUA ESCOLHA 
+E DIVIRTA-SE </info>	
 </item>	
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-	
+
 <item>	
 <title>[COLOR orange][B]Star Trek : Discovery[/B][/COLOR]</title>	
 <link>NOLINK</link>	
 <thumbnail>https://www.themoviedb.org/t/p/original/d4yYnguZ8yCxGhRYGeLZ5GycrGz.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>	
+<info>[COLOR white]Assista aqui a série: 
+[B]Star Trek : Discovery
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2017 a 2021
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPs - 55 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Após um século de isolamento, a Federação e o Império Klingon entram em guerra, 
+e as ações de uma oficial da Frota Estelar estão no centro do conflito.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>	
 </item>	
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
+	
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
 <title>[COLOR orange][B]TEMP 01 (2017) 15 EPs - HD DUAL+LEG[/B][/COLOR]</title>
 <link>NOLINK</link>	
-<thumbnail>https://www.themoviedb.org/t/p/original/doB8X3kBYDezOm2aYkGlLR8Lzxr.jpg</thumbnail>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/01.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E01[COLOR yellow] -> [COLOR white]O Olá Vulcano[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]O Olá Vulcano[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2017.Discovery/T01/LS-T01E01.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/doB8X3kBYDezOm2aYkGlLR8Lzxr.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E02[COLOR yellow] -> [COLOR white]Batalha Das Estrelas Binárias[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Batalha Das Estrelas Binárias[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2017.Discovery/T01/LS-T01E02.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/doB8X3kBYDezOm2aYkGlLR8Lzxr.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E03[COLOR yellow] -> [COLOR white]Contexto É Para Reis[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Contexto É Para Reis[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2017.Discovery/T01/LS-T01E03.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/doB8X3kBYDezOm2aYkGlLR8Lzxr.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E04[COLOR yellow] -> [COLOR white]A Faca Do Açougueiro Não Ouve O Berro Do Cordeiro[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]A Faca Do Açougueiro Não Ouve O Berro Do Cordeiro[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2017.Discovery/T01/LS-T01E04.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/doB8X3kBYDezOm2aYkGlLR8Lzxr.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E05[COLOR yellow] -> [COLOR white]Escolha Sua Dor[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Escolha Sua Dor[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2017.Discovery/T01/LS-T01E05.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/doB8X3kBYDezOm2aYkGlLR8Lzxr.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E06[COLOR yellow] -> [COLOR white]Lete[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Lete[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2017.Discovery/T01/LS-T01E06.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/doB8X3kBYDezOm2aYkGlLR8Lzxr.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E07[COLOR yellow] -> [COLOR white]Magia Para Fazer O Homem Mais São Ficar Louco[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Magia Para Fazer O Homem Mais São Ficar Louco[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2017.Discovery/T01/LS-T01E07.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/doB8X3kBYDezOm2aYkGlLR8Lzxr.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E08[COLOR yellow] -> [COLOR white]Se Queres A Paz, Preparas-te Para A Guerra[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Se Queres A Paz, Preparas-te Para A Guerra[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2017.Discovery/T01/LS-T01E08.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/doB8X3kBYDezOm2aYkGlLR8Lzxr.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E09[COLOR yellow] -> [COLOR white]Para A Floresta Eu Vou[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Para A Floresta Eu Vou[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2017.Discovery/T01/LS-T01E09.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/doB8X3kBYDezOm2aYkGlLR8Lzxr.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E10[COLOR yellow] -> [COLOR white]Apesar De Você[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Apesar De Você[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2017.Discovery/T01/LS-T01E10.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/doB8X3kBYDezOm2aYkGlLR8Lzxr.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/10.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E11[COLOR yellow] -> [COLOR white]O Lobo Interior[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white]O Lobo Interior[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2017.Discovery/T01/LS-T01E11.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/doB8X3kBYDezOm2aYkGlLR8Lzxr.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/11.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E12[COLOR yellow] -> [COLOR white]Ambição Desmentida[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white]Ambição Desmentida[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2017.Discovery/T01/LS-T01E12.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/doB8X3kBYDezOm2aYkGlLR8Lzxr.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/12.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E13[COLOR yellow] -> [COLOR white]O Passado É Prólogo[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white]O Passado É Prólogo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2017.Discovery/T01/LS-T01E13.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/doB8X3kBYDezOm2aYkGlLR8Lzxr.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/13.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E14[COLOR yellow] -> [COLOR white]A Guerra Por Fora, A Guerra Por Dentro[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E14[COLOR yellow] -> [COLOR white]A Guerra Por Fora, A Guerra Por Dentro[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2017.Discovery/T01/LS-T01E14.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/doB8X3kBYDezOm2aYkGlLR8Lzxr.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/14.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E15[COLOR yellow] -> [COLOR white]Segure A Minha Mão?[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E15[COLOR yellow] -> [COLOR white]Segure A Minha Mão?[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2017.Discovery/T01/LS-T01E15.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/6ewGczuSpBmKILkJVuYy9iXjUDN.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/15.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
 <title>[COLOR orange][B]TEMP 02 (2019) 14 EPs - HD DUAL+LEG[/B][/COLOR]</title>
 <link>NOLINK</link>	
-<thumbnail>https://www.themoviedb.org/t/p/original/6ewGczuSpBmKILkJVuYy9iXjUDN.jpg</thumbnail>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/02.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E01[COLOR yellow] -> [COLOR white]Irmão[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]Irmão[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2017.Discovery/T02/LS-T02E01.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/6ewGczuSpBmKILkJVuYy9iXjUDN.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E02[COLOR yellow] -> [COLOR white]Novo Éden[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]Novo Éden[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2017.Discovery/T02/LS-T02E02.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/6ewGczuSpBmKILkJVuYy9iXjUDN.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E03[COLOR yellow] -> [COLOR white]Ponto de Luz[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]Ponto de Luz[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2017.Discovery/T02/LS-T02E03.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/6ewGczuSpBmKILkJVuYy9iXjUDN.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E04[COLOR yellow] -> [COLOR white]Uma Moeda para Caronte[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]Uma Moeda para Caronte[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2017.Discovery/T02/LS-T02E04.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/6ewGczuSpBmKILkJVuYy9iXjUDN.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E05[COLOR yellow] -> [COLOR white]Santos da Imperfeição[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]Santos da Imperfeição[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2017.Discovery/T02/LS-T02E05.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/6ewGczuSpBmKILkJVuYy9iXjUDN.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E06[COLOR yellow] -> [COLOR white]O Som do Trovão[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]O Som do Trovão[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2017.Discovery/T02/LS-T02E06.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/6ewGczuSpBmKILkJVuYy9iXjUDN.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E07[COLOR yellow] -> [COLOR white]Luz e Sombras[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white]Luz e Sombras[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2017.Discovery/T02/LS-T02E07.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/6ewGczuSpBmKILkJVuYy9iXjUDN.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E08[COLOR yellow] -> [COLOR white]Se Não Falha a Memória[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white]Se Não Falha a Memória[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2017.Discovery/T02/LS-T02E08.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/6ewGczuSpBmKILkJVuYy9iXjUDN.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E09[COLOR yellow] -> [COLOR white]Projeto Dédalo[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E09[COLOR yellow] -> [COLOR white]Projeto Dédalo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2017.Discovery/T02/LS-T02E09.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/6ewGczuSpBmKILkJVuYy9iXjUDN.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E10[COLOR yellow] -> [COLOR white]O Anjo Vermelho[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E10[COLOR yellow] -> [COLOR white]O Anjo Vermelho[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2017.Discovery/T02/LS-T02E10.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/6ewGczuSpBmKILkJVuYy9iXjUDN.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/10.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E11[COLOR yellow] -> [COLOR white]Infinito Perpétuo[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E11[COLOR yellow] -> [COLOR white]Infinito Perpétuo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2017.Discovery/T02/LS-T02E11.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/6ewGczuSpBmKILkJVuYy9iXjUDN.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/11.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E12[COLOR yellow] -> [COLOR white]Pelo Vale das Sombras[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E12[COLOR yellow] -> [COLOR white]Pelo Vale das Sombras[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2017.Discovery/T02/LS-T02E12.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/6ewGczuSpBmKILkJVuYy9iXjUDN.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/12.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E13[COLOR yellow] -> [COLOR white]Doce Tristeza (Parte 1)[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E13[COLOR yellow] -> [COLOR white]Doce Tristeza (Parte 1)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2017.Discovery/T02/LS-T02E13.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/6ewGczuSpBmKILkJVuYy9iXjUDN.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/13.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E14[COLOR yellow] -> [COLOR white]Doce Tristeza (Parte 2)[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E14[COLOR yellow] -> [COLOR white]Doce Tristeza (Parte 2)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2017.Discovery/T02/LS-T02E14.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/6ewGczuSpBmKILkJVuYy9iXjUDN.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/14.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
 <title>[COLOR orange][B]TEMP 03 (2020) 13 EPs - HD DUAL+LEG[/B][/COLOR]</title>
 <link>NOLINK</link>	
-<thumbnail>https://www.themoviedb.org/t/p/original/iOLJzWUwwtFphFRuRnhrZoDjNF1.jpg</thumbnail>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/03.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E01[COLOR yellow] -> [COLOR white]Minha Esperança é Você (Parte 1)[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E01[COLOR yellow] -> [COLOR white]Minha Esperança é Você (Parte 1)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2017.Discovery/T03/LS-T03E01.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/iOLJzWUwwtFphFRuRnhrZoDjNF1.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E02[COLOR yellow] -> [COLOR white]Longe de Casa[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E02[COLOR yellow] -> [COLOR white]Longe de Casa[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2017.Discovery/T03/LS-T03E02.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/iOLJzWUwwtFphFRuRnhrZoDjNF1.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E03[COLOR yellow] -> [COLOR white]Povo da Terra[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E03[COLOR yellow] -> [COLOR white]Povo da Terra[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2017.Discovery/T03/LS-T03E03.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/iOLJzWUwwtFphFRuRnhrZoDjNF1.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E04[COLOR yellow] -> [COLOR white]Não Me Esqueça[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E04[COLOR yellow] -> [COLOR white]Não Me Esqueça[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2017.Discovery/T03/LS-T03E04.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/iOLJzWUwwtFphFRuRnhrZoDjNF1.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E05[COLOR yellow] -> [COLOR white]Morrer Tentando[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E05[COLOR yellow] -> [COLOR white]Morrer Tentando[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2017.Discovery/T03/LS-T03E05.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/iOLJzWUwwtFphFRuRnhrZoDjNF1.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E06[COLOR yellow] -> [COLOR white]Piratas[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E06[COLOR yellow] -> [COLOR white]Piratas[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2017.Discovery/T03/LS-T03E06.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/iOLJzWUwwtFphFRuRnhrZoDjNF1.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E07[COLOR yellow] -> [COLOR white]Unificação III[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E07[COLOR yellow] -> [COLOR white]Unificação III[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2017.Discovery/T03/LS-T03E07.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/iOLJzWUwwtFphFRuRnhrZoDjNF1.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E08[COLOR yellow] -> [COLOR white]O Santuário[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E08[COLOR yellow] -> [COLOR white]O Santuário[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2017.Discovery/T03/LS-T03E08.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/iOLJzWUwwtFphFRuRnhrZoDjNF1.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E09[COLOR yellow] -> [COLOR white]Terra Firme (Parte 1)[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E09[COLOR yellow] -> [COLOR white]Terra Firme (Parte 1)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2017.Discovery/T03/LS-T03E09.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/iOLJzWUwwtFphFRuRnhrZoDjNF1.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E10[COLOR yellow] -> [COLOR white]Terra Firme (Parte 2)[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E10[COLOR yellow] -> [COLOR white]Terra Firme (Parte 2)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2017.Discovery/T03/LS-T03E10.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/iOLJzWUwwtFphFRuRnhrZoDjNF1.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/10.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E11[COLOR yellow] -> [COLOR white]Su'kal[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E11[COLOR yellow] -> [COLOR white]Su'kal[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2017.Discovery/T03/LS-T03E11.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/iOLJzWUwwtFphFRuRnhrZoDjNF1.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/11.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E12[COLOR yellow] -> [COLOR white]Há uma Maré...[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E12[COLOR yellow] -> [COLOR white]Há uma Maré...[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2017.Discovery/T03/LS-T03E12.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/iOLJzWUwwtFphFRuRnhrZoDjNF1.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/12.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E13[COLOR yellow] -> [COLOR white]Minha Esperança é Você (Parte 2)[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E13[COLOR yellow] -> [COLOR white]Minha Esperança é Você (Parte 2)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2017.Discovery/T03/LS-T03E13.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/iOLJzWUwwtFphFRuRnhrZoDjNF1.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/13.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
 <title>[COLOR orange][B]TEMP 04 (2021) 13 EPs - HD DUAL+LEG[/B][/COLOR]</title>
 <link>NOLINK</link>	
-<thumbnail>https://www.themoviedb.org/t/p/original/jNZcoSpFGQxI36VtuEohhXFEqLr.jpg</thumbnail>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/04.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E01[COLOR yellow] -> [COLOR white]Kobayashi Maru[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E01[COLOR yellow] -> [COLOR white]Kobayashi Maru[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2017.Discovery/T04/LS-T04E01.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/jNZcoSpFGQxI36VtuEohhXFEqLr.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E02[COLOR yellow] -> [COLOR white]Anomaly[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E02[COLOR yellow] -> [COLOR white]Anomaly[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2017.Discovery/T04/LS-T04E02.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/jNZcoSpFGQxI36VtuEohhXFEqLr.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E03[COLOR yellow] -> [COLOR white]Escolha Viver[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E03[COLOR yellow] -> [COLOR white]Escolha Viver[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2017.Discovery/T04/LS-T04E03.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/jNZcoSpFGQxI36VtuEohhXFEqLr.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E04[COLOR yellow] -> [COLOR white]Tudo é Possível[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E04[COLOR yellow] -> [COLOR white]Tudo é Possível[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2017.Discovery/T04/LS-T04E04.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/jNZcoSpFGQxI36VtuEohhXFEqLr.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E05[COLOR yellow] -> [COLOR white]Os Exemplos[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E05[COLOR yellow] -> [COLOR white]Os Exemplos[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2017.Discovery/T04/LS-T04E05.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/jNZcoSpFGQxI36VtuEohhXFEqLr.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E06[COLOR yellow] -> [COLOR white]Tempo Tempestuoso[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E06[COLOR yellow] -> [COLOR white]Tempo Tempestuoso[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2017.Discovery/T04/LS-T04E06.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/jNZcoSpFGQxI36VtuEohhXFEqLr.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E07[COLOR yellow] -> [COLOR white]...Mas Para Conectar[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E07[COLOR yellow] -> [COLOR white]...Mas Para Conectar[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2017.Discovery/T04/LS-T04E07.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/jNZcoSpFGQxI36VtuEohhXFEqLr.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E08[COLOR yellow] -> [COLOR white]Em Tudo[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E08[COLOR yellow] -> [COLOR white]Em Tudo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2017.Discovery/T04/LS-T04E08.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/jNZcoSpFGQxI36VtuEohhXFEqLr.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E09[COLOR yellow] -> [COLOR white]Rubicão[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E09[COLOR yellow] -> [COLOR white]Rubicão[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2017.Discovery/T04/LS-T04E09.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/jNZcoSpFGQxI36VtuEohhXFEqLr.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E10[COLOR yellow] -> [COLOR white]A Barreira Galáctica[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E10[COLOR yellow] -> [COLOR white]A Barreira Galáctica[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2017.Discovery/T04/LS-T04E10.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/jNZcoSpFGQxI36VtuEohhXFEqLr.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/10.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E11[COLOR yellow] -> [COLOR white]Rosetta[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E11[COLOR yellow] -> [COLOR white]Rosetta[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2017.Discovery/T04/LS-T04E11.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/jNZcoSpFGQxI36VtuEohhXFEqLr.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/11.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E12[COLOR yellow] -> [COLOR white]Espécie Dez-C[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E12[COLOR yellow] -> [COLOR white]Espécie Dez-C[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2017.Discovery/T04/LS-T04E12.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/jNZcoSpFGQxI36VtuEohhXFEqLr.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/12.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E13[COLOR yellow] -> [COLOR white]Voltando Para Casa[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E13[COLOR yellow] -> [COLOR white]Voltando Para Casa[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/Star.Trek/SRS/2017.Discovery/T04/LS-T04E13.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/jNZcoSpFGQxI36VtuEohhXFEqLr.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/13.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/rhE2h8WYJOPuBlMl20MQRnJw3aq.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[COLOR black].[/COLOR]</title>				
 <link>ignoreme</link>				
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+<fanart>https://i.ibb.aco/6N5djff/FAN-2.png</fanart>			
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
-<title>[COLOR orange][B]O VÍDEO NÃO ABRIU ?[/B][/COLOR]</title>
+<title>[COLOR orange][B]ERROS ? CHAME O SUPORTE[/B][/COLOR]</title>	
 <link>ignoreme</link>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-<item>
-<title>[COLOR orange][B]NÃO ENCONTROU O QUE QUERIA ?[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-<item>
-<title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+<thumbnail>https://i.ibb.co/BnzRHfz/ERROS-SUPORTE.png</thumbnail>				
+<fanart>https://i.ibb.aco/6N5djff/FAN-2.png</fanart>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
