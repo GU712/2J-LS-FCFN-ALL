@@ -69,16 +69,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 			
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]De Volta para o Futuro (04 Filmes)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/D3A-FLM-De.Volta.para.o.Futuro-ALL</externallink>
-<thumbnail>https://i.ibb.co/8rqR454/COL-BCKFUTURE-ICON-FLM-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/swjCS5W/COL-BCKFUTURE-FAN-ALL.png</fanart>
+<name>[COLOR white][B]De Volta para o Futuro (04 Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/D10A-FLM-De.Volta.para.o.Futuro-ALL</externallink>
+<thumbnail>https://i.ibb.co/NxVKxnL/ESP-BCKFUTURE-FLM.png</thumbnail>
+<fanart>https://i.ibb.co/zsmQvS4/ESP-BCKFUTURE-FAN.png</fanart>
 <info>[COLOR white]Conheça a coleção: 
 [B]De Volta para o Futuro
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
