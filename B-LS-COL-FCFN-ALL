@@ -21,16 +21,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Alien (06 Filmes)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/B1-COL-Alien-ALL</externallink>
-<thumbnail>https://i.ibb.co/q1m00MY/COL-ALIEN-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/b7K17k4/COL-ALIEN-FAN-ALL.png</fanart>
+<name>[COLOR white][B]Alien (06 Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/B001-COL-Alien-ALL</externallink>
+<thumbnail>https://i.ibb.co/8298m77/COL-ALIEN-ICO.png</thumbnail>
+<fanart>https://i.ibb.co/q0dt1mS/COL-ALIEN-FAN.png</fanart>
 <info>[COLOR white]Conheça a coleção: 
 [B]Alien
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
@@ -39,16 +40,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Alien vs. Predador (02 Filmes)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/B2-COL-Alien.X.Predador-ALL</externallink>
-<thumbnail>https://i.ibb.co/bzfhyKy/COL-ALIENXPRED-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/HF6jJx4/COL-ALIENXPRED-FAN-ALL.png</fanart>
+<name>[COLOR white][B]Alien vs. Predador (02 Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/B002-COL-Alien.X.Predador-ALL</externallink>
+<thumbnail>https://i.ibb.co/rydr7Pm/COL-ALIENXPRED-ICO.png</thumbnail>
+<fanart>https://i.ibb.co/k5F5Dbw/COL-ALIENXPRED-FAN.png</fanart>
 <info>[COLOR white]Conheça a coleção: 
 [B]Alien vs. Predador
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
@@ -142,16 +144,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 			
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Harry Potter (08 Filmes)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/B7-COL-Harry.Potter-ALL</externallink>
-<thumbnail>https://i.ibb.co/CWZT8Jd/COL-POTTER-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/cJwtjLx/COL-POTTER-FAN-ALL.png</fanart>
+<name>[COLOR white][B]Harry Potter (08 Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/B003-COL-Harry.Potter-ALL</externallink>
+<thumbnail>https://i.ibb.co/j6FL9Q2/COL-POTTER-ICO.png</thumbnail>
+<fanart>https://i.ibb.co/60MvLd2/COL-POTTER-FAN.png</fanart>
 <info>[COLOR white]Conheça a coleção: 
 [B]Harry Potter
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FANTASIA
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
@@ -197,8 +200,7 @@ Avise o SUPORTE AO USUÁRIO.
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
+
 <name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Malévola (02 Filmes)[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/B3-COL-Malevola-ALL</externallink>
 <thumbnail>https://i.ibb.co/stW1fNL/COL-MALEVOLA-ICON-ALL.png</thumbnail>
@@ -262,16 +264,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Vingador do Futuro (02 Filmes)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/B5-COL-Total.Recall-ALL</externallink>
-<thumbnail>https://i.ibb.co/t4RJP0k/COL-TOTALRECALL-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/8xjPYgC/COL-TOTALRECALL-FAN-ALL.png</fanart>
+<name>[COLOR white][B]O Vingador do Futuro (02 Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/B005-COL-Total.Recall-ALL</externallink>
+<thumbnail>https://i.ibb.co/vDYXmQK/COL-TOTALRECALL-ICO.png</thumbnail>
+<fanart>https://i.ibb.co/mBLZ2kf/COL-TOTALRECALL-FAN.png</fanart>
 <info>[COLOR white]Conheça a coleção: 
 [B]O Vingador do Futuro
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
@@ -322,16 +325,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Predador (06 Filmes)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/B4-COL-Predador-ALL</externallink>
-<thumbnail>https://i.ibb.co/x2Fbvzc/COL-PREDADOR-ICON-AL.png</thumbnail>
-<fanart>https://i.ibb.co/dK4Z7jk/COL-PREDADOR-FAN-ALL.png</fanart>
+<name>[COLOR white][B]Predador (06 Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/B004-COL-Predador-ALL</externallink>
+<thumbnail>https://i.ibb.co/ngbzfG2/COL-PREDADOR-ICO.png</thumbnail>
+<fanart>https://i.ibb.co/239dQDt/COL-PREDADOR-FAN.png</fanart>
 <info>[COLOR white]Conheça a coleção: 
 [B]Predador
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
@@ -394,16 +398,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Tropas Estelares (05 Filmes)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/B9-COL-Tropas.Estelares-ALL</externallink>
-<thumbnail>https://i.ibb.co/18zX0SQ/COL-TROP-EST-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/cQMqVTg/COL-TROP-EST-FAN-ALL.png</fanart>
+<name>[COLOR white][B]Tropas Estelares (05 Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/B007-COL-Tropas.Estelares-ALL</externallink>
+<thumbnail>https://i.ibb.co/cc5ngYq/COL-TROP-EST-ICO.png</thumbnail>
+<fanart>https://i.ibb.co/LZH6KSG/COL-TROP-EST-FAN.png</fanart>
 <info>[COLOR white]Conheça a coleção: 
 [B]Tropas Estelares
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
