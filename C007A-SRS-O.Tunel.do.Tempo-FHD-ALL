@@ -1,172 +1,326 @@
-<item>				
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>				
-<link>NOLINK</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>				
-<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+<item>	
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
+<link>NOLINK</link>	
+<thumbnail>https://i.ibb.co/NWfgpVX/SEL-ITEM-SRS-ICON.png</thumbnail>				
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>		
+<info>FAÇA SUA ESCOLHA 
+E DIVIRTA-SE </info>	
+</item>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>	
+<title>[COLOR orange][B]O Túnel do Tempo[/B][/COLOR]</title>	
+<link>NOLINK</link>	
+<thumbnail>https://www.themoviedb.org/t/p/original/thbpL3Z98gcgdl5mbV0md231ymf.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9GSW3deBIbalhAeksGBm2NX2Uj1.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]O Túnel do Tempo
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1966
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO E FANTASIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 30 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Dois cientistas de um projeto do governo norte-americano que produz uma máquina do tempo, 
+se perdem no tempo e são monitorados por uma equipe que permanece no laboratório e os acompanham em seus deslocamentos
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</item>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
 <title>[COLOR orange][B]TEMP 01 (1966) 30 EPs - FHD DUAL+LEG[/B][/COLOR]</title>
 <link>NOLINK</link>	
-<thumbnail>https://www.themoviedb.org/t/p/original/thbpL3Z98gcgdl5mbV0md231ymf.jpg</thumbnail>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/01.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/9GSW3deBIbalhAeksGBm2NX2Uj1.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E01[COLOR yellow] -> [COLOR white]Volta ao Passado[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/10-FCFN/Tunel.do.Tempo/FHD/T01/LS-T01E01.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/thbpL3Z98gcgdl5mbV0md231ymf.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9GSW3deBIbalhAeksGBm2NX2Uj1.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Volta ao Passado[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/10-FCFN/1966.Tunel.do.Tempo/FHD/T01/LS-T01E01.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9GSW3deBIbalhAeksGBm2NX2Uj1.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E02[COLOR yellow] -> [COLOR white]Viagem a Lua[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/10-FCFN/Tunel.do.Tempo/FHD/T01/LS-T01E02.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/thbpL3Z98gcgdl5mbV0md231ymf.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9GSW3deBIbalhAeksGBm2NX2Uj1.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Viagem a Lua[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/10-FCFN/1966.Tunel.do.Tempo/FHD/T01/LS-T01E02.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9GSW3deBIbalhAeksGBm2NX2Uj1.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E03[COLOR yellow] -> [COLOR white]O Fim do Mundo[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/10-FCFN/Tunel.do.Tempo/FHD/T01/LS-T01E03.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/thbpL3Z98gcgdl5mbV0md231ymf.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9GSW3deBIbalhAeksGBm2NX2Uj1.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]O Fim do Mundo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/10-FCFN/1966.Tunel.do.Tempo/FHD/T01/LS-T01E03.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9GSW3deBIbalhAeksGBm2NX2Uj1.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E04[COLOR yellow] -> [COLOR white]O Dia em que o Ceu Desabou[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/10-FCFN/Tunel.do.Tempo/FHD/T01/LS-T01E04.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/thbpL3Z98gcgdl5mbV0md231ymf.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9GSW3deBIbalhAeksGBm2NX2Uj1.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]O Dia em que o Ceu Desabou[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/10-FCFN/1966.Tunel.do.Tempo/FHD/T01/LS-T01E04.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9GSW3deBIbalhAeksGBm2NX2Uj1.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E05[COLOR yellow] -> [COLOR white]A Ultima Patrulha[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/10-FCFN/Tunel.do.Tempo/FHD/T01/LS-T01E05.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/thbpL3Z98gcgdl5mbV0md231ymf.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9GSW3deBIbalhAeksGBm2NX2Uj1.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]A Ultima Patrulha[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/10-FCFN/1966.Tunel.do.Tempo/FHD/T01/LS-T01E05.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9GSW3deBIbalhAeksGBm2NX2Uj1.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E06[COLOR yellow] -> [COLOR white]O Dia do Juizo Final[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/10-FCFN/Tunel.do.Tempo/FHD/T01/LS-T01E06.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/thbpL3Z98gcgdl5mbV0md231ymf.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9GSW3deBIbalhAeksGBm2NX2Uj1.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]O Dia do Juizo Final[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/10-FCFN/1966.Tunel.do.Tempo/FHD/T01/LS-T01E06.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9GSW3deBIbalhAeksGBm2NX2Uj1.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E07[COLOR yellow] -> [COLOR white]Presente de Grego[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/10-FCFN/Tunel.do.Tempo/FHD/T01/LS-T01E07.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/thbpL3Z98gcgdl5mbV0md231ymf.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9GSW3deBIbalhAeksGBm2NX2Uj1.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Presente de Grego[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/10-FCFN/1966.Tunel.do.Tempo/FHD/T01/LS-T01E07.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9GSW3deBIbalhAeksGBm2NX2Uj1.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E08[COLOR yellow] -> [COLOR white]Massacre[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/10-FCFN/Tunel.do.Tempo/FHD/T01/LS-T01E08.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/thbpL3Z98gcgdl5mbV0md231ymf.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9GSW3deBIbalhAeksGBm2NX2Uj1.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Massacre[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/10-FCFN/1966.Tunel.do.Tempo/FHD/T01/LS-T01E08.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9GSW3deBIbalhAeksGBm2NX2Uj1.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E09[COLOR yellow] -> [COLOR white]Na Ilha do Diabo[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/10-FCFN/Tunel.do.Tempo/FHD/T01/LS-T01E09.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/thbpL3Z98gcgdl5mbV0md231ymf.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9GSW3deBIbalhAeksGBm2NX2Uj1.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Na Ilha do Diabo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/10-FCFN/1966.Tunel.do.Tempo/FHD/T01/LS-T01E09.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9GSW3deBIbalhAeksGBm2NX2Uj1.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E10[COLOR yellow] -> [COLOR white]Reinado do Terror[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/10-FCFN/Tunel.do.Tempo/FHD/T01/LS-T01E10.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/thbpL3Z98gcgdl5mbV0md231ymf.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9GSW3deBIbalhAeksGBm2NX2Uj1.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Reinado do Terror[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/10-FCFN/1966.Tunel.do.Tempo/FHD/T01/LS-T01E10.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/10.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9GSW3deBIbalhAeksGBm2NX2Uj1.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E11[COLOR yellow] -> [COLOR white]A Arma Secreta[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/10-FCFN/Tunel.do.Tempo/FHD/T01/LS-T01E11.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/thbpL3Z98gcgdl5mbV0md231ymf.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9GSW3deBIbalhAeksGBm2NX2Uj1.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white]A Arma Secreta[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/10-FCFN/1966.Tunel.do.Tempo/FHD/T01/LS-T01E11.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/11.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9GSW3deBIbalhAeksGBm2NX2Uj1.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E12[COLOR yellow] -> [COLOR white]Armadilha Fatal[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/10-FCFN/Tunel.do.Tempo/FHD/T01/LS-T01E12.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/thbpL3Z98gcgdl5mbV0md231ymf.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9GSW3deBIbalhAeksGBm2NX2Uj1.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white]Armadilha Fatal[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/10-FCFN/1966.Tunel.do.Tempo/FHD/T01/LS-T01E12.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/12.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9GSW3deBIbalhAeksGBm2NX2Uj1.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E13[COLOR yellow] -> [COLOR white]O Alamo[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/10-FCFN/Tunel.do.Tempo/FHD/T01/LS-T01E13.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/thbpL3Z98gcgdl5mbV0md231ymf.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9GSW3deBIbalhAeksGBm2NX2Uj1.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white]O Alamo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/10-FCFN/1966.Tunel.do.Tempo/FHD/T01/LS-T01E13.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/13.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9GSW3deBIbalhAeksGBm2NX2Uj1.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E14[COLOR yellow] -> [COLOR white]A Noite da Grande Batalha[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/10-FCFN/Tunel.do.Tempo/FHD/T01/LS-T01E14.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/thbpL3Z98gcgdl5mbV0md231ymf.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9GSW3deBIbalhAeksGBm2NX2Uj1.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E14[COLOR yellow] -> [COLOR white]A Noite da Grande Batalha[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/10-FCFN/1966.Tunel.do.Tempo/FHD/T01/LS-T01E14.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/14.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9GSW3deBIbalhAeksGBm2NX2Uj1.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E15[COLOR yellow] -> [COLOR white]Invasao[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/10-FCFN/Tunel.do.Tempo/FHD/T01/LS-T01E15.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/thbpL3Z98gcgdl5mbV0md231ymf.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9GSW3deBIbalhAeksGBm2NX2Uj1.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E15[COLOR yellow] -> [COLOR white]Invasao[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/10-FCFN/1966.Tunel.do.Tempo/FHD/T01/LS-T01E15.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/15.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9GSW3deBIbalhAeksGBm2NX2Uj1.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E16[COLOR yellow] -> [COLOR white]Robin Hood[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/10-FCFN/Tunel.do.Tempo/FHD/T01/LS-T01E16.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/thbpL3Z98gcgdl5mbV0md231ymf.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9GSW3deBIbalhAeksGBm2NX2Uj1.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E16[COLOR yellow] -> [COLOR white]Robin Hood[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/10-FCFN/1966.Tunel.do.Tempo/FHD/T01/LS-T01E16.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/16.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9GSW3deBIbalhAeksGBm2NX2Uj1.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E17[COLOR yellow] -> [COLOR white]A Morte e um Jogo[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/10-FCFN/Tunel.do.Tempo/FHD/T01/LS-T01E17.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/thbpL3Z98gcgdl5mbV0md231ymf.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9GSW3deBIbalhAeksGBm2NX2Uj1.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E17[COLOR yellow] -> [COLOR white]A Morte e um Jogo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/10-FCFN/1966.Tunel.do.Tempo/FHD/T01/LS-T01E17.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/17.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9GSW3deBIbalhAeksGBm2NX2Uj1.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E18[COLOR yellow] -> [COLOR white]Um Mundo Alem das Estrelas[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/10-FCFN/Tunel.do.Tempo/FHD/T01/LS-T01E18.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/thbpL3Z98gcgdl5mbV0md231ymf.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9GSW3deBIbalhAeksGBm2NX2Uj1.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E18[COLOR yellow] -> [COLOR white]Um Mundo Alem das Estrelas[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/10-FCFN/1966.Tunel.do.Tempo/FHD/T01/LS-T01E18.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/18.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9GSW3deBIbalhAeksGBm2NX2Uj1.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E19[COLOR yellow] -> [COLOR white]O Fantasma de Nero[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/10-FCFN/Tunel.do.Tempo/FHD/T01/LS-T01E19.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/thbpL3Z98gcgdl5mbV0md231ymf.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9GSW3deBIbalhAeksGBm2NX2Uj1.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E19[COLOR yellow] -> [COLOR white]O Fantasma de Nero[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/10-FCFN/1966.Tunel.do.Tempo/FHD/T01/LS-T01E19.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/19.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9GSW3deBIbalhAeksGBm2NX2Uj1.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E20[COLOR yellow] -> [COLOR white]As Muralhas de Jerico[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/10-FCFN/Tunel.do.Tempo/FHD/T01/LS-T01E20.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/thbpL3Z98gcgdl5mbV0md231ymf.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9GSW3deBIbalhAeksGBm2NX2Uj1.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E20[COLOR yellow] -> [COLOR white]As Muralhas de Jerico[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/10-FCFN/1966.Tunel.do.Tempo/FHD/T01/LS-T01E20.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/20.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9GSW3deBIbalhAeksGBm2NX2Uj1.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E21[COLOR yellow] -> [COLOR white]O Idolo da Morte[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/10-FCFN/Tunel.do.Tempo/FHD/T01/LS-T01E21.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/thbpL3Z98gcgdl5mbV0md231ymf.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9GSW3deBIbalhAeksGBm2NX2Uj1.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E21[COLOR yellow] -> [COLOR white]O Idolo da Morte[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/10-FCFN/1966.Tunel.do.Tempo/FHD/T01/LS-T01E21.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/21.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9GSW3deBIbalhAeksGBm2NX2Uj1.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E22[COLOR yellow] -> [COLOR white]Billy The Kid[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/10-FCFN/Tunel.do.Tempo/FHD/T01/LS-T01E22.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/thbpL3Z98gcgdl5mbV0md231ymf.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9GSW3deBIbalhAeksGBm2NX2Uj1.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E22[COLOR yellow] -> [COLOR white]Billy The Kid[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/10-FCFN/1966.Tunel.do.Tempo/FHD/T01/LS-T01E22.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/22.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9GSW3deBIbalhAeksGBm2NX2Uj1.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E23[COLOR yellow] -> [COLOR white]Os Piratas da Ilha do Morto[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/10-FCFN/Tunel.do.Tempo/FHD/T01/LS-T01E23.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/thbpL3Z98gcgdl5mbV0md231ymf.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9GSW3deBIbalhAeksGBm2NX2Uj1.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E23[COLOR yellow] -> [COLOR white]Os Piratas da Ilha do Morto[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/10-FCFN/1966.Tunel.do.Tempo/FHD/T01/LS-T01E23.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/23.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9GSW3deBIbalhAeksGBm2NX2Uj1.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E24[COLOR yellow] -> [COLOR white]Perseguicao Pelo Tempo[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/10-FCFN/Tunel.do.Tempo/FHD/T01/LS-T01E24.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/thbpL3Z98gcgdl5mbV0md231ymf.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9GSW3deBIbalhAeksGBm2NX2Uj1.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E24[COLOR yellow] -> [COLOR white]Perseguicao Pelo Tempo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/10-FCFN/1966.Tunel.do.Tempo/FHD/T01/LS-T01E24.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/24.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9GSW3deBIbalhAeksGBm2NX2Uj1.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E25[COLOR yellow] -> [COLOR white]O Mercador da Morte[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/10-FCFN/Tunel.do.Tempo/FHD/T01/LS-T01E25.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/thbpL3Z98gcgdl5mbV0md231ymf.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9GSW3deBIbalhAeksGBm2NX2Uj1.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E25[COLOR yellow] -> [COLOR white]O Mercador da Morte[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/10-FCFN/1966.Tunel.do.Tempo/FHD/T01/LS-T01E25.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/25.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9GSW3deBIbalhAeksGBm2NX2Uj1.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E26[COLOR yellow] -> [COLOR white]Marco Polo[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/10-FCFN/Tunel.do.Tempo/FHD/T01/LS-T01E26.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/thbpL3Z98gcgdl5mbV0md231ymf.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9GSW3deBIbalhAeksGBm2NX2Uj1.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E26[COLOR yellow] -> [COLOR white]Marco Polo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/10-FCFN/1966.Tunel.do.Tempo/FHD/T01/LS-T01E26.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/26.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9GSW3deBIbalhAeksGBm2NX2Uj1.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E27[COLOR yellow] -> [COLOR white]Merlim o Magico[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/10-FCFN/Tunel.do.Tempo/FHD/T01/LS-T01E27.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/thbpL3Z98gcgdl5mbV0md231ymf.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9GSW3deBIbalhAeksGBm2NX2Uj1.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E27[COLOR yellow] -> [COLOR white]Merlim o Magico[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/10-FCFN/1966.Tunel.do.Tempo/FHD/T01/LS-T01E27.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/27.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9GSW3deBIbalhAeksGBm2NX2Uj1.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E28[COLOR yellow] -> [COLOR white]Os Raptores[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/10-FCFN/Tunel.do.Tempo/FHD/T01/LS-T01E28.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/thbpL3Z98gcgdl5mbV0md231ymf.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9GSW3deBIbalhAeksGBm2NX2Uj1.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E28[COLOR yellow] -> [COLOR white]Os Raptores[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/10-FCFN/1966.Tunel.do.Tempo/FHD/T01/LS-T01E28.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/28.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9GSW3deBIbalhAeksGBm2NX2Uj1.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E29[COLOR yellow] -> [COLOR white]Invasores do Espaco Sideral[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/10-FCFN/Tunel.do.Tempo/FHD/T01/LS-T01E29.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/thbpL3Z98gcgdl5mbV0md231ymf.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9GSW3deBIbalhAeksGBm2NX2Uj1.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E29[COLOR yellow] -> [COLOR white]Invasores do Espaco Sideral[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/10-FCFN/1966.Tunel.do.Tempo/FHD/T01/LS-T01E29.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/29.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9GSW3deBIbalhAeksGBm2NX2Uj1.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E30[COLOR yellow] -> [COLOR white]A Cidade do Terror[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/SRS/10-FCFN/Tunel.do.Tempo/FHD/T01/LS-T01E30.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/thbpL3Z98gcgdl5mbV0md231ymf.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9GSW3deBIbalhAeksGBm2NX2Uj1.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E30[COLOR yellow] -> [COLOR white]A Cidade do Terror[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/SRS/10-FCFN/1966.Tunel.do.Tempo/FHD/T01/LS-T01E30.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/30.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/9GSW3deBIbalhAeksGBm2NX2Uj1.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 <item>
 <title>[COLOR black].[/COLOR]</title>				
 <link>ignoreme</link>				
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+<fanart>https://i.ibb.aco/6N5djff/FAN-2.png</fanart>			
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
-<title>[COLOR orange][B]O VÍDEO NÃO ABRIU ?[/B][/COLOR]</title>
+<title>[COLOR orange][B]ERROS ? CHAME O SUPORTE[/B][/COLOR]</title>	
 <link>ignoreme</link>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-<item>
-<title>[COLOR orange][B]NÃO ENCONTROU O QUE QUERIA ?[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<item>
-<title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+<thumbnail>https://i.ibb.co/BnzRHfz/ERROS-SUPORTE.png</thumbnail>				
+<fanart>https://i.ibb.aco/6N5djff/FAN-2.png</fanart>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
-
