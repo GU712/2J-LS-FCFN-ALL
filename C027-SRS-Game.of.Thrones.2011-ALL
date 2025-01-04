@@ -1,324 +1,790 @@
-<item>				
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>				
-<link>NOLINK</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>				
-<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+<item>	
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
+<link>NOLINK</link>	
+<thumbnail>https://i.ibb.co/NWfgpVX/SEL-ITEM-SRS-ICON.png</thumbnail>				
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>		
+<info>FAÇA SUA ESCOLHA 
+E DIVIRTA-SE </info>	
+</item>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<item>	
+<title>[COLOR orange][B]A Guerra dos Tronos[/B][/COLOR]</title>	
+<link>NOLINK</link>	
+<thumbnail>https://image.tmdb.org/t/p/original/eDn8XWA0a4U3zOhd1gh7HExdt4Y.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]A Guerra dos Tronos
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2011 a 2019
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FANTASIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]08 TEMPs - 73 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Numa terra onde o verão abrange décadas e o inverno dura uma vida, todos os 
+desafios são esperados.Que comece A Guerra dos Tronos!
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>	
+</item>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
-<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Game of Thrones[/B][/COLOR]</title>
-<link>plugin://plugin.video.tubemusic/?video_id=Ah5LiqkKBTo</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/44rw2cOQrgUthZMhp3eibpXVy9p.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/mhdP47zYd5GnLHD7RtIKXUNnafQ.jpg</fanart>
-<info>Assista ao trailer</info>
-<genre>FICÇÃO E FANTASIA</genre> 
+<item><title>[COLOR orange][B]TEMP 01 (2011) 10 EPs - FHD DUAL+LEG[/B][/COLOR]</title>
+<link>NOLINK</link>	
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/01.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-TORRENTS
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item><title>[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]O inverno está chegando[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/3:/Series/Letra%20G/Game%20Of%20Thrones%20-%202011%20-%201080p/S01/Game.of.Thrones.S01E01.Winter.Is.Coming.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<item><title>[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]A Estrada Real[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/3:/Series/Letra%20G/Game%20Of%20Thrones%20-%202011%20-%201080p/S01/Game.of.Thrones.S01E02.The.Kingsroad.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Senhor da Neve[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/3:/Series/Letra%20G/Game%20Of%20Thrones%20-%202011%20-%201080p/S01/Game.of.Thrones.S01E03.Lord.Snow.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Aleija Bastardos e Coisas Quebradas[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/3:/Series/Letra%20G/Game%20Of%20Thrones%20-%202011%20-%201080p/S01/Game.of.Thrones.S01E04.Cripples.Bastards.and.Broken.Things.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]O Lobo e o Leão[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/3:/Series/Letra%20G/Game%20Of%20Thrones%20-%202011%20-%201080p/S01/Game.of.Thrones.S01E05.The.Wolf.and.the.Lion.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Uma Coroa Dourada[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/3:/Series/Letra%20G/Game%20Of%20Thrones%20-%202011%20-%201080p/S01/Game.of.Thrones.S01E06.A.Golden.Crown.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Você ganha ou morre[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/3:/Series/Letra%20G/Game%20Of%20Thrones%20-%202011%20-%201080p/S01/Game.of.Thrones.S01E07.You.Win.or.You.Die.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]O fim pontiagudo[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/3:/Series/Letra%20G/Game%20Of%20Thrones%20-%202011%20-%201080p/S01/Game.of.Thrones.S01E08.The.Pointy.End.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Baelor[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/3:/Series/Letra%20G/Game%20Of%20Thrones%20-%202011%20-%201080p/S01/Game.of.Thrones.S01E09.Baelor.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Fogo e Sangue[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/3:/Series/Letra%20G/Game%20Of%20Thrones%20-%202011%20-%201080p/S01/Game.of.Thrones.S01E10.Fire.and.Blood.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/10.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
-<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Game of Thrones (2011) - T01 - HD DUAL+LEG[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3222958d59c10b222600e43f9ea5c6a161293658</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/wNOdNgqoySuWbQk3F0QZjPKp8X7.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/aGehSaCUVfWFSu953kuo6BsyZVw.jpg</fanart>
-<info>Sete nobres famílias lutam pelo controle da mítica terra de Westeros, dividida depois de uma guerra.</info>
-<genre>FICÇÃO E FANTASIA</genre>
+<item><title>[COLOR orange][B]TEMP 02 (2012) 10 EPs - FHD DUAL+LEG[/B][/COLOR]</title>
+<link>NOLINK</link>	
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/02.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<item><title>[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]O Norte lembra[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/3:/Series/Letra%20G/Game%20Of%20Thrones%20-%202011%20-%201080p/S02/Game.of.Thrones.S02E01.The.North.Remembers.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]As Terras Noturnas[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/3:/Series/Letra%20G/Game%20Of%20Thrones%20-%202011%20-%201080p/S02/Game.of.Thrones.S02E02.The.Night.Lands.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]O que está morto pode nunca morrer[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/3:/Series/Letra%20G/Game%20Of%20Thrones%20-%202011%20-%201080p/S02/Game.of.Thrones.S02E03.What.Is.Dead.May.Never.Die.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]Jardim dos Ossos[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/3:/Series/Letra%20G/Game%20Of%20Thrones%20-%202011%20-%201080p/S02/Game.of.Thrones.S02E04.Garden.of.Bones.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]O Fantasma de Harrenhal[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/3:/Series/Letra%20G/Game%20Of%20Thrones%20-%202011%20-%201080p/S02/Game.of.Thrones.S02E05.The.Ghost.of.Harrenhal.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]Os Velhos Deuses e os Novos[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/3:/Series/Letra%20G/Game%20Of%20Thrones%20-%202011%20-%201080p/S02/Game.of.Thrones.S02E06.The.Old.Gods.and.the.New.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white]Um homem sem honra[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/3:/Series/Letra%20G/Game%20Of%20Thrones%20-%202011%20-%201080p/S02/Game.of.Thrones.S02E07.A.Man.Without.Honor.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white]O Príncipe de Winterfell[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/3:/Series/Letra%20G/Game%20Of%20Thrones%20-%202011%20-%201080p/S02/Game.of.Thrones.S02E08.The.Prince.of.Winterfell.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T02E09[COLOR yellow] -> [COLOR white]Água Negra[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/3:/Series/Letra%20G/Game%20Of%20Thrones%20-%202011%20-%201080p/S02/Game.of.Thrones.S02E09.Blackwater.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T02E10[COLOR yellow] -> [COLOR white]Valar Morghulis[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/3:/Series/Letra%20G/Game%20Of%20Thrones%20-%202011%20-%201080p/S02/Game.of.Thrones.S02E10.Valar.Morghulis.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/10.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
-<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Game of Thrones (2012) - T02 - HD DUAL+LEG[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6086a5f1e292523faa1115a36e797ad5f7616038</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/AhTEO9MD4mhPcBEkjwTrtM70QSe.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/a4IVHOjyHJQmbaEFgIFGdLQNoCS.jpg</fanart>
-<info>Sete nobres famílias lutam pelo controle da mítica terra de Westeros, dividida depois de uma guerra.</info>
-<genre>FICÇÃO E FANTASIA</genre>
+<item><title>[COLOR orange][B]TEMP 03 (2013) 10 EPs - FHD DUAL+LEG[/B][/COLOR]</title>
+<link>NOLINK</link>	
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/03.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<item><title>[COLOR orange][B]T03E01[COLOR yellow] -> [COLOR white]Valar Dohaeris[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/3:/Series/Letra%20G/Game%20Of%20Thrones%20-%202011%20-%201080p/S03/Game.of.Thrones.S03E01.Valar.Dohaeris.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T03E02[COLOR yellow] -> [COLOR white]Asas Negras Palavras Negras[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/3:/Series/Letra%20G/Game%20Of%20Thrones%20-%202011%20-%201080p/S03/Game.of.Thrones.S03E02.Dark.Wings.Dark.Words.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T03E03[COLOR yellow] -> [COLOR white]Caminhada da Punição[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/3:/Series/Letra%20G/Game%20Of%20Thrones%20-%202011%20-%201080p/S03/Game.of.Thrones.S03E03.Walk.of.Punishment.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T03E04[COLOR yellow] -> [COLOR white]E agora seu relógio terminou[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/3:/Series/Letra%20G/Game%20Of%20Thrones%20-%202011%20-%201080p/S03/Game.of.Thrones.S03E04.And.Now.His.Watch.is.Ended.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T03E05[COLOR yellow] -> [COLOR white]Beijado pelo Fogo[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/3:/Series/Letra%20G/Game%20Of%20Thrones%20-%202011%20-%201080p/S03/Game.of.Thrones.S03E05.Kissed.by.Fire.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T03E06[COLOR yellow] -> [COLOR white]A escalada[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/3:/Series/Letra%20G/Game%20Of%20Thrones%20-%202011%20-%201080p/S03/Game.of.Thrones.S03E06.The.Climb.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T03E07[COLOR yellow] -> [COLOR white]O Urso e a Feira da Donzela[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/3:/Series/Letra%20G/Game%20Of%20Thrones%20-%202011%20-%201080p/S03/Game.of.Thrones.S03E07.The.Bear.and.the.Maiden.Fair.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T03E08[COLOR yellow] -> [COLOR white]Segundos Filhos[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/3:/Series/Letra%20G/Game%20Of%20Thrones%20-%202011%20-%201080p/S03/Game.of.Thrones.S03E08.Second.Sons.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T03E09[COLOR yellow] -> [COLOR white]As chuvas de Castamere[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/3:/Series/Letra%20G/Game%20Of%20Thrones%20-%202011%20-%201080p/S03/Game.of.Thrones.S03E09.The.Rains.of.Castamere.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T03E10[COLOR yellow] -> [COLOR white]Mhysa[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/3:/Series/Letra%20G/Game%20Of%20Thrones%20-%202011%20-%201080p/S03/Game.of.Thrones.S03E10.Mhysa.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/10.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
-<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Game of Thrones (2013) - T03 - HD DUAL+LEG[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8e6c8e66a91bac41eb0085eb6921d11a543621eb</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/8Dqxwv68xjIFuQJkn7JZAHZKBNB.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/ibTDnXswLUNODWxQlX57sDyoPi0.jpg</fanart>
-<info>Sete nobres famílias lutam pelo controle da mítica terra de Westeros, dividida depois de uma guerra.</info>
-<genre>FICÇÃO E FANTASIA</genre>
+<item><title>[COLOR orange][B]TEMP 04 (2014) 10 EPs - FHD DUAL+LEG[/B][/COLOR]</title>
+<link>NOLINK</link>	
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/04.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<item><title>[COLOR orange][B]T04E01[COLOR yellow] -> [COLOR white]Duas espadas[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/3:/Series/Letra%20G/Game%20Of%20Thrones%20-%202011%20-%201080p/S04/Game.of.Thrones.S04E01.Two.Swords.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T04E02[COLOR yellow] -> [COLOR white]O Leão e a Rosa[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/3:/Series/Letra%20G/Game%20Of%20Thrones%20-%202011%20-%201080p/S04/Game.of.Thrones.S04E02.The.Lion.and.the.Rose.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T04E03[COLOR yellow] -> [COLOR white]Quebrador de Correntes[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/3:/Series/Letra%20G/Game%20Of%20Thrones%20-%202011%20-%201080p/S04/Game.of.Thrones.S04E03.Breaker.of.Chains.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T04E04[COLOR yellow] -> [COLOR white]Detentor do juramento[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/3:/Series/Letra%20G/Game%20Of%20Thrones%20-%202011%20-%201080p/S04/Game.of.Thrones.S04E04.Oathkeeper.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T04E05[COLOR yellow] -> [COLOR white]Primeiro de Seu Nome[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/3:/Series/Letra%20G/Game%20Of%20Thrones%20-%202011%20-%201080p/S04/Game.of.Thrones.S04E05.First.of.His.Name.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T04E06[COLOR yellow] -> [COLOR white]As Leis dos Deuses e dos Homens[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/3:/Series/Letra%20G/Game%20Of%20Thrones%20-%202011%20-%201080p/S04/Game.of.Thrones.S04E06.The.Laws.of.Gods.and.Men.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T04E07[COLOR yellow] -> [COLOR white]Mockingbird[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/3:/Series/Letra%20G/Game%20Of%20Thrones%20-%202011%20-%201080p/S04/Game.of.Thrones.S04E07.Mockingbird.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T04E08[COLOR yellow] -> [COLOR white]A Montanha e a Víbora[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/3:/Series/Letra%20G/Game%20Of%20Thrones%20-%202011%20-%201080p/S04/Game.of.Thrones.S04E08.The.Mountain.and.the.Viper.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T04E09[COLOR yellow] -> [COLOR white]Os Vigilantes na Muralha[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/3:/Series/Letra%20G/Game%20Of%20Thrones%20-%202011%20-%201080p/S04/Game.of.Thrones.S04E09.The.Watchers.on.the.Wall.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T04E10[COLOR yellow] -> [COLOR white]As crianças[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/3:/Series/Letra%20G/Game%20Of%20Thrones%20-%202011%20-%201080p/S04/Game.of.Thrones.S04E10.The.Children.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/10.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
-<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Game of Thrones (2014) - T04 - HD DUAL+LEG[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a83651ebe0cf171b00f6d68e94f08c7045968937</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/7eBfDPaHgV1vgbeQPwqBKozeNru.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/qcVlx0BEkmIRLQJFWN6O1WK6Wi0.jpg</fanart>
-<info>Sete nobres famílias lutam pelo controle da mítica terra de Westeros, dividida depois de uma guerra.</info>
-<genre>FICÇÃO E FANTASIA</genre>
+<item><title>[COLOR orange][B]TEMP 05 (2015) 10 EPs - FHD DUAL+LEG[/B][/COLOR]</title>
+<link>NOLINK</link>	
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/05.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<item><title>[COLOR orange][B]T05E01[COLOR yellow] -> [COLOR white]As guerras que virão[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/3:/Series/Letra%20G/Game%20Of%20Thrones%20-%202011%20-%201080p/S05/Game.of.Thrones.S05E01.The.Wars.To.Come.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T05E02[COLOR yellow] -> [COLOR white]A Casa do Preto e Branco[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/3:/Series/Letra%20G/Game%20Of%20Thrones%20-%202011%20-%201080p/S05/Game.of.Thrones.S05E02.The.House.of.Black.and.White.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T05E03[COLOR yellow] -> [COLOR white]Pardal Alto[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/3:/Series/Letra%20G/Game%20Of%20Thrones%20-%202011%20-%201080p/S05/Game.of.Thrones.S05E03.High.Sparrow.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T05E04[COLOR yellow] -> [COLOR white]Filhos da Harpia[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/3:/Series/Letra%20G/Game%20Of%20Thrones%20-%202011%20-%201080p/S05/Game.of.Thrones.S05E04.Sons.of.the.Harpy.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T05E05[COLOR yellow] -> [COLOR white]Mate o menino[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/3:/Series/Letra%20G/Game%20Of%20Thrones%20-%202011%20-%201080p/S05/Game.of.Thrones.S05E05.Kill.the.Boy.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T05E06[COLOR yellow] -> [COLOR white]Inflexível, Inflexível, Ininterrupto[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/3:/Series/Letra%20G/Game%20Of%20Thrones%20-%202011%20-%201080p/S05/Game.of.Thrones.S05E06.Unbowed.Unbent.Unbroken.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T05E07[COLOR yellow] -> [COLOR white]O presente[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/3:/Series/Letra%20G/Game%20Of%20Thrones%20-%202011%20-%201080p/S05/Game.of.Thrones.S05E07.The.Gift.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T05E08[COLOR yellow] -> [COLOR white]Hardhome[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/3:/Series/Letra%20G/Game%20Of%20Thrones%20-%202011%20-%201080p/S05/Game.of.Thrones.S05E08.Hardhome.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T05E09[COLOR yellow] -> [COLOR white]A Dança dos Dragões[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/3:/Series/Letra%20G/Game%20Of%20Thrones%20-%202011%20-%201080p/S05/Game.of.Thrones.S05E09.The.Dance.of.Dragons.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T05E10[COLOR yellow] -> [COLOR white]Mãe Misericórdia[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/3:/Series/Letra%20G/Game%20Of%20Thrones%20-%202011%20-%201080p/S05/Game.of.Thrones.S05E10.Mothers.Mercy.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/10.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
-<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Game of Thrones (2015) - T05 - HD DUAL+LEG[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:57E8AEB156F44C94973D39E3A258F52F7E65E182</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/isuZ748TMvDEr5IFiPlngmD6zju.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/tDQiMtS4Hx1vInNJ3UoVkr8Mpdf.jpg</fanart>
-<info>Sete nobres famílias lutam pelo controle da mítica terra de Westeros, dividida depois de uma guerra.</info>
-<genre>FICÇÃO E FANTASIA</genre>
+<item><title>[COLOR orange][B]TEMP 06 (2016) 10 EPs - FHD DUAL+LEG[/B][/COLOR]</title>
+<link>NOLINK</link>	
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/06.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<item><title>[COLOR orange][B]T06E01[COLOR yellow] -> [COLOR white]A Mulher Vermelha[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/3:/Series/Letra%20G/Game%20Of%20Thrones%20-%202011%20-%201080p/S06/Game.of.Thrones.S06E01.The.Red.Woman.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T06E02[COLOR yellow] -> [COLOR white]Lar[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/3:/Series/Letra%20G/Game%20Of%20Thrones%20-%202011%20-%201080p/S06/Game.of.Thrones.S06E02.Home.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T06E03[COLOR yellow] -> [COLOR white]Perjuro[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/3:/Series/Letra%20G/Game%20Of%20Thrones%20-%202011%20-%201080p/S06/Game.of.Thrones.S06E03.Oathbreaker.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T06E04[COLOR yellow] -> [COLOR white]Livro do Estranho[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/3:/Series/Letra%20G/Game%20Of%20Thrones%20-%202011%20-%201080p/S06/Game.of.Thrones.S06E04.Book.of.the.Stranger.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T06E05[COLOR yellow] -> [COLOR white]A porta[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/3:/Series/Letra%20G/Game%20Of%20Thrones%20-%202011%20-%201080p/S06/Game.of.Thrones.S06E05.The.Door.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T06E06[COLOR yellow] -> [COLOR white]Sangue do meu sangue[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/3:/Series/Letra%20G/Game%20Of%20Thrones%20-%202011%20-%201080p/S06/Game.of.Thrones.S06E06.Blood.of.My.Blood.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T06E07[COLOR yellow] -> [COLOR white]O homem quebrado[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/3:/Series/Letra%20G/Game%20Of%20Thrones%20-%202011%20-%201080p/S06/Game.of.Thrones.S06E07.The.Broken.Man.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T06E08[COLOR yellow] -> [COLOR white]Ninguém[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/3:/Series/Letra%20G/Game%20Of%20Thrones%20-%202011%20-%201080p/S06/Game.of.Thrones.S06E08.No.One.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T06E09[COLOR yellow] -> [COLOR white]Batalha dos Bastardos[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/3:/Series/Letra%20G/Game%20Of%20Thrones%20-%202011%20-%201080p/S06/Game.of.Thrones.S06E09.Battle.of.the.Bastards.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T06E10[COLOR yellow] -> [COLOR white]Os ventos do inverno[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/3:/Series/Letra%20G/Game%20Of%20Thrones%20-%202011%20-%201080p/S06/Game.of.Thrones.S06E10.The.Winds.of.Winter.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/10.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
-<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Game of Thrones (2016) - T06 - HD DUAL+LEG[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:04c8df3c70a086ccbd25a90794ec64927e58e935</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/az0ZIB792yBvuAc5lk2tb78gBwR.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/tgmpaY55vuV43qBF7PN9GnRIqK7.jpg</fanart>
-<info>Sete nobres famílias lutam pelo controle da mítica terra de Westeros, dividida depois de uma guerra.</info>
-<genre>FICÇÃO E FANTASIA</genre>
+<item><title>[COLOR orange][B]TEMP 07 (2017) 07 EPs - FHD DUAL+LEG[/B][/COLOR]</title>
+<link>NOLINK</link>	
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/07.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<item><title>[COLOR orange][B]T07E01[COLOR yellow] -> [COLOR white]Pedra do Dragão[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/3:/Series/Letra%20G/Game%20Of%20Thrones%20-%202011%20-%201080p/S07/Game.of.Thrones.S07E01.Dragonstone.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T07E02[COLOR yellow] -> [COLOR white]Nascido da Tempestade[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/3:/Series/Letra%20G/Game%20Of%20Thrones%20-%202011%20-%201080p/S07/Game.of.Thrones.S07E02.Stormborn.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T07E03[COLOR yellow] -> [COLOR white]A Justiça da Rainha[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/3:/Series/Letra%20G/Game%20Of%20Thrones%20-%202011%20-%201080p/S07/Game.of.Thrones.S07E03.The.Queens.Justice.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T07E04[COLOR yellow] -> [COLOR white]Os despojos da guerra[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/3:/Series/Letra%20G/Game%20Of%20Thrones%20-%202011%20-%201080p/S07/Game.of.Thrones.S07E04.The.Spoils.of.War.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T07E05[COLOR yellow] -> [COLOR white]Atalaialeste[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/3:/Series/Letra%20G/Game%20Of%20Thrones%20-%202011%20-%201080p/S07/Game.of.Thrones.S07E05.Eastwatch.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T07E06[COLOR yellow] -> [COLOR white]Além do Muro[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/3:/Series/Letra%20G/Game%20Of%20Thrones%20-%202011%20-%201080p/S07/Game.of.Thrones.S07E06.Beyond.the.Wall.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T07E07[COLOR yellow] -> [COLOR white]O Dragão e o Lobo[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/3:/Series/Letra%20G/Game%20Of%20Thrones%20-%202011%20-%201080p/S07/Game.of.Thrones.S07E07.The.Dragon.and.the.Wolf.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
-<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Game of Thrones (2017) - T07 - HD DUAL+LEG[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4B92BEEE4FEFE05618D5B561F1369327E834D205</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/xmJb9krlsp5pYIjyTjF7ihqlqjV.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/pSLZzchxQc9cxctGLLFmCq0ApFK.jpg</fanart>
-<info>Sete nobres famílias lutam pelo controle da mítica terra de Westeros, dividida depois de uma guerra.</info>
-<genre>FICÇÃO E FANTASIA</genre>
+<item><title>[COLOR orange][B]TEMP 08 (2019) 06 EPs - FHD DUAL+LEG[/B][/COLOR]</title>
+<link>NOLINK</link>	
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/08.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item>
-<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Game of Thrones (2019) - T08 - HD DUAL+LEG[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET></link>
-<thumbnail>https://www.themoviedb.org/t/p/original/fJtKhzUwZwVl6WzkfrthJfEDxUD.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/eaP20vWMFgQjhwsWBS7mlveXixY.jpg</fanart>
-<info>Sete nobres famílias lutam pelo controle da mítica terra de Westeros, dividida depois de uma guerra.</info>
-<genre>FICÇÃO E FANTASIA</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item><title>[COLOR orange][B]T08E01[COLOR yellow] -> [COLOR white]Winterfell[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/3:/Series/Letra%20G/Game%20Of%20Thrones%20-%202011%20-%201080p/S08/Game.of.Thrones.S08E01.Winterfell.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-item>
-<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Game of Thrones (2011) - T01 - HD DUAL+LEG[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T08E02[COLOR yellow] -> [COLOR white]Um Cavaleiro dos Sete Reinos[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/3:/Series/Letra%20G/Game%20Of%20Thrones%20-%202011%20-%201080p/S08/Game.of.Thrones.S08E02.A.Knight.of.the.Seven.Kingdoms.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<link>NOLINK$nome=[COLOR orange][B] Temporada 01 - 00 EPs[/B][/COLOR]</link>			
+<item><title>[COLOR orange][B]T08E03[COLOR yellow] -> [COLOR white]A longa noite[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/3:/Series/Letra%20G/Game%20Of%20Thrones%20-%202011%20-%201080p/S08/Game.of.Thrones.S08E03.The.Long.Night.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cf84fc21e1b8179e914f653101acc6f02bedf85e$nome=[COLOR orange][B]T08E01[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4663L4OEIWXGKSYL3RELRN534VMYBRYH$nome=[COLOR orange][B]T08E02[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1765891e2c033b156acc1c8761d9783833b717a3$nome=[COLOR orange][B]T08E03[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:09d1c73178db88b7e3b408c8f152b6f53fd34d8f$nome=[COLOR orange][B]T08E04[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:114e07ebeb8e6a4c9c2e8b21876b22aa735e4abe$nome=[COLOR orange][B]T08E05[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7CD70A9F1342AF2DA7D41792588808FADBC5452F$nome=[COLOR orange][B]T08E06[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>
+<item><title>[COLOR orange][B]T08E04[COLOR yellow] -> [COLOR white]O Último dos Stark[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/3:/Series/Letra%20G/Game%20Of%20Thrones%20-%202011%20-%201080p/S08/Game.of.Thrones.S08E04.The.Last.of.the.Starks.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<thumbnail><CAPADASERIE></thumbnail>
-<fanart><FUNDODASERIE></fanart>
-<info>Sete nobres famílias lutam pelo controle da mítica terra de Westeros, dividida depois de uma guerra.</info>
-<genre>FICÇÃO E FANTASIA</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item><title>[COLOR orange][B]T08E05[COLOR yellow] -> [COLOR white]Os sinos[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/3:/Series/Letra%20G/Game%20Of%20Thrones%20-%202011%20-%201080p/S08/Game.of.Thrones.S08E05.The.Bells.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-SERVER LS
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item><title>[COLOR orange][B]T08E06[COLOR yellow] -> [COLOR white]O Trono de Ferro[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/3:/Series/Letra%20G/Game%20Of%20Thrones%20-%202011%20-%201080p/S08/Game.of.Thrones.S08E06.The.Iron.Throne.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/rOg2Tsi7mqeEcUS3dZ0n7aCOA7s.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item>
-<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Game of Thrones (2011) - T01 - HD DUAL+LEG[/B][/COLOR]</title>
-
-<link>NOLINK$nome=[COLOR orange][B] Temporada 01 - 10 EPs[/B][/COLOR]</link>		
-
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Game.of.Thrones/T01/LS-T01E01.mkv$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]O Inverno Esta Chegando [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Game.of.Thrones/T01/LS-T01E02.mkv$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]A Estrada Real[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Game.of.Thrones/T01/LS-T01E03.mkv$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Senhor da Neve[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Game.of.Thrones/T01/LS-T01E04.mkv$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Aleijados, Bastardos, e Coisas Quebradas[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Game.of.Thrones/T01/LS-T01E05.mkv$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]O Lobo e o Leao[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Game.of.Thrones/T01/LS-T01E06.mkv$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Uma Coroa Dourada[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Game.of.Thrones/T01/LS-T01E07.mkv$nome=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]E Vencer ou Morrer[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Game.of.Thrones/T01/LS-T01E08.mkv$nome=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]O Ponto Final[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Game.of.Thrones/T01/LS-T01E09.mkv$nome=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Baelor[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Game.of.Thrones/T01/LS-T01E10.mkv$nome=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Fogo e Sangue[/B][/COLOR]</link>
-
-<thumbnail>https://www.themoviedb.org/t/p/original/wNOdNgqoySuWbQk3F0QZjPKp8X7.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/aGehSaCUVfWFSu953kuo6BsyZVw.jpg</fanart>
-<info>Sete nobres famílias lutam pelo controle da mítica terra de Westeros, dividida depois de uma guerra.</info>
-<genre>FICÇÃO E FANTASIA</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Game of Thrones (2012) - T02 - HD DUAL+LEG[/B][/COLOR]</title>
-
-<link>NOLINK$nome=[COLOR orange][B] Temporada 02 - 10 EPs[/B][/COLOR]</link>		
-
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Game.of.Thrones/T02/LS-T02E01.mkv$nome=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]O Norte Se Lembra[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Game.of.Thrones/T02/LS-T02E02.mkv$nome=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]As Terras da Noite[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Game.of.Thrones/T02/LS-T02E03.mkv$nome=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]O Que Esta Morto Nunca Pode Morrer[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Game.of.Thrones/T02/LS-T02E04.mkv$nome=[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]Jardim dos Ossos[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Game.of.Thrones/T02/LS-T02E05.mkv$nome=[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]O Espirito de Harrenhal[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Game.of.Thrones/T02/LS-T02E06.mkv$nome=[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]Os Deuses Antigos e Novos[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Game.of.Thrones/T02/LS-T02E07.mkv$nome=[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white]Um Homem Sem Honra[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Game.of.Thrones/T02/LS-T02E08.mkv$nome=[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white]O Principe de Winterfell[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Game.of.Thrones/T02/LS-T02E09.mkv$nome=[COLOR orange][B]T02E09[COLOR yellow] -> [COLOR white]A Agua Negra[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/10-FCFN/Game.of.Thrones/T02/LS-T02E10.mkv$nome=[COLOR orange][B]T02E10[COLOR yellow] -> [COLOR white]Valar Morghulis[/B][/COLOR]</link>
-
-<thumbnail>https://www.themoviedb.org/t/p/original/AhTEO9MD4mhPcBEkjwTrtM70QSe.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/a4IVHOjyHJQmbaEFgIFGdLQNoCS.jpg</fanart>
-<info>Sete nobres famílias lutam pelo controle da mítica terra de Westeros, dividida depois de uma guerra.</info>
-<genre>FICÇÃO E FANTASIA</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-item>
-<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Game of Thrones (2013) - T03 - HD DUAL+LEG[/B][/COLOR]</title>
-
-<link>NOLINK$nome=[COLOR orange][B] Temporada 03 - 00 EPs[/B][/COLOR]</link>		
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<link><LINKUNIVVERSAL>$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<link>NOLINK$nome=[COLOR black][B].[/B][/COLOR]</link>
-<link>NOLINK$nome=[COLOR orange][B]  QUER ASSISTIR MAIS EPISODIOS?[/B][/COLOR]</link>
-<link>NOLINK$nome=[COLOR orange][B]SOLICITE AO SUPORTE NO GRUPO DO WHATS.[/B][/COLOR]</link>
-
-<thumbnail>https://www.themoviedb.org/t/p/original/8Dqxwv68xjIFuQJkn7JZAHZKBNB.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/ibTDnXswLUNODWxQlX57sDyoPi0.jpg</fanart>
-<info>Sete nobres famílias lutam pelo controle da mítica terra de Westeros, dividida depois de uma guerra.</info>
-<genre>FICÇÃO E FANTASIA</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-item>
-<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Game of Thrones (2014) - T04 - HD DUAL+LEG[/B][/COLOR]</title>
-
-<link>NOLINK$nome=[COLOR orange][B] Temporada 04 - 00 EPs[/B][/COLOR]</link>		
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<link><LINKUNIVVERSAL>$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<link>NOLINK$nome=[COLOR black][B].[/B][/COLOR]</link>
-<link>NOLINK$nome=[COLOR orange][B]  QUER ASSISTIR MAIS EPISODIOS?[/B][/COLOR]</link>
-<link>NOLINK$nome=[COLOR orange][B]SOLICITE AO SUPORTE NO GRUPO DO WHATS.[/B][/COLOR]</link>
-
-<thumbnail>https://www.themoviedb.org/t/p/original/7eBfDPaHgV1vgbeQPwqBKozeNru.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/qcVlx0BEkmIRLQJFWN6O1WK6Wi0.jpg</fanart>
-<info>Sete nobres famílias lutam pelo controle da mítica terra de Westeros, dividida depois de uma guerra.</info>
-<genre>FICÇÃO E FANTASIA</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-item>
-<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Game of Thrones (2015) - T05 - HD DUAL+LEG[/B][/COLOR]</title>
-
-<link>NOLINK$nome=[COLOR orange][B] Temporada 05 - 00 EPs[/B][/COLOR]</link>		
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<link><LINKUNIVVERSAL>$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<link>NOLINK$nome=[COLOR black][B].[/B][/COLOR]</link>
-<link>NOLINK$nome=[COLOR orange][B]  QUER ASSISTIR MAIS EPISODIOS?[/B][/COLOR]</link>
-<link>NOLINK$nome=[COLOR orange][B]SOLICITE AO SUPORTE NO GRUPO DO WHATS.[/B][/COLOR]</link>
-
-<thumbnail>https://www.themoviedb.org/t/p/original/isuZ748TMvDEr5IFiPlngmD6zju.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/tDQiMtS4Hx1vInNJ3UoVkr8Mpdf.jpg</fanart>
-<info>Sete nobres famílias lutam pelo controle da mítica terra de Westeros, dividida depois de uma guerra.</info>
-<genre>FICÇÃO E FANTASIA</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-item>
-<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Game of Thrones (2016) - T06 - HD DUAL+LEG[/B][/COLOR]</title>
-
-<link>NOLINK$nome=[COLOR orange][B] Temporada 06 - 00 EPs[/B][/COLOR]</link>		
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<link><LINKUNIVVERSAL>$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<link>NOLINK$nome=[COLOR black][B].[/B][/COLOR]</link>
-<link>NOLINK$nome=[COLOR orange][B]  QUER ASSISTIR MAIS EPISODIOS?[/B][/COLOR]</link>
-<link>NOLINK$nome=[COLOR orange][B]SOLICITE AO SUPORTE NO GRUPO DO WHATS.[/B][/COLOR]</link>
-
-<thumbnail>https://www.themoviedb.org/t/p/original/az0ZIB792yBvuAc5lk2tb78gBwR.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/tgmpaY55vuV43qBF7PN9GnRIqK7.jpg</fanart>
-<info>Sete nobres famílias lutam pelo controle da mítica terra de Westeros, dividida depois de uma guerra.</info>
-<genre>FICÇÃO E FANTASIA</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-item>
-<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Game of Thrones (2017) - T07 - HD DUAL+LEG[/B][/COLOR]</title>
-
-<link>NOLINK$nome=[COLOR orange][B] Temporada 07 - 00 EPs[/B][/COLOR]</link>		
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<link><LINKUNIVVERSAL>$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<link>NOLINK$nome=[COLOR black][B].[/B][/COLOR]</link>
-<link>NOLINK$nome=[COLOR orange][B]  QUER ASSISTIR MAIS EPISODIOS?[/B][/COLOR]</link>
-<link>NOLINK$nome=[COLOR orange][B]SOLICITE AO SUPORTE NO GRUPO DO WHATS.[/B][/COLOR]</link>
-
-<thumbnail>https://www.themoviedb.org/t/p/original/xmJb9krlsp5pYIjyTjF7ihqlqjV.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/pSLZzchxQc9cxctGLLFmCq0ApFK.jpg</fanart>
-<info>Sete nobres famílias lutam pelo controle da mítica terra de Westeros, dividida depois de uma guerra.</info>
-<genre>FICÇÃO E FANTASIA</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-item>
-<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Game of Thrones (2019) - T08 - HD DUAL+LEG[/B][/COLOR]</title>
-
-<link>NOLINK$nome=[COLOR orange][B] Temporada 08 - 00 EPs[/B][/COLOR]</link>		
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<link><LINKUNIVVERSAL>$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<link>NOLINK$nome=[COLOR black][B].[/B][/COLOR]</link>
-<link>NOLINK$nome=[COLOR orange][B]  QUER ASSISTIR MAIS EPISODIOS?[/B][/COLOR]</link>
-<link>NOLINK$nome=[COLOR orange][B]SOLICITE AO SUPORTE NO GRUPO DO WHATS.[/B][/COLOR]</link>
-
-<thumbnail>https://www.themoviedb.org/t/p/original/fJtKhzUwZwVl6WzkfrthJfEDxUD.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/eaP20vWMFgQjhwsWBS7mlveXixY.jpg</fanart>
-<info>Sete nobres famílias lutam pelo controle da mítica terra de Westeros, dividida depois de uma guerra.</info>
-<genre>FICÇÃO E FANTASIA</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[COLOR black].[/COLOR]</title>				
 <link>ignoreme</link>				
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+<fanart>https://i.ibb.aco/6N5djff/FAN-2.png</fanart>			
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
-<title>[COLOR orange][B]O VÍDEO NÃO ABRIU ?[/B][/COLOR]</title>
+<title>[COLOR orange][B]ERROS ? CHAME O SUPORTE[/B][/COLOR]</title>	
 <link>ignoreme</link>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-<item>
-<title>[COLOR orange][B]NÃO ENCONTROU O QUE QUERIA ?[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-	
-<item>
-<title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+<thumbnail>https://i.ibb.co/BnzRHfz/ERROS-SUPORTE.png</thumbnail>				
+<fanart>https://i.ibb.aco/6N5djff/FAN-2.png</fanart>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
