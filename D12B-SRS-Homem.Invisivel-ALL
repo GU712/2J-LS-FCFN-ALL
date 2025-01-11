@@ -1,20 +1,16 @@
-<channels>
-<channel>
-<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/refs/heads/main/D12B-SRS-Homem.Invisivel-ALL</externallink>
+<item>	
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
+<link>NOLINK</link>	
 <thumbnail>https://i.ibb.co/NWfgpVX/SEL-ITEM-SRS-ICON.png</thumbnail>				
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>		
 <info>FAÇA SUA ESCOLHA 
-E DIVIRTA-SE </info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+E DIVIRTA-SE </info>	
+</item>	
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR white][B]Gemini Man (1976) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/refs/heads/main/D12B2-SRS-Gemini.Man.1976-ALL</externallink>
+<item>	
+<title>[COLOR orange][B]Gemini Man[/B][/COLOR]</title>	
+<link>NOLINK</link>	
 <thumbnail>https://image.tmdb.org/t/p/original/2wbtpayQg5kBN4CSUElheyJNqG4.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/zSeazqQWAkuys8lzR6ABTFTYb93.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
@@ -29,170 +25,150 @@ em missões secretas. Durante uma missão de mergulho, Sam foi afetado pela radi
 Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
-</channel>
-</channels>
+</item>	
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR white][B]O Homem Invisível (2000) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS11[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/refs/heads/main/D12B1-SRS-Homem.Invisivel.2000-ALL</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/r2xvhDRpsQ8Oq3FlihPGDsND6vg.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/cdGS9KyuJcT141SHgXRSMTVyZYN.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]O Homem Invisível
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2000
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPs - 46 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]A trama gira em torno de Darien Fawkes, um ladrão que enfrenta prisão perpétua que 
-foi recrutado recebeu o poder de invisibilidade por meio da implantação de uma glândula especial em sua cabeça.
-[/B][COLOR black].[/COLOR]
-Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
+<item>	
+<title>[COLOR orange][B]Episódios Especiais[/B][/COLOR]</title>	
+<link>NOLINK</link>	
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/DOBLE/EPS.SPCS.png</thumbnail>				
+<fanart>https://image.tmdb.org/t/p/original/zSeazqQWAkuys8lzR6ABTFTYb93.jpg</fanart>		
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
+</item>	
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<channels>
-<channel>
-<name>[COLOR black].[/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/refs/heads/main/D12B-SRS-Homem.Invisivel-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
-</channel>
-</channels>
+<item><title>[COLOR orange][B]T00E01[COLOR yellow] -> [COLOR white]Nunca Tantos Deveram Tanto a Tao Poucos[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title> 
+<link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/O.Homem.Invisivel/SRS/1996.Gemini.Man/SRS/LS-T01E06.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/zSeazqQWAkuys8lzR6ABTFTYb93.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T00E02[COLOR yellow] -> [COLOR white]A Luta Beneficente[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title> 
+<link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/O.Homem.Invisivel/SRS/1996.Gemini.Man/SRS/LS-T01E07.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/zSeazqQWAkuys8lzR6ABTFTYb93.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T00E03[COLOR yellow] -> [COLOR white]Targets - Sem Legenda[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title> 
+<link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/O.Homem.Invisivel/SRS/1996.Gemini.Man/SRS/LS-T01E08.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/zSeazqQWAkuys8lzR6ABTFTYb93.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T00E04[COLOR yellow] -> [COLOR white]Flores Para Um Patriota[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title> 
+<link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/O.Homem.Invisivel/SRS/1996.Gemini.Man/SRS/LS-T01E09.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/zSeazqQWAkuys8lzR6ABTFTYb93.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T00E05[COLOR yellow] -> [COLOR white]Buffalo Bill Rides Again - Sem Legenda[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title> 
+<link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/O.Homem.Invisivel/SRS/1996.Gemini.Man/SRS/LS-T01E10.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/zSeazqQWAkuys8lzR6ABTFTYb93.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]T00E06[COLOR yellow] -> [COLOR white]A Volta do Leao[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title> 
+<link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/O.Homem.Invisivel/SRS/1996.Gemini.Man/SRS/LS-T01E11.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/zSeazqQWAkuys8lzR6ABTFTYb93.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>
+<item><title>[COLOR orange][B]TEMP 01 (1976) 11 EPs - SD DUB DUAL+LEG[/B][/COLOR]</title>
+<link>NOLINK</link>	
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/01.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/zSeazqQWAkuys8lzR6ABTFTYb93.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
+</item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR orange][B]MENU DE RETORNO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/refs/heads/main/D12B-SRS-Homem.Invisivel-ALL</externallink>
-<thumbnail>https://i.ibb.co/nbZ50B0/SEL-ITEM.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item><title>[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]The Gemini Man (Piloto)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title> 
+<link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/O.Homem.Invisivel/SRS/1996.Gemini.Man/FLM/LS-1976.Gemini.Man.O.Filme.SD.DUB.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/zSeazqQWAkuys8lzR6ABTFTYb93.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR white][B]NOVIDADES DA SEMANA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/7-SEL-NEWS-ALL</externallink>
-<thumbnail>https://i.ibb.co/0c3Bj32/RET-MENU-NEWS.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
-<info>[COLOR white]Atalho para a seção de:  
-[B]NOVIDADES DA SEMANA
+<item><title>[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Herois da Estrada[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title> 
+<link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/O.Homem.Invisivel/SRS/1996.Gemini.Man/SRS/LS-T01E01.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/zSeazqQWAkuys8lzR6ABTFTYb93.jpg</fanart>
 [COLOR black].[/COLOR]
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalhos provisórios aos conteúdos novos que foram adicionados no SERVER LS durante a semana, é dividida em dois setores FILMES e SÉRIES. 
-[COLOR black].[/COLOR]
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
-[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
-[COLOR black].[/COLOR]
- AGILIZE SUA NAVEGAÇÃO
-USE ESSE LINK DE ATALHO[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR white][B]NOSTALGIA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/5-SEL-NSTLG-ALL</externallink>
-<thumbnail>https://i.ibb.co/vD7SyB5/RET-MENU-NSTLG.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
-<info>[COLOR white]Atalho para a seção de:  
-[B]NOSTALGIA
+<item><title>[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]O Minotauro[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title> 
+<link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/O.Homem.Invisivel/SRS/1996.Gemini.Man/SRS/LS-T01E02.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/zSeazqQWAkuys8lzR6ABTFTYb93.jpg</fanart>
 [COLOR black].[/COLOR]
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalho para o conteúdo raro e antigo, lançados até ano 2000 , organizado por décadas, material comprado de colecionadores com as CONTRIBUIÇÕES recebidas.
-[COLOR black].[/COLOR]
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
-[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
-[COLOR black].[/COLOR]
- AGILIZE SUA NAVEGAÇÃO
-USE ESSE LINK DE ATALHO[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR white][B]ESPECIAIS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/4-SEL-ESPC-ALL</externallink>
-<thumbnail>https://i.ibb.co/1Qz2bpD/RET-MENU-SPCS.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
-<info>[COLOR white]Atalho para a seção de:  
-[B]ESPECIAIS
+<item><title>[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Sam Casey[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title> 
+<link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/O.Homem.Invisivel/SRS/1996.Gemini.Man/SRS/LS-T01E03.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/zSeazqQWAkuys8lzR6ABTFTYb93.jpg</fanart>
 [COLOR black].[/COLOR]
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalho para a seção com as Franquias Especiais , Cine Gospel e Doramas ...Um espaço para o conteúdo extraordinário e não convencional. 
-[COLOR black].[/COLOR]
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
-[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
-[COLOR black].[/COLOR]
- AGILIZE SUA NAVEGAÇÃO
-USE ESSE LINK DE ATALHO[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR white][B]SÉRIES[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/3-SEL-SRS-ALL</externallink>
-<thumbnail>https://i.ibb.co/bB5Gx7T/RET-MENU-SRS.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
-<info>[COLOR white]Atalho para a seção de:  
-[B]SÉRIES
+<item><title>[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Trem Noturno Para Dallas[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title> 
+<link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/O.Homem.Invisivel/SRS/1996.Gemini.Man/SRS/LS-T01E04.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/zSeazqQWAkuys8lzR6ABTFTYb93.jpg</fanart>
 [COLOR black].[/COLOR]
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalho para conteúdos em Séries, Novelas, Desenhos e Animes que são apresentados em diversos episódios de curta duração, no decorrer de diversas temporadas.
-[COLOR black].[/COLOR]
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
-[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
-[COLOR black].[/COLOR]
- AGILIZE SUA NAVEGAÇÃO
-USE ESSE LINK DE ATALHO[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR white][B]FILMES[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/2-SEL-FLMS-ALL</externallink>
-<thumbnail>https://i.ibb.co/3yFZ2mG/RET-MENU-FLM.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
-<info>[COLOR white]Atalho para a seção de:  
-[B]FILMES
+<item><title>[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Fuja Sam Fuja[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title> 
+<link>https://ls.lsnew.workers.dev/0:/FLMS/10FCFN-CL/O.Homem.Invisivel/SRS/1996.Gemini.Man/SRS/LS-T01E05.mkv</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/zSeazqQWAkuys8lzR6ABTFTYb93.jpg</fanart>
 [COLOR black].[/COLOR]
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalho para conteúdos em formato para ser exibido no cinema, televisão ou outro veículo, sendo curtos ou longos. Utiliza diversos servidores.
-[COLOR black].[/COLOR]
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
-[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
-[COLOR black].[/COLOR]
- AGILIZE SUA NAVEGAÇÃO
-USE ESSE LINK DE ATALHO[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR white][B]MENU GERAL[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/1-CATEGORIAS-ALL</externallink>
-<thumbnail>https://i.ibb.co/xqRhHbc/RET-MENU-GRL.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
-<info>[COLOR white]Atalho para a seção de:  
-[B]MENU GERAL
-[COLOR black].[/COLOR]
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Atalho para o menu principal retorne e realize uma nova escolha entre as seções do Add on.
-[COLOR black].[/COLOR]
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]As CONTRIBUIÇÔES cobrem os custos para manter o LUMINART sempre ON LINE.
-[B]"O ATO DE RETRIBUIR É MAIOR , QUE O OFERTADO."[/B]
-[COLOR black].[/COLOR]
- AGILIZE SUA NAVEGAÇÃO
-USE ESSE LINK DE ATALHO[/COLOR]</info>
-</channel>
-</channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR black].[/COLOR]</title>				
+<link>ignoreme</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.aco/6N5djff/FAN-2.png</fanart>			
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR orange][B]ERROS ? CHAME O SUPORTE[/B][/COLOR]</title>	
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/BnzRHfz/ERROS-SUPORTE.png</thumbnail>				
+<fanart>https://i.ibb.aco/6N5djff/FAN-2.png</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
