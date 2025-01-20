@@ -107,8 +107,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS3[COLOR yellow] -> [COLOR white]Além da Imaginação (1959-1964) - INCOMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/C9-SRS-Alem.da.Imaginasao.1959-ALL</externallink>
+<name>[COLOR white][B]Além da Imaginação (1959-1964) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/refs/heads/main/C006C-SRS-Alem.da.Imaginasao.1959-ALL</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/coWkN4uvxP41T0JFZHttUhS2PBj.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/w6ucJvcukwkuI3dnh4Yn889byf5.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
@@ -117,7 +117,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1959 a 1964
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]05 TEMPs - 156  EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A clássica série de TV Além da Imaginação (The Twilight Zone), que explora o misterioso, o desconhecido e o inesquecível, levará você para os mais profundos reinos da imaginação. Em suas lendárias histórias, você conferirá o melhor da ficção científica e do terror de todos os tempos
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]A clássica série de TV Além da Imaginação (The Twilight Zone), que explora o misterioso, 
+o desconhecido e o inesquecível, levará você para os mais profundos reinos da imaginação.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
@@ -125,17 +129,43 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS3[COLOR yellow] -> [COLOR white]Além da Imaginação (2002) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/C38-SRS-Alem.da.Imaginasao.2002-ALL</externallink>
+<name>[COLOR white][B]Além da Imaginação (2002) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/refs/heads/main/C006B-SRS-Alem.da.Imaginasao.2002-ALL</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/vvQKVhglnYywJbH0q19XlKlTex6.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/4rihVRGpNXXCro7ClvwQFDpQyNs.jpg</fanart>
-<info>[COLOR white]Assista aqui a série  o desenho a novela: 
+<info>[COLOR white]Assista aqui a série: 
 [B]Além da Imaginação
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2002
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2002
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 43 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Forest Whitaker assume o papel de narrador que outrora era ocupado por Rod Serling. Uma série antológica, com episódios de apenas meia hora de duração que nos apresenta o estranho, o bizarro, o inesperado!
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 43 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Forest Whitaker assume o papel de narrador que outrora era ocupado por Rod Serling. 
+Uma série antológica, com episódios de apenas meia hora de duração que nos apresenta o estranho, o bizarro, o inesperado!
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Além da Imaginação (2019-2020) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/refs/heads/main/C006A-SRS-Alem.da.Imaginasao.2019-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/muhRnm2cQJGFWeemXHpsSK8IQoA.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/7esDVGdVWqLkpsrUV4bb4QoXLMU.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Além da Imaginação
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2019 a 2020
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPs - 20 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Bem-vindo de volta a um universo repleto de eventos sobrenaturais, criaturas místicas, 
+viagens espaciais e mundos paralelos.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
