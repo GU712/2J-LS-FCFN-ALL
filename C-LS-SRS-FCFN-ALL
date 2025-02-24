@@ -1,15 +1,15 @@
 <channels>
 <channel>
 <name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO [/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/7-NOST-ALL-LS/main/5B4-SRS-60-NOST-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/C-LS-SRS-FCFN-ALL</externallink>
 <thumbnail>https://i.ibb.co/NWfgpVX/SEL-ITEM-SRS-ICON.png</thumbnail>				
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>		
 <info>FAÇA SUA ESCOLHA 
 E DIVIRTA-SE </info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 NUMERAL			
@@ -21,39 +21,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]A Feiticeira (1964-1971) - COMPLETA[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</name>	
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C9-SRS-A.Feiticeira-ALL</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/wbLPnXSIGFY86uF7F4X0KDV0mA8.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/rFJUwDiZeSDWUR04nb3w62RqXK9.jpg</fanart>
+<name>[COLOR white][B]A Casa do Dragão (2022-2024) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/refs/heads/main/C021-SRS-A.Casa.do.Dragao.2022-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/gDiHb8Zzetaq1E7gkYDVnyKZ9mA.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hRG3C9SNXatz5ch2ZSC0BSDeCBS.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
-[B]A Feiticeira
+[B]A Casa do Dragão
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1964 a 1971
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]08 TEMPs - 254  EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Uma feiticeira que se casa com um homem mortal comum e promete levar a vida de uma típica 
-dona de casa suburbana americana.
-[COLOR black].[/COLOR]
-Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>	
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]Agente 86 (1965-1969) COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C015-SRS-Agente.86.1965-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/czVnqeZZVBoniOO3iYB3nSvuSWO.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/6ahKNfvLGWYDlhUfSagJfClXkoi.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Agente 86
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1965 a 1969
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]05 TEMPs - 138 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]O mundo da Espionagem não seria tão engraçado sem o AGENTE 86.
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2022 a 2024
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FANTASIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPs - 000 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Não foram os sonhos que os tornaram reis. Foram os dragões.
 [/B][COLOR black].[/COLOR]
 Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
@@ -64,22 +42,218 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]A Noviça Voadora (1967-1969) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS5[/B][/COLOR]</name>	
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C050-COL-A.Novisa.Voadora.1967-ALL</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/4LkhFq3yKKXvv81pkbkPqPfYMeh.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/dwhPxxkcIxJ4EMJt3OiInsk4tJl.jpg</fanart>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Bela e a Fera (2012-2016) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/B9B2-SRS-A.Bela.e.a.Fera.2012-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/gAhKTNCLSInPeJgweYCv21VlmVA.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9SrsT4qw7UVodI20SMYyfGHoGKz.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
-[B]A Noviça Voadora
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1967 a 1969
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]03 TEMPs - 82 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A Noviça Voadora mostrava a história da irmã Bertrille, uma noviça exuberante que levava 
-muita alegria ao antigo convento de San Tanco, situado perto de San Juan, Porto Rico. 
-[COLOR black].[/COLOR]
+[B]A Bela e a Fera
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2012 a 2016
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]DRAMA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPs - 70 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Durante uma investigação, a detetive Catherine Chandler acaba reencontrando Vincent Keller, um homem que a salvou de um ataque anos antes. Mas agora Keller sofre de uma doença que o transforma em monstro quando se irrita.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Bela e a Fera (1987-1989) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/B9B1-SRS-A.Bela.e.a.Fera.1987-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/vpSiTl7U1NKdDHroFUqCBQgqd2q.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mUve0t93bhQyjbpH8JBtIbnHR6V.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]A Bela e a Fera
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1987 a 1989
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]DRAMA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]03 TEMPs - 56 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Catherine é uma mulher rica que pensa que sua vida não tem significado além de qualquer coisa superficial. Vincent é de um mundo diferente. Ele mora abaixo da cidade em túneis que foram esquecidos. Ele deve ficar oculto por causa de sua aparência.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]A Ilha da Fantasia (1978-1983) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/refs/heads/main/C018-SRS-Ilha.da.Fantasia.1978-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/vppu6mK0ggPFA4FH7CsOTxYCPtW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/tFXozuubURDnBXY4IOUwzSLQWT2.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]A Ilha da Fantasia
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1978 a 1983
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FANTASIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]07 TEMPs - 155 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Uma ilha mágica hospedada por Mr Roarke e Tattoo, onde os hóspedes semanais aprendem 
+valiosas lições de vida na busca pela realização de seus sonhos. Nem todos os sonhos são realizados conforme o esperado.
+[/B][COLOR black].[/COLOR]
 Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>	
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]A Mulher Biônica (1976-1977) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/D01B1-SRS-Mulher.Bionica.1976-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/iUN8qOF0iH3QtCt7dL53ZKFFFJt.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/beQgTmzsl15EhqWORH4wmEvIsyu.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]A Mulher Biônica
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1976 a 1977
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]03 TEMPs - 60 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Depois de se recuperar completamente de sua quase mortal rejeição biônica, 
+Jaime Sommers, o primeiro ciborgue feminino, é designado para missões de espionagem por conta própria.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Além da Imaginação (1959-1964) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/refs/heads/main/C006C-SRS-Alem.da.Imaginasao.1959-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/coWkN4uvxP41T0JFZHttUhS2PBj.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/w6ucJvcukwkuI3dnh4Yn889byf5.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Além da Imaginação
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1959 a 1964
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]05 TEMPs - 156  EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]A clássica série de TV Além da Imaginação (The Twilight Zone), que explora o misterioso, 
+o desconhecido e o inesquecível, levará você para os mais profundos reinos da imaginação.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Além da Imaginação (2002) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/refs/heads/main/C006B-SRS-Alem.da.Imaginasao.2002-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/vvQKVhglnYywJbH0q19XlKlTex6.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/4rihVRGpNXXCro7ClvwQFDpQyNs.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Além da Imaginação
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2002
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 43 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Forest Whitaker assume o papel de narrador que outrora era ocupado por Rod Serling. 
+Uma série antológica, com episódios de apenas meia hora de duração que nos apresenta o estranho, o bizarro, o inesperado!
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Além da Imaginação (2019-2020) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS3[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/refs/heads/main/C006A-SRS-Alem.da.Imaginasao.2019-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/muhRnm2cQJGFWeemXHpsSK8IQoA.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/7esDVGdVWqLkpsrUV4bb4QoXLMU.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Além da Imaginação
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2019 a 2020
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPs - 20 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Bem-vindo de volta a um universo repleto de eventos sobrenaturais, criaturas místicas, 
+viagens espaciais e mundos paralelos.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS5[COLOR yellow] -> [COLOR white]Altered Carbon (2018-2020) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/refs/heads/main/C8-SRS-Altered.Carbon.2018-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/pyX4VdbRGdMGcFgHNoi3z6Gycgv.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/kaglh4xh7OOMAsfCNnsswcF4Fh4.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Altered Carbon
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2018 a 2020
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPs - 18 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Após 250 anos no gelo, ele retorna em um novo corpo com uma missão: solucionar um complexo mistério e conquistar sua liberdade.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Ark II (1976) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/C11-SRS-Ark.II-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/o3RC6RPrbyalYbawK2Z9i8TKsEd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uY0QpTmIMxiiXirxYrORD0jTVEH.jpg</fanart>
+<info>Assista a série Ark II. 
+[COLOR orange][B]FICÇÃO E FANTASIA[/B][/COLOR]
+[COLOR orange][B]01 TEMPS - 15 EPs[/B][/COLOR]
+[COLOR orange][B]ANO - 1976[/B][/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS3[COLOR yellow] -> [COLOR white]Arquivo X (1993-2018) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/C1-SRS-Arquivo.X-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/bA4XkQR5VAuiszhbfDhR0siZgiI.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/gBiPjwienJkkpUSM8S5RavdImZO.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Arquivo X
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1993 a 2018
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]11 TEMPS - 218 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Dana Scully e Fox Mulder são dois agentes do FBI que investigam casos não solucionados, estranhos e inexplicáveis que envolvem fenômenos paranormais.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]As Crônicas de Sarah Connor (2008) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/D09B-SRS-Ext.do.Futuro-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/6qRyKBpsR7ORvLak9ZGkSF7Da5y.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4mHJ4WX8Egx3MAss1CTKOKxTrgH.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]As Crônicas de Sarah Connor
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2008
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPs - 31 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Cansada de fugir de assassinos do futuro e policiais do presente, Sarah Connor 
+decide se preparar para lutar contra as máquina do futuro que tentam sumariamente eliminá-la.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -90,20 +264,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Batman (1966-1967) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/D08B2-SRS-Batman.1966-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/eJWKgqICVxgDOOWRNBQ7b6Hh5Xb.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/gpJZiTvklr5JN0mzpQwl99peQD7.jpg</fanart>
+<name>[COLOR white][B]Buck Rogers no Século 25 (1979-1981) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/C30-SRS-Buck.Rogers.no.Seculo.25-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/551l8ybr8TPIZozSteGVTs0si34.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9hjHVwtHFt03Y6kS9yFXoBI4WK0.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
-[B]Batman
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1966 a 1967
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓIS
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]03 TEMPS - 120 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]O Paladino da Justiça e seu fiel companheiro o menino prodígio em sua série clássica.
-[/B][COLOR black].[/COLOR]
-Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.
+[B]Buck Rogers no Século 25
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANO - 1979 a 1981
+[COLOR orange]FICÇÃO E FANTASIA
+[COLOR orange]02 TEMPs - 37 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O astronauta do século 20, Buck Rogers, acorda no século 25 depois que um acidente estranho o coloca em animação suspensa por 500 anos. 
 [/COLOR]</info>
 </channel>
 </channels>
@@ -113,103 +284,81 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "C"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
-<channels>
-<channel>
-<name>[COLOR white][B]Chaparral (1967-1971) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/refs/heads/main/C010-SRS-Chaparral.1967-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/13MqGrDjk9KfCSt7emHf1nUsZyz.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/uK8TlYFhat6hFYSGTwJMO9Uu2WN.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Chaparral
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1967 a 1971
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPS - 98 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]A família Cannon se esforça para manter o negócio de gado vivo em sua fazenda no Arizona, 
-na década de 1870.
-[/B][COLOR black].[/COLOR]
-Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]Combate (1962-1966) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2C-LS-GRR-ALL/main/C007-SRS-Combat.1962-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/2FQKBkUvvWhfjpXr5THFLEW3E7e.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/45a4XsUzaNoOAEHsrDEPznZTMGk.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Combate
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1962 a 1966
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]GUERRA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]05 TEMPs - 152 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]As vidas sombrias de um esquadrão de soldados americanos que lutavam contra os alemães na França durante a Segunda Guerra Mundial.
-[/B][COLOR black].[/COLOR]
-[COLOR white]Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "D"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-<channels>
-<channel>
-<name>[COLOR white][B]Daktari (1966) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2F-LS-AVT-ALL/main/C014-SRS-Daktari.1966-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/snopJzlOhhjG5LKkW2SZ6A9YA0W.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/3hKMKPAWzbsjqFQkjg7I22kiJTu.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Daktari
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]ANO - 1966
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AVENTURA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPs - 071 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Marshall Thompson como Dr. Marsh Tracy, um veterinário do fictício Centro de 
-Estudos de Comportamento Animal Wameru na África Oriental.
-[/B][COLOR black].[/COLOR]
-Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]Daniel Boone (1964-1970) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/main/C007-SRS-Daniel.Boone.1964-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/lL4XDk4wRELIqciMtjcrD4TQ5m6.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/3q8UvO6eeIlFn7DkJ1MexFrselE.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Daniel Boone
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1964 a 1970
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]06 TEMPS - 165  EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Daniel Boone era um pioneiro, caçador e aventureiro que se estabeleceu com sua família
- na fronteira dos Estados Unidos, a leste do Mississipi, nos idos de 1770.
-[/B][COLOR black].[/COLOR]
-Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "E"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
+<channels>
+<channel>
+<name>[COLOR white][B]Edição de Amanhã (1996-1999) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/C19-SRS-Edisao.de.Amanha-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/eBhlNJnsoY2EsPbP67sbVhp86X6.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/rz0K85KgUxVwldwsxo1ykB0xPtL.jpg</fanart>
+<info>Assista a série Edição de Amanhã. 
+[COLOR orange][B]FICÇÃO E FANTASIA[/B][/COLOR]
+[COLOR orange][B]04 TEMPS - 90 EPs[/B][/COLOR]
+[COLOR orange][B]ANOS - 1996 a 1999[/B][/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Era uma Vez (2011-2017) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/C26-SRS-Once.Upon.Time-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/wbsG9jUs9FkYwggrJLGquuYMihF.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/rnSXQCyrid69unxwxjGDFPPm3sC.jpg</fanart>
+<info>Assista a série Era uma Vez. 
+[COLOR orange][B]FICÇÃO E FANTASIA[/B][/COLOR]
+[COLOR orange][B]07 TEMPS - 156 EPs[/B][/COLOR]
+[COLOR orange][B]ANOS - 2011 a 2017[/B][/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Espaço: 1999 (1975–1977) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/C32-SRS-Espaso.1999-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/4xq1CJUoyyhV6RGjAKGuPN9oXvz.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6EXLiTlqxtdB2EVclMcTr4QG1g.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Espaço: 1999
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1975 a 1977
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPs - 48 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A tripulação do Moonbase Alpha deve lutar para sobreviver quando uma enorme explosão lança a Lua da órbita para o espaço profundo.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "F"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+				
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Fallout (2024) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/C36-SRS-Fallout.2024-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/AnsSKR9LuK0T9bAOcPVA3PUvyWj.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/fcz8CMhJbQfHmUgkVHPeYboeqy8.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Fallout
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2024
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 08 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]200 anos após o apocalipse, os nobres residentes de abrigos de luxo são forçados a retornar ao universo incrivelmente complexo, alegremente estranho e altamente violento que os aguarda na superfície.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "G"				
@@ -217,18 +366,50 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Guerra, Sombra e Água Fresca (1965-1970) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C021-SRS-Guerra.S.A.Fresca.1965-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/mZKGzq3nblFMmsQ45muvN3MhrJL.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/a97Q8f3dWiaMg2nq79zG5oZVotp.jpg</fanart>
+<name>[COLOR white][B]Game of Thrones ( 2011-2019) - ATUALIZANDO[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/C27-SRS-Game.of.Thrones-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/44rw2cOQrgUthZMhp3eibpXVy9p.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mhdP47zYd5GnLHD7RtIKXUNnafQ.jpg</fanart>
+<info>Assista a série Game of Thrones. 
+[COLOR orange][B]FICÇÃO E FANTASIA[/B][/COLOR]
+[COLOR orange][B]08 TEMPS - 73 EPs[/B][/COLOR]
+[COLOR orange][B]ANOS -  2011 a 2019[/B][/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Ghost Whisperer (2005-2009) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/C34-SRS-Ghost.Whisperer-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/nIboXXCporMO9Xskq7Rsf45Z6qW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dWhMavg03rBGM96JSQmiUGcj3WE.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
-[B]Guerra, Sombra e Água Fresca
+[B]Ghost Whisperer
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1965 a 1970
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]06 TEMPS - 168 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]As peripécias de um grupo de prisioneiros no Campo 13, narradas com muito bom humor. 
-Eles se passam por prisioneiros de guerra, mas na verdade, são agentes secretos a serviço dos Aliados.
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2005 a 2009
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FANTASIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]05 TEMPs - 107 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Melinda Gordon se comunica com espíritos presos na Terra – fantasmas que se agarram aos vivos porque têm assuntos pendentes que os impedem de ir além do nosso plano de existência.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]A Guerra dos Mundos (2019) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/D05B-SRS-Guerra.dos.Mundos-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/68uDzEAtjM9NN8DloRXdZ9t4I05.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/xLh6Lkj0J5d4new50BxDHEB7wjj.jpg</fanart>
+<info>[COLOR white]Assista aqui a série:
+[B]A Guerra dos Mundos
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2019
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 03 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Na Inglaterra Eduardiana, George e sua parceira Amy tentam desafiar a sociedade e 
+começar uma vida juntos, enquanto enfrentam o terror crescente de uma invasão alienígena.
 [/B][COLOR black].[/COLOR]
 Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
@@ -243,22 +424,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Hondo (1967) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/refs/heads/main/D02B-SRS-Hondo-ALL</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/6QemSOG9GTimkAzICjB2LXind9p.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/sewnv47MukF6KdXpgw4xEzGwVux.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Hondo 
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1967
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 17 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Hondo é uma série de televisão ocidental de 17 episódios estrelada por Ralph Taeger que 
-foi ao ar nos Estados Unidos pela ABC durante o outono de 1967.
-[/B][COLOR black].[/COLOR]
-Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
+<name>[COLOR white][B]Halo (2022) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/C17-SRS-Halo-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/kZ4WEkyWG0XJL71PIEpYdbDHOuz.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/iyMn57ekOof5DcXJx4tXvoI6qAO.jpg</fanart>
+<info>Assista a série Halo. 
+[COLOR orange][B]FICÇÃO E FANTASIA[/B][/COLOR]
+[COLOR orange][B]01 TEMPS - 09 EPs[/B][/COLOR]
+[COLOR orange][B]ANOS - 2022[/B][/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -270,50 +443,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "J"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-<channels>
-<channel>
-<name>[COLOR white][B]James West (1965-1968) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/main/C006-SRS-James.West.1965-ALL</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/6LKWkXhA5mtbFUkHIpZQYDYDOTC.jpg.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/zxRB1qIKWScHjdlDhtJAByU7xOS.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]James West
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1965 a 1968
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPs - 104 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]James West e Artemus Gordon enquanto solucionavam crimes, protegiam o presidente 
-e frustravam os planos de vilões megalomaníacos de dominar a totalidade ou parte dos Estados Unidos.
-[/B][COLOR black].[/COLOR]
-Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]Jeannie é um Gênio (1965-1969) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C010-SRS-Jeannie.e.um.Genio.1965-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/w7Gg2NpcajWd9S0bnbMyAvi5ycm.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/vpEkjL6dLUlJw6l1wJ3lh92MDm2.jpg</fanart>
-<info>[COLOR white]Assista aqui a série  o desenho a novela: 
-[B]Jeannie é um Gênio
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1965 a 1969
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]05 TEMPs - 139 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Barbara Eden como um gênio de 2.000 anos e Larry Hagman como um astronauta que se
- torna seu mestre, e por quem ela se apaixona e acaba se casando. 
-[/B][COLOR black].[/COLOR]
-Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "K"				
@@ -329,18 +458,40 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Missão: Impossível (1966-1972) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/D08B-SRS-M.Impossivel-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/bAnCcwe70IXHRwUgsRJT4ZlQ47o.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/djaw0GHKFdscur3MZlH6nTjeSGk.jpg</fanart>
+<name>[COLOR white][B]Manimal (1983) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/C014-SRS-Manimal-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/pqrc5EJIxL01PiUFilNKLpDUwfO.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eLcINExQR0LuDgtD59A46fD3W4l.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
-[B]Missão: Impossível
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1966 a 1972
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]07 TEMPs - 171 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]O agente Jim Phelps lidera a Impossible Missions Force (IMF), uma agência ultra-secreta, 
-e precisa escolher a equipe que vai trabalhar a cada missão.Sempre disfarçado e com a ajuda de recursos tecnológicos.
+[B]Manimal
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1983
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 08 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]A história do especialista em vida selvagem, o professor Jonathan Chase, um britânico 
+culto e "boa pinta” que também trabalhava para a polícia como um consultor do uso de animais em criminalística.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Monstro do Pântano (2019) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/D02B-SRS-Monstro.do.Pantano.2019-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/uF4lM1rOvgfSHNIN22awO66AaU.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nPU7sqg7X1h0L9IuDUd6NiijFgd.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Monstro do Pântano
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2019
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUSPENSE
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 10 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Durante a investigação de uma epidemia em sua cidade natal, na Louisiana, 
+Abby Arcane descobre que os pântanos locais guardam inúmeros segredos.
 [/B][COLOR black].[/COLOR]
 Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
@@ -351,25 +502,21 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "N"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+				
 <channels>
 <channel>
-<name>[COLOR white][B]Nós e o fantasma (1968-1970) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C026-SRS-Nos.e.o.Fantasma.1968-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/pBxpFHfFADpEpO1WSBqUXlpFIlp.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/5PXiSWwUJQ7Qz6Tkt2YqEWeSymT.jpg</fanart>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Nada é o que Parece Ser (2022) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/C4-SRS-Nada.e.o.que.Parece.Ser.2022-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/3onGscw9QpSe3YsqQDU5HJwAIEv.jpg</thumbnail>
+<fanart>https://media.themoviedb.org/t/p/w500_and_h282_face/8W2V6EtBNEHXr9xk52nkkIe15LK.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
-[B]Nós e o fantasma
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1968 a 1970
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPS - 50  EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Após ficar viúva, a jovem escritora Carolyn Muir sente a necessidade de reconstruir 
-a sua vida e muda-se com seus dois filhos e o cãozinho da família para um chalé onde existe um fantasma.
-[/B][COLOR black].[/COLOR]
-Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.
+[B]Nada é o que Parece Ser
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2022
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 06 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O mundo de uma jovem de 17 anos vira de pernas para o ar depois que ela e os amigos descobrem a verdade perturbadora sobre sua pacata cidade dinamarquesa.
 [/COLOR]</info>
 </channel>
 </channels>
@@ -381,18 +528,53 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]O Agente da U.N.C.L.E. (1964-1967) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C014-SRS-O.Agente.da.Uncle.1964-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/rhodITgyqIuLIgIcdCDd7DkbZP9.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/8h5ux2XmtevHqxJj6vRE2Zr9a0E.jpg</fanart>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Domo: Prisão Invisível (2013-2015) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/C33-SRS-Under.The.Dome-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/iz6JZkXMNs12ZeveNLvuXx4nOhH.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qiDOjpLj2KGDwM5MGx9YZpOrBRX.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
-[B]O Agente da U.N.C.L.E.
+[B]O Domo: Prisão Invisível
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2013 a 2015
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]03 TEMPs - 39 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Uma pequena cidade americana é repentinamente isolada do restante do mundo por uma enorme e indestrutível cúpula transparente.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]O Elo Perdido (1974-1976) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/C15-SRS-O.Elo.Perdido.ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/eMMYJ3ozsr2zXwnZbSkKRxJOyyr.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/gGquYAYgedqAY96P3BuwZEgqGD5.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]O Elo Perdido
+[COLOR orange]Status[COLOR yellow]->[COLOR white]COMPLETA
+[COLOR orange][B]FICÇÃO E FANTASIA
+[COLOR orange][B]03 TEMPS - 43 EPs
+[COLOR orange][B]ANOS - 1974 a 1976
+[COLOR orange]SINOPSE[COLOR yellow]->[COLOR white][/B]Marshall e seus dois filhos, Will e Holly, fazem uma expedição de canoa, quando eles são pegos por um redemoinho e são levados para o elo perdido
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]O Homem de Seis Milhões de Dólares (1973-1978)- ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/D01B2-SRS-Homem.Bionico.1973-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/mEOuVUNVG5Xx4kx3XPi9XWCDWcf.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/fmXrcZU44W4iGRQZ08zVfxjeRPi.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]O Homem de Seis Milhões de Dólares
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1964 a 1967
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPS - 105 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Os agentes Napoleon Solo e Illya Kuryakin trabalham para um serviço secreto 
-de inteligência sob os auspícios da ONU.Juntos, eles operam a partir de uma base secreta sob as ruas da cidade de Nova York.
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1973 a 1978
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ficção
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]05 TEMPs - 99 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Steve Austin é um homem que sofre um grande acidente e é reconstruído como um ciborgue.
 [/B][COLOR black].[/COLOR]
 Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
@@ -403,21 +585,63 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]O Besouro Verde (1966) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2H-LS-SPH-ALL/main/C006-SRS-Besouro.Verde.1966-ALL</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/2wDWTFqUxo9h3aRERXTI9TDbfxG.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/u2XFy0VgktVyaXBk6jRCBM670RA.jpg</fanart>
+<name>[COLOR white][B]O Homem do Fundo do Mar (1977) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/C3-SRS-Man.of.Atlantis-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/f5WOAtEMUdQMVQJKVfMge6GBaBQ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/736cN8krZdzNtm1gsGtgEEZBSk2.jpg</fanart>
+<info>Assista a série O Homem do Fundo do Mar. 
+[COLOR orange][B]FICÇÃO E FANTASIA[/B][/COLOR]
+[COLOR orange][B]02 TEMPS - 17 EPs[/B][/COLOR]
+[COLOR orange][B]ANOS - 1977[/B][/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]O Homem Invisível (1975) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/C31-SRS-O.Homem.Invisivel-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/ojmrxi3abFeLaCcYWre9EO3la87.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/lBVxQx0ObCGYevMAgFwnV9ajDK8.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
-[B]O Besouro Verde
+[B]O Homem Invisível
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1975
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
+[COLOR orange]01 TEMPs - 13 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Dr. Daniel Westin é um cientista que dedicou parte de sua vida a alcançar a invisibilidade através da desintegração de moléculas. Quando os resultados dos estudos se tornam cada vez mais favoráveis, ele decide ser o cobaia da sua própria experiência.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]O Mundo Perdido (1999-2001) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/C16-SRS-O.Mundo.Perdido-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/7bjSr0E4tGSTdfiisjl1RVnQWd5.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ovq59utLtOqqMBphohyKqvVqfpb.jpg</fanart>
+<info>Assista a série O Mundo Perdido. 
+[COLOR orange][B]FICÇÃO E FANTASIA[/B][/COLOR]
+[COLOR orange][B]03 TEMPS - 66 EPs[/B][/COLOR]
+[COLOR orange][B]ANOS - 1999 a 2001[/B][/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Problema dos 3 Corpos (2024) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/C35-SRS-O.Problema.dos.3.Corpos-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/rqMYUtyrRJrZ1zKQvBfLgPh1c0T.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/uTuHO1t3Ni1VTeqXVBKdwrfMzWU.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]O Problema dos 3 Corpos
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1966
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]SUPER-HERÓIS
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 26 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Britt Reid é o dono do jornal "Daily Sentinel" ("Sentinela Diário"), mas também é o 
-justiceiro mascarado conhecido como Besouro Verde que combate o crime juntamente com seu auxiliar Kato.
-[/B][COLOR black].[/COLOR]
-Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2024
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 08 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Um grupo de cientistas faz descobertas revolucionárias ao longo das décadas. Ao mesmo tempo, as leis da ciência começam a cair por terra.
 [/COLOR]</info>
 </channel>
 </channels>
@@ -425,53 +649,23 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]O Fugitivo (1963-1966) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/refs/heads/main/C032-SRS-O.Fugitivo.1963-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/tLgHRFFToe9I9DdIe5SolLSAqDL.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/xowDfaOtwa23ChXHGiESAsdvgA8.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]O Fugitivo
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1963 a 1966
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]CRIME
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPs - 120 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]A vida de um médico muda ao extremo , ao ser acusado injustamente de 
-ter assassinado a esposa.
-[/B][COLOR black].[/COLOR]
-Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
+<name>[COLOR white][B]O Senhor dos Anéis: Os Anéis de Poder (2022) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/C22-SRS-S.A.Os.Aneis.de.Poder-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/b5pl6GmQmTCHmZKEBhXPN0gmoAq.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5Nv47cnzGDtHxmDuq8p7IVXtUPX.jpg</fanart>
+<info>Assista a série O Senhor dos Anéis: Os Anéis de Poder. 
+[COLOR orange][B]FICÇÃO E FANTASIA [/B][/COLOR]
+[COLOR orange][B]01 TEMPS - 08 EPs[/B][/COLOR]
+[COLOR orange][B]ANOS - 2022[/B][/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]O Homem de Virginia (1962-1970) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/main/C016-SRS-The.Virginian.1962-ALL</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/4QMDiDXdyrdirKkGcyQNN5wxz6u.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/wqxjNsYAf23SdNHUfQw4As5pIVa.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]O Homem de Virginia
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1962 a 1970
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]09 TEMPs - 269 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]O Rancho Shiloh no Território de Wyoming da década de 1890 pertence em sequência ao 
-Juiz Henry Garth, aos irmãos Grainger e ao Coronel Alan MacKenzie.
-[/B][COLOR black].[/COLOR]
-Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]O Túnel Do Tempo (1966) - FHD[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<name>[COLOR white][B]O Túnel Do Tempo (1966) - FHD COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/C007A-SRS-O.Tunel.do.Tempo-FHD-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/thbpL3Z98gcgdl5mbV0md231ymf.jpg</thumbnail>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/9GSW3deBIbalhAeksGBm2NX2Uj1.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
 [B]O O Túnel Do Tempo 
@@ -491,7 +685,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]O Túnel Do Tempo (1966) - HD[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<name>[COLOR white][B]O Túnel Do Tempo (1966) - HD COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/C007B-SRS-O.Tunel.do.Tempo-HD-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/thbpL3Z98gcgdl5mbV0md231ymf.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/9GSW3deBIbalhAeksGBm2NX2Uj1.jpg</fanart>
@@ -507,27 +701,6 @@ se perdem no tempo e são monitorados por uma equipe que permanece no laboratór
 Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]Os Guerrilheiros (1967) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2C-LS-GRR-ALL/main/C009-SRS-Os.Guerrilheiros.1967-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/bjAEitngnE5CkB7X798xxAC8LeV.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/4G43r63L3iMBDUEqZpqXbllQgOW.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Os Guerrilheiros
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1967
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]GUERRA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 26 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Foi inspirado no filme The Dirty Dozen, de 1967, que apresentava um cenário semelhante 
-de treinamento de prisioneiros aliados para missões militares da Segunda Guerra Mundial.
-[/B][COLOR black].[/COLOR]
-[COLOR white]Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -554,45 +727,31 @@ Avise o SUPORTE AO USUÁRIO.
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Os Monkees (1966-1967) - INCOMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C28-SRS-The.Monkees-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/4d5DWhXb16EgXRLrbEx5qq6lL8F.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/ccrjo3P971sEGstfwjhedQbcl19.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Os Monkees
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1966 a 1967
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPs - 58 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]As trapalhadas e aventuras de uma banda de rock, Os Monkees
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Os Monstros (1964-1964) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2D-LS-COM-ALL/main/C44-SRS-Os.Monstros-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/dYdEFAEU3HZKgtvtindshDpa2Iy.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/rlOQE3FBKzamw5ddBgCrZJ1RkQl.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Os Monstros
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white][COLOR orange]1964 a 1964
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPs - 70 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Os Monstros são uma família estranha, mas honesta.A sobrinha Marilyn, que é a única pessoa normal da casa, muito bonita e simpática, mas considerada como o "patinho feio" pela família.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "P"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+<channels>
+<channel>
+<name>[COLOR white][B]Planeta dos Macacos - A série (1974) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/D06B-SRS-Planeta.dos.Macacos-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/75n0DSkFFgeIZvtNkHqBjHzXCvd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/JrBiUtR2CwxZR5GMK5Z9dU7Wr4.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Planeta dos Macacos - A série
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1974
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 14 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]A Terra é dominado pelos símios. No topo da estrutura estão os orangotangos: 
+Legisladores, políticos e sábios, gorilas: soldados fortes e ferozes.E os escravos humanos.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
@@ -616,13 +775,93 @@ Avise o SUPORTE AO USUÁRIO.
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<channels>
+<channel>
+<name>[COLOR white][B]Perdidos no Espaço (2018-2020) - FHD COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/refs/heads/main/D11B2-SRS-Perdidos.no.Espaso.2018-FHD-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/cQwuA5STmOG4TBwTZyukBFfyF5w.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kK0TSAyWixl4IwBD1fRtK9a3i7X.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Perdidos no Espaço
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2018 a 2020
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]03 TEMPs - 28 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Após um pouso forçado em um planeta desconhecido, a família Robinson tenta sobreviver 
+aos perigos que encontra neste novo mundo.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "Q"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "R"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+				
+<channels>
+<channel>
+<name>[COLOR white][B]Raised by Wolves (2020-2022) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/C037-SRS-Raised.by.Wolves.2020-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/mTvSVKMn2Npf6zvYNbGMJnYLtvp.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/eA3E81d22aB75NlDWBCKmpPQBp.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Raised by Wolves
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2020 a 2022
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPs - 18 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Depois que a Terra é destruída por disputas religiosas e a raça humana beira a extinção, 
+um arquiteto de androides ateu envia suas criações, Mãe e Pai, para o planeta Kepler-22b para iniciar uma nova colônia sem deuses.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]Revolução (2012-2013) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/refs/heads/main/C40-SRS-Revolusao.2012-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/37mf6I0fhFsxKFo3CcZQVqj2uc1.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/2wCN49piyT6El4TQZrMy3YGkI7l.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Revolução
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2012 a 2013
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPs - 42 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Um grupo de pessoas luta para sobreviver e se reunir com seus entes queridos em um mundo onde todas as formas de energia desapareceram misteriosamente.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS5[COLOR yellow] -> [COLOR white]Ressurreição (2014-2015) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/refs/heads/main/C39-SRS-Ressurreisao.2014-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/mDRIRj0LH1dJZ8dz44WInL4HrFW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/nnunKGQjGusYsCaT7mTTlfexnw4.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Ressurreição
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2014 a 2015
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPs - 21 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O povo de Arcadia muda quando seus entes queridos e já falecidos começam a reaparecer. Jacob, um menino americano, acorda em uma província chinesa. Ele lembra que sua cidade natal é Arcadia e J. Martin Bellamy o leva até lá. Henry e Lucille Langston perderam o filho há mais de 30 anos. Jacob os reconhece como seus pais. A família quer respostas.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "S"				
@@ -630,18 +869,80 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Star Trek a Série Original (1966-1968) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/D07B1-SRS-Star.Trek.Classica.1966-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/xH37StqHBet4ehmqUTWXULKi3ZK.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/gSbuesTy4tCv3g1AcSnqEBfRoc.jpg</fanart>
+<name>[COLOR white][B]See (2019-2021) - ATUALIZANDO[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/C12-SRS-See-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/g3JsScc7mQCfc3e5e5rXwu7xVVP.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/tuJhN1HJ6k5188GKHyyHy582OjK.jpg</fanart>
+<info>Assista a série See . 
+[COLOR orange][B]FICÇÃO E FANTASIA[/B][/COLOR]
+[COLOR orange][B]03 TEMPS - 24 EPs[/B][/COLOR]
+[COLOR orange][B]ANOS - 2019 a 2021[/B][/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Se Eu Não Tivesse Te Conhecido (2018) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/C13-SRS-Se.Eu.N.T.T.Conhecido-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/jNoIr7E2PkBB5y9ON7TDiJuuPDB.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xn1Xg1r7ub567mGHzM01fCgp5MF.jpg</fanart>
+<info>Assista a série Se Eu Não Tivesse Te Conhecido. 
+[COLOR orange][B]FICÇÃO E FANTASIA[/B][/COLOR]
+[COLOR orange][B]01 TEMP - 10 EPs[/B][/COLOR]
+[COLOR orange][B]ANO - 2018[/B][/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Sítio do Picapau Amarelo - Ano 2 (1978) - INCOMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2F-LS-AVT-ALL/main/D01B1-SRS-Picapau.Amarelo.Ano.2.1978-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/cmNM6ZengfCUr2pPj1n8cjQhbQD.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dZ7cfEmjITHm8LpmApaubWG8Tzd.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
-[B]Star Trek a Série Original
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1966 a 1968
+[B]Sítio do Picapau Amarelo - Ano 2
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1978
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FANTASIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]09 TEMPs - 180 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A 2ª temporada de Sítio do Picapau Amarelo começou a ser exibida em 6 de março de 1978.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Star Trek (Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/D07B-SRS-Star.Trek-ALL</externallink>
+<thumbnail>https://i.ibb.co/V9L3Pdc/ESP-STAR-TREK-SRS.png</thumbnail>
+<fanart>https://i.ibb.co/sjXSpdQ/ESP-STAR-TREK-FAN.png</fanart>
+<info>[COLOR white]Conheça a seção de séries: 
+[B]Star Trek
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]03 TEMPs - 79 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]O imperturbável Cap. James T. Kirk leva a icônica e intergalática tripulação da 
-USS Enterprise nesta série pioneira sobre a exploração espacial.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Star Wars (Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/D04B-SRS-Star.Wars-ALL</externallink>
+<thumbnail>https://i.ibb.co/Z1stqdt/ESP-STAR-WARS-SRS.png</thumbnail>
+<fanart>https://i.ibb.co/gy9dGmP/ESP-STAR-WARS-FAN.png</fanart>
+<info>[COLOR white]Conheça a seção de séries: 
+[B]Star Wars
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
 [/B][COLOR black].[/COLOR]
 Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
@@ -656,22 +957,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Tarzan (1966-1967) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2F-LS-AVT-ALL/main/D04B-SRS-Tarzan-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/keL3WMJW45o7rd5aKDPMG3bgf1p.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/m5hwoZJVMBxHQ5RpKwvqN1NlUIF.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Tarzan
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1966 a 1967
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AVENTURA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPs - 57 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]No coração da selva, uma criança foi encontrada e criada pelos grandes macacos. 
-O menino recebeu o nome de Tarzan
-[/B][COLOR black].[/COLOR]
-Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
+<name>[COLOR white][B]Taken (2002) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/C24-SRS-Taken-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/ooPBolAXa0TwgmJu4sWKnYkh8ej.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1vwBRGRh4q4ngYfqIfxGdiIdgNa.jpg</fanart>
+<info>Assista a série Taken. 
+[COLOR orange][B]FICÇÃO E FANTASIA[/B][/COLOR]
+[COLOR orange][B]01 TEMPS - 10 EPs[/B][/COLOR]
+[COLOR orange][B]ANO - 2002[/B][/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -700,43 +993,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]The Big Valley (1965-1968) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/main/C017-SRS-The.Big.Valley.1965-ALL</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/5J323H8Dl0dX6IEsMXhaxcLIQW5.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/v57TanoRlAwBye6UOF1s6O7GFDf.jpg</fanart>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]The Witcher (2019-2023) - ATUALIZANDO[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/C2-SRS-The.Witcher-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/AeviafFfWUhfzdcsiX7S9655rWV.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/udwyPqbwWlpqvMgfbRemOahzc7z.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
-[B]The Big Valley
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1965 a 1968
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPs - 112 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]The Big Valley é uma série de faroeste exibida na ABC de 15 de setembro de 1965 a 
-19 de maio de 1969. O programa é estrelado por Barbara Stanwyck, como a viúva de um rico fazendeiro da Califórnia do século XIX.
-[/B][COLOR black].[/COLOR]
-Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]The Rat Patrol (1966-1968) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2C-LS-GRR-ALL/main/C6-SRS-The.Rat.Patrol-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/wHJQ7QpmcqY0x6kGdlAwoJToUmo.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/qj8GmDzclHfpENki7x6WoUNt6UP.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]The Rat Patrol
+[B]The Witcher
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1966 a 1968
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]GUERRA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPS - 58 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]As façanhas de quatro soldados aliados – três americanos e um inglês – que fazem 
-parte de um grupo de patrulha do deserto de longo alcance na campanha do Norte de África durante a Segunda Guerra Mundial. 
-[/B][COLOR black].[/COLOR]
-[COLOR white]Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.[/COLOR]</info>
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2019 a 2023
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FANTASIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]03 TEMPs - 24 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O mutante Geralt de Rívia é um caçador de monstros que luta para encontrar seu lugar num mundo onde as pessoas muitas vezes são mais perversas que as criaturas selvagens.
+[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -748,6 +1016,24 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "V"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+<channels>
+<channel>
+<name>[COLOR white][B]Viagem ao Centro da Terra (2023)  - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/C29-SRS-Viagem.ao.Centro.da.Terra-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/yZWwdaanwexHwaGhJQqVj5Rsrbb.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cupeVwHI3Ofhui0lUuxzxjCKFrx.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Viagem ao Centro da Terra
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANO - 2023
+[COLOR orange]FICÇÃO E FANTASIA
+[COLOR orange]01 TEMPs - 08 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Diego é enviado por seus pais a um acampamento. Lá encontra o carro abandonado de sua avó e, seguindo seus passos, chega a um misterioso portal para outra dimensão.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
@@ -771,32 +1057,6 @@ Avise o SUPORTE AO USUÁRIO.
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR white][B]Vigilante Rodoviário (1962) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/C38-SRS-Vigilante.Rodoviario-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/jEgC5T5cO3NrST9s9tWXKioImd0.jpg</thumbnail>
-<fanart>https://tinyurl.com/vigl-rodhttps://tinyurl.com/vigl-rod
-<info>[COLOR white]Assista aqui a série: 
-[B]Vigilante Rodoviário
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white] - INCOMPLETA
-[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1962
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]03 TEMPs - 38 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O heroico Inspetor Carlos e seu fiel cão Lobo combatendo o crime. O personagem principal 
-é membro da Policia Rodoviária e a história é ambientada nas estradas paulistas.
-[COLOR black].[/COLOR]
-Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "W"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "X"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
@@ -806,14 +1066,19 @@ LETRA "Y"
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "W"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "Z"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR black].[/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/7-NOST-ALL-LS/main/5B4-SRS-60-NOST-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/C-LS-SRS-FCFN-ALL</externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
 </channel>
@@ -823,7 +1088,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR orange][B]MENU DE RETORNO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/7-NOST-ALL-LS/main/5B4-SRS-60-NOST-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/C-LS-SRS-FCFN-ALL</externallink>
 <thumbnail>https://i.ibb.co/nbZ50B0/SEL-ITEM.png</thumbnail>
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
 </channel>
