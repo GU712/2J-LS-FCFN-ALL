@@ -414,8 +414,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Ghost Whisperer (2005-2009) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/C34-SRS-Ghost.Whisperer-ALL</externallink>
+<name>[COLOR white][B]Ghost Whisperer (2005-2009) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/refs/heads/main/C034-SRS-Ghost.Whisperer.2005-ALL</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/nIboXXCporMO9Xskq7Rsf45Z6qW.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/dWhMavg03rBGM96JSQmiUGcj3WE.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
@@ -424,7 +424,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2005 a 2009
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FANTASIA
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]05 TEMPs - 107 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Melinda Gordon se comunica com espíritos presos na Terra – fantasmas que se agarram aos vivos porque têm assuntos pendentes que os impedem de ir além do nosso plano de existência.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Melinda Gordon se comunica com espíritos presos na Terra – fantasmas que se agarram 
+aos vivos porque têm assuntos pendentes que os impedem de ir além do nosso plano de existência.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
