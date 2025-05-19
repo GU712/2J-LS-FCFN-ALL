@@ -466,14 +466,22 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Halo (2022) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/C17-SRS-Halo-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/kZ4WEkyWG0XJL71PIEpYdbDHOuz.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/iyMn57ekOof5DcXJx4tXvoI6qAO.jpg</fanart>
-<info>Assista a série Halo. 
-[COLOR orange][B]FICÇÃO E FANTASIA[/B][/COLOR]
-[COLOR orange][B]01 TEMPS - 09 EPs[/B][/COLOR]
-[COLOR orange][B]ANOS - 2022[/B][/COLOR]</info>
+<name>[COLOR white][B]Halo (2022-2024) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/refs/heads/main/C017-SRS-Halo.2022-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/hmHA5jqxN3ESIAGx0jAwV7TJhTQ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/zW0v2YT74C6tRafzqqBkfSqLAN0.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Halo
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2022 a 2024
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPs - 17 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Um drama de ficção científica humano e ricamente imaginado, que se passa na 
+colonização interestelar do século XXVI.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
